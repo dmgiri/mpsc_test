@@ -1,0 +1,405 @@
+<!doctype html>
+<html lang="mr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>MPSC Marathi Varnamala Practice Test — Mocha V2</title>
+<style>
+
+:root{
+ --rosewater:#f5e0dc;--flamingo:#f2cdcd;--pink:#f5c2e7;--mauve:#cba6f7;
+ --red:#f38ba8;--maroon:#eba0ac;--peach:#fab387;--yellow:#f9e2af;
+ --green:#a6e3a1;--teal:#94e2d5;--sky:#89dceb;--sapphire:#74c7ec;
+ --blue:#89b4fa;--lavender:#b4befe;--text:#cdd6f4;--sub1:#bac2de;
+ --sub0:#a6adc8;--overlay:#6c7086;--surface2:#585b70;--surface1:#45475a;
+ --surface0:#313244;--base:#1e1e2e;--mantle:#181825;--crust:#11111b;
+ --glass:rgba(49,50,68,.54);--glass2:rgba(30,30,46,.64);
+ --line:rgba(205,214,244,.115);--shadow:0 18px 48px rgba(0,0,0,.30);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+ margin:0;min-height:100vh;color:var(--text);
+ font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;
+ background:
+   radial-gradient(700px 420px at 4% 0%,rgba(137,180,250,.13),transparent 62%),
+   radial-gradient(700px 420px at 98% 8%,rgba(203,166,247,.12),transparent 62%),
+   linear-gradient(150deg,var(--crust),var(--base) 52%,var(--mantle));
+}
+button{font:inherit;color:inherit}
+button,.opt{display:flex;align-items:flex-start;gap:10px;padding:11px 12px;border-radius:12px;border:1px solid var(--line);background:rgba(30,30,46,.43);cursor:pointer;font-size:14px;line-height:1.48;position:relative;overflow:hidden;transition:transform .16s cubic-bezier(.2,.75,.25,1),border-color .18s ease,background .18s ease,box-shadow .18s ease}
+
+/* ULTRA-COMPACT HEADER */
+.top{
+ position:sticky;top:0;z-index:40;
+ background:rgba(17,17,27,.64);
+ border-bottom:1px solid var(--line);
+ backdrop-filter:blur(22px) saturate(150%);
+ -webkit-backdrop-filter:blur(22px) saturate(150%);
+}
+.topin{
+ max-width:1400px;margin:auto;min-height:50px;padding:6px 12px;
+ display:grid;grid-template-columns:minmax(0,1fr) 78px 72px;
+ align-items:center;gap:7px;
+}
+.brand{display:flex;align-items:center;gap:8px;min-width:0}
+.logo{
+ width:31px;height:31px;border-radius:10px;display:grid;place-items:center;flex:0 0 auto;
+ background:linear-gradient(135deg,var(--blue),var(--mauve));color:var(--crust);
+ font-weight:950;font-size:8px;letter-spacing:-.2px;
+ box-shadow:0 6px 18px rgba(137,180,250,.2)
+}
+.brand-copy{min-width:0}
+.brand h1{margin:0;font-size:14px;line-height:1.15;font-weight:900;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.brand p{margin:2px 0 0;font-size:9px;color:var(--sub0);white-space:nowrap}
+.timer{
+ width:78px;min-width:0;padding:4px 5px;text-align:center;border-radius:10px;
+ border:1px solid var(--line);background:rgba(49,50,68,.48);
+ font-size:13px;line-height:1.05;font-weight:950;
+ box-shadow:inset 0 1px 0 rgba(255,255,255,.03)
+}
+.timer small{display:block;font-size:6.5px;letter-spacing:.45px;color:var(--sub0);margin-bottom:2px}
+.submit{
+ width:72px;padding:8px 5px;border-radius:10px;border:1px solid rgba(243,139,168,.22);
+ background:linear-gradient(135deg,var(--red),var(--maroon));color:var(--crust);
+ font-size:9.5px;font-weight:950;cursor:pointer;position:relative;overflow:hidden;
+ box-shadow:0 6px 18px rgba(243,139,168,.14);
+ transition:transform .16s ease,box-shadow .2s ease,filter .2s ease
+}
+.submit:hover{filter:brightness(1.05);box-shadow:0 8px 22px rgba(243,139,168,.22)}
+.submit:active{transform:scale(.94)}
+
+/* EXAM */
+.wrap{
+ max-width:1400px;margin:auto;padding:11px;
+ display:grid;grid-template-columns:minmax(0,1fr) 278px;gap:11px;align-items:start
+}
+.card,.side,.result{
+ border:1px solid var(--line);
+ background:linear-gradient(145deg,rgba(49,50,68,.56),rgba(30,30,46,.52));
+ backdrop-filter:blur(20px) saturate(135%);
+ -webkit-backdrop-filter:blur(20px) saturate(135%);
+ box-shadow:var(--shadow);border-radius:15px
+}
+.card{min-height:500px;padding:15px;display:flex;flex-direction:column;overflow:hidden}
+.meta{display:flex;align-items:center;justify-content:space-between;gap:7px;flex-wrap:wrap}
+.chips{display:flex;gap:5px;flex-wrap:wrap}
+.chip{padding:5px 8px;border-radius:999px;font-size:10px;font-weight:850;background:rgba(137,180,250,.10);border:1px solid rgba(137,180,250,.13);color:var(--blue)}
+.chip.trend{background:rgba(249,226,175,.09);border-color:rgba(249,226,175,.12);color:var(--yellow)}
+.progress{height:5px;min-width:110px;border-radius:999px;overflow:hidden;background:rgba(69,71,90,.72)}
+.progress i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--blue),var(--mauve));transition:width .3s ease}
+.q{font-size:clamp(17px,1.65vw,22px);line-height:1.5;font-weight:820;margin:16px 0 14px}
+.options{display:grid;gap:7px}
+.opt{
+ display:flex;align-items:flex-start;gap:9px;padding:9px 10px;border-radius:11px;
+ border:1px solid var(--line);background:rgba(30,30,46,.43);cursor:pointer;
+ font-size:11.5px;line-height:1.42;position:relative;overflow:hidden;
+ transition:transform .16s cubic-bezier(.2,.75,.25,1),border-color .18s ease,background .18s ease,box-shadow .18s ease
+}
+.opt:hover{transform:translateY(-1px);border-color:rgba(137,180,250,.34);background:rgba(49,50,68,.72)}
+.opt:active{transform:scale(.988)}
+.opt.sel{
+ border-color:rgba(137,180,250,.62);
+ background:linear-gradient(135deg,rgba(137,180,250,.14),rgba(203,166,247,.09));
+ box-shadow:0 0 0 1px rgba(137,180,250,.06),0 8px 22px rgba(0,0,0,.13)
+}
+.letter{width:25px;height:25px;flex:0 0 auto;border-radius:8px;display:grid;place-items:center;background:rgba(88,91,112,.52);font-size:11px;font-weight:950;color:var(--sub1);transition:transform .2s cubic-bezier(.2,.8,.2,1),background .2s ease,color .2s ease}
+.opt.sel .letter{background:linear-gradient(135deg,var(--blue),var(--mauve));color:var(--crust);transform:scale(1.08) rotate(-2deg)}
+.opt input{display:none}
+.actions{margin-top:auto;padding-top:16px;display:flex;justify-content:space-between;gap:8px}
+.btn{border:1px solid var(--line);border-radius:10px;padding:10px 13px;font-size:12px;font-weight:850;cursor:pointer;position:relative;overflow:hidden;transition:transform .15s ease,box-shadow .18s ease,filter .18s ease,background .18s ease}
+.btn:hover{transform:translateY(-1px)}.btn:active{transform:scale(.95)}
+.btn:disabled{opacity:.36;cursor:not-allowed;transform:none}
+.secondary{background:rgba(69,71,90,.62)}
+.primary{background:linear-gradient(135deg,var(--blue),var(--mauve));border-color:transparent;color:var(--crust);box-shadow:0 6px 18px rgba(137,180,250,.13)}
+.review{background:rgba(249,226,175,.10);color:var(--yellow);border-color:rgba(249,226,175,.16)}
+
+/* PALETTE */
+.side{position:sticky;top:63px;padding:12px}
+.side h3{margin:0 0 9px;font-size:11.5px}
+.palette{display:grid;grid-template-columns:repeat(5,1fr);gap:5px}
+.qn{
+ aspect-ratio:1;border-radius:8px;border:1px solid var(--line);
+ background:rgba(30,30,46,.42);font-size:9.5px;font-weight:900;color:var(--sub1);
+ cursor:pointer;position:relative;overflow:hidden;
+ transition:transform .14s ease,background .18s ease,border-color .18s ease,box-shadow .18s ease
+}
+.qn:hover{transform:translateY(-1px);background:rgba(69,71,90,.72)}.qn:active{transform:scale(.90)}
+.qn.cur{background:linear-gradient(135deg,var(--blue),var(--mauve));color:var(--crust);border-color:transparent;box-shadow:0 6px 16px rgba(137,180,250,.16)}
+.qn.ans:not(.cur){background:rgba(166,227,161,.16);color:var(--green);border-color:rgba(166,227,161,.28)}
+.qn.rev:not(.cur){background:rgba(249,226,175,.13);color:var(--yellow);border-color:rgba(249,226,175,.26)}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:5px;margin-top:10px}
+.stat{padding:7px 2px;border-radius:9px;text-align:center;background:rgba(30,30,46,.42);border:1px solid rgba(205,214,244,.05)}
+.stat b{display:block;font-size:13px}.stat span{font-size:6.5px;color:var(--sub0);text-transform:uppercase}
+.sideBtns{display:grid;gap:6px;margin-top:9px}
+
+
+
+/* COMPACT PYQ/FREQUENCY LINE */
+.qmeta-line{
+  display:flex;
+  align-items:center;
+  flex-wrap:wrap;
+  gap:7px;
+  margin:10px 0 2px;
+  padding:8px 10px;
+  border-radius:10px;
+  border:1px solid rgba(205,214,244,.10);
+  background:rgba(30,30,46,.34);
+  font-size:11.5px;
+  line-height:1.35;
+}
+.qmeta-line .pyq-tag{
+  color:var(--mauve);
+  font-weight:900;
+}
+.qmeta-line .freq-tag{
+  color:var(--green);
+  font-weight:900;
+}
+.qmeta-line .dot-sep{
+  color:var(--overlay);
+  font-weight:900;
+}
+@media(max-width:620px){
+  .qmeta-line{
+    font-size:11px;
+    padding:7px 9px;
+    margin-top:8px;
+  }
+}
+
+/* MOBILE PALETTE */
+.mobileNav{
+ display:none;position:fixed;right:11px;bottom:11px;z-index:35;width:43px;height:43px;
+ border-radius:50%;border:1px solid var(--line);background:rgba(49,50,68,.80);color:var(--blue);
+ font-size:16px;box-shadow:var(--shadow);backdrop-filter:blur(15px);cursor:pointer;
+ transition:transform .15s ease
+}
+.mobileNav:active{transform:scale(.88)}
+.overlay{display:none}
+
+/* DASHBOARD */
+.result{display:none;max-width:1050px;margin:14px auto;padding:17px}.result.show{display:block;animation:viewIn .32s ease both}.hide{display:none!important}
+.hero{text-align:center;padding:4px}.hero h2{font-size:16px;margin:5px 0 10px}.score{font-size:38px;font-weight:950;line-height:1;color:var(--blue)}
+.kpis{display:grid;grid-template-columns:repeat(5,1fr);gap:7px;margin:13px 0}
+.kpi{padding:9px;border-radius:11px;text-align:center;background:rgba(30,30,46,.40);border:1px solid rgba(205,214,244,.05)}
+.kpi b{display:block;font-size:16px}.kpi span{font-size:7.5px;color:var(--sub0)}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.panel{padding:11px;border-radius:12px;border:1px solid var(--line);background:rgba(30,30,46,.28)}
+.panel h3{font-size:12.5px;margin-top:0}.topicRow{margin:8px 0}.topicTop{display:flex;justify-content:space-between;gap:8px;font-size:9.5px;font-weight:750}
+.bar{height:6px;margin-top:4px;border-radius:999px;overflow:hidden;background:rgba(69,71,90,.70)}.bar span{display:block;height:100%;background:linear-gradient(90deg,var(--blue),var(--mauve))}
+.focusItem{padding:8px;border-radius:9px;background:rgba(30,30,46,.42);margin:6px 0;font-size:10.5px}.focusItem.bad{border-left:3px solid var(--red)}.focusItem.good{border-left:3px solid var(--green)}
+.reviewList{display:grid;gap:7px;margin-top:10px}.ri{padding:9px;border-radius:10px;border:1px solid var(--line);background:rgba(30,30,46,.28);font-size:10.5px}
+.ri.ok{border-left:4px solid var(--green)}.ri.bad{border-left:4px solid var(--red)}.ri.skip{border-left:4px solid var(--overlay)}
+.small{font-size:9.5px;color:var(--sub0);line-height:1.45}
+.confetti{position:fixed;top:-16px;width:7px;height:12px;z-index:1000;animation:fall linear forwards;pointer-events:none;border-radius:2px}
+
+/* CLICK RIPPLE */
+.ripple{
+ position:absolute;border-radius:999px;pointer-events:none;
+ background:rgba(205,214,244,.20);transform:scale(0);
+ animation:ripple .42s ease-out forwards
+}
+@keyframes ripple{to{transform:scale(4);opacity:0}}
+@keyframes viewIn{from{opacity:0;transform:translateY(7px) scale(.995)}to{opacity:1;transform:none}}
+@keyframes fall{to{transform:translateY(110vh) rotate(720deg);opacity:.72}}
+
+@media(max-width:900px){
+ .wrap{grid-template-columns:1fr;padding:8px}
+ .card{min-height:calc(100vh - 67px);padding:12px}
+ .side{
+  position:fixed;left:0;right:0;bottom:0;top:auto;z-index:60;max-height:66vh;overflow:auto;
+  border-radius:17px 17px 0 0;background:rgba(24,24,37,.93);
+  transform:translateY(105%);transition:transform .25s cubic-bezier(.2,.8,.2,1)
+ }
+ .side.open{transform:translateY(0)}
+ .overlay.open{display:block;position:fixed;inset:0;z-index:55;background:rgba(17,17,27,.60);backdrop-filter:blur(3px)}
+ .mobileNav{display:block}.grid2{grid-template-columns:1fr}.kpis{grid-template-columns:repeat(2,1fr)}
+}
+@media(max-width:620px){
+ .topin{min-height:44px;padding:5px 6px;grid-template-columns:minmax(0,1fr) 62px 58px;gap:5px}
+ .brand{gap:6px}.logo{width:27px;height:27px;border-radius:8px;font-size:7px}
+ .brand h1{font-size:10.5px}.brand p{font-size:6.8px;margin-top:1px}
+ .timer{width:62px;padding:3px 3px;font-size:11px;border-radius:8px}.timer small{font-size:5.8px;margin-bottom:1px}
+ .submit{width:58px;padding:6px 3px;border-radius:8px;font-size:8px}
+ .wrap{padding:6px}.card{padding:10px;border-radius:13px}
+ .q{font-size:13.5px;margin:12px 0 10px;line-height:1.42}
+ .options{gap:6px}.opt{font-size:11px;padding:8px 9px;border-radius:10px}.letter{width:21px;height:21px}
+ .chip{font-size:7.5px;padding:3px 6px}.progress{min-width:92px;height:4px}
+ .actions{position:sticky;bottom:0;padding-top:13px;padding-bottom:1px;background:linear-gradient(to top,rgba(49,50,68,.96) 75%,rgba(49,50,68,0))}
+ .btn{flex:1;padding:8px 7px;font-size:9.5px}.result{margin:6px;padding:11px}.score{font-size:34px}
+}
+@media(max-width:380px){
+ .topin{grid-template-columns:minmax(0,1fr) 58px 54px}
+ .timer{width:58px}.submit{width:54px}.brand h1{font-size:10px}
+}
+
+
+@media(max-width:620px){
+  .brand h1{font-size:12.5px}
+  .brand p{font-size:8px}
+  .q{font-size:17px;line-height:1.48;margin:14px 0 12px}
+  .opt{font-size:14px;line-height:1.45;padding:10px 11px}
+  .letter{width:24px;height:24px;font-size:10.5px}
+  .chip{font-size:9px;padding:4px 7px}
+  .btn{font-size:11px;padding:9px 9px}
+  
+  
+  
+  
+  
+}
+
+
+/* V4 READABILITY OVERRIDES */
+.q{font-size:clamp(18px,1.8vw,21px)!important;line-height:1.55!important;font-weight:820!important}
+.opt{font-size:15px!important;line-height:1.5!important;padding:12px 13px!important}
+.letter{width:27px!important;height:27px!important;font-size:12px!important}
+.chip{font-size:10.5px!important;padding:5px 8px!important}
+
+
+
+
+
+
+
+
+@media(max-width:620px){
+ .q{font-size:17px!important;line-height:1.52!important}
+ .opt{font-size:14px!important;line-height:1.48!important;padding:11px!important}
+ 
+ 
+ .classNote,
+ .chip{font-size:9.5px!important}
+}
+
+</style>
+
+</head>
+<body>
+<header class="top" id="top"><div class="topin">
+  <div class="brand"><div class="logo">MPSC</div><div class="brand-copy"><h1>Marathi Varnamala</h1><p>MPSC • 50 Questions • Mocha V2</p></div></div>
+  <div class="timer"><small>TIME LEFT</small><span id="clock">45:00</span></div>
+  <button class="submit" id="submit">Submit</button>
+</div></header>
+
+<main class="wrap" id="exam">
+<section class="card">
+  <div class="meta">
+    <div class="chips"><span class="chip" id="qno"></span><span class="chip" id="topic"></span><span class="chip" id="difficulty"></span><span class="chip trend" id="trend"></span></div>
+    <div class="progress"><i id="prog"></i></div>
+  </div>
+  <div class="qmeta-line" id="qmetaLine">
+  <span class="pyq-tag" id="compactPyq">PYQ: —</span>
+  <span class="dot-sep">•</span>
+  <span class="freq-tag" id="compactFreq">Frequency: —</span>
+</div>
+<h2 class="q" id="qtext"></h2>
+  <div class="options" id="opts"></div>
+  <div class="actions"><button class="btn secondary" id="prev">← Previous</button><button class="btn primary" id="next">Save & Next →</button></div>
+</section>
+<aside class="side" id="side">
+  <h3>Question Palette</h3>
+  <div class="palette" id="palette"></div>
+  <div class="stats"><div class="stat"><b id="ac">0</b><span>Answered</span></div><div class="stat"><b id="uc">50</b><span>Remaining</span></div><div class="stat"><b id="rc">0</b><span>Review</span></div></div>
+  <div class="sideBtns"><button class="btn review" id="review">Mark / Unmark Review</button><button class="btn secondary" id="clear">Clear Answer</button></div>
+</aside>
+</main>
+<button class="mobileNav" id="mobile">☰</button><div class="overlay" id="overlay"></div>
+
+<section class="result" id="result">
+<div class="hero"><h2>MPSC Marathi Varnamala Practice Test — Dashboard</h2><div class="score" id="score">0%</div><h3 id="message"></h3><p class="small" id="summary"></p></div>
+<div class="kpis">
+ <div class="kpi"><b id="kCorrect">0</b><span>Correct</span></div><div class="kpi"><b id="kWrong">0</b><span>Wrong</span></div><div class="kpi"><b id="kSkip">0</b><span>Unattempted</span></div><div class="kpi"><b id="kAcc">0%</b><span>Accuracy</span></div><div class="kpi"><b id="kTime">0m</b><span>Time Used</span></div>
+</div>
+<div class="grid2">
+ <div class="panel"><h3>Topic-wise Performance</h3><div id="topicPerf"></div></div>
+ <div class="panel"><h3>Where should I focus?</h3><div id="focus"></div></div>
+</div>
+<div class="panel" style="margin-top:16px"><h3>Detailed Question Analysis</h3><div class="reviewList" id="reviewList"></div></div>
+<div style="margin-top:16px"><button class="btn primary" id="restart">Start New Attempt</button></div>
+</section>
+
+<script>
+const raw=[{"q":"ज्या वर्णांचा उच्चार इतर कोणत्याही वर्णाच्या मदतीशिवाय पूर्ण होतो, त्यांना काय म्हणतात?","o":["स्वर","व्यंजन","संयुक्ताक्षरे","अनुस्वार"],"a":0,"t":"मूलभूत संकल्पना","d":"Easy","trend":"High","x":"स्वरांचा उच्चार स्वतंत्रपणे करता येतो.","pyq_status":"PYQ-pattern foundation","frequency":"Frequently Tested","upcoming":"Medium-High","evidence":"स्वर/व्यंजन definitions are foundational to the वर्णमाला classification questions that appear in MPSC Marathi grammar.","source_label":"MPSC Marathi grammar PYQ collection","source_url":"https://testbook.com/mpsc-group-c/previous-year-papers","checked_on":"20 Sep 2026"},{"q":"ज्या वर्णांचा स्पष्ट उच्चार होण्यासाठी स्वराची मदत लागते, त्यांना काय म्हणतात?","o":["स्वर","व्यंजन","मात्रा","विसर्ग"],"a":1,"t":"मूलभूत संकल्पना","d":"Easy","trend":"High","x":"व्यंजनाचा पूर्ण उच्चार स्वराच्या साहाय्याने होतो.","pyq_status":"PYQ-pattern foundation","frequency":"Frequently Tested","upcoming":"Medium-High","evidence":"स्वर/व्यंजन definitions are foundational to the वर्णमाला classification questions that appear in MPSC Marathi grammar.","source_label":"MPSC Marathi grammar PYQ collection","source_url":"https://testbook.com/mpsc-group-c/previous-year-papers","checked_on":"20 Sep 2026"},{"q":"‘क, ख, ग, घ, ङ’ हा कोणता व्यंजनवर्ग आहे?","o":["क-वर्ग","च-वर्ग","ट-वर्ग","प-वर्ग"],"a":0,"t":"व्यंजनवर्ग","d":"Easy","trend":"High","x":"क, ख, ग, घ, ङ हा क-वर्ग आहे.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"Recent MPSC Marathi papers test consonant classification such as महाप्राण and उष्मे; क-वर्ग ते प-वर्ग is the foundation of that same unit.","source_label":"Recent MPSC Marathi PYQ pattern","source_url":"https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708","checked_on":"20 Sep 2026"},{"q":"‘च, छ, ज, झ, ञ’ हा कोणता व्यंजनवर्ग आहे?","o":["क-वर्ग","च-वर्ग","त-वर्ग","प-वर्ग"],"a":1,"t":"व्यंजनवर्ग","d":"Easy","trend":"High","x":"च, छ, ज, झ, ञ हा च-वर्ग आहे.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"Recent MPSC Marathi papers test consonant classification such as महाप्राण and उष्मे; क-वर्ग ते प-वर्ग is the foundation of that same unit.","source_label":"Recent MPSC Marathi PYQ pattern","source_url":"https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708","checked_on":"20 Sep 2026"},{"q":"‘ट, ठ, ड, ढ, ण’ हा कोणता व्यंजनवर्ग आहे?","o":["ट-वर्ग","त-वर्ग","च-वर्ग","क-वर्ग"],"a":0,"t":"व्यंजनवर्ग","d":"Easy","trend":"High","x":"ट, ठ, ड, ढ, ण हा ट-वर्ग आहे.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"Recent MPSC Marathi papers test consonant classification such as महाप्राण and उष्मे; क-वर्ग ते प-वर्ग is the foundation of that same unit.","source_label":"Recent MPSC Marathi PYQ pattern","source_url":"https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708","checked_on":"20 Sep 2026"},{"q":"‘त, थ, द, ध, न’ हा कोणता व्यंजनवर्ग आहे?","o":["प-वर्ग","त-वर्ग","ट-वर्ग","च-वर्ग"],"a":1,"t":"व्यंजनवर्ग","d":"Easy","trend":"High","x":"त, थ, द, ध, न हा त-वर्ग आहे.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"Recent MPSC Marathi papers test consonant classification such as महाप्राण and उष्मे; क-वर्ग ते प-वर्ग is the foundation of that same unit.","source_label":"Recent MPSC Marathi PYQ pattern","source_url":"https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708","checked_on":"20 Sep 2026"},{"q":"‘प, फ, ब, भ, म’ हा कोणता व्यंजनवर्ग आहे?","o":["क-वर्ग","ट-वर्ग","प-वर्ग","त-वर्ग"],"a":2,"t":"व्यंजनवर्ग","d":"Easy","trend":"High","x":"प, फ, ब, भ, म हा प-वर्ग आहे.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"Recent MPSC Marathi papers test consonant classification such as महाप्राण and उष्मे; क-वर्ग ते प-वर्ग is the foundation of that same unit.","source_label":"Recent MPSC Marathi PYQ pattern","source_url":"https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708","checked_on":"20 Sep 2026"},{"q":"‘क-वर्ग’ातील वर्णांचे प्रमुख उच्चारस्थान कोणते?","o":["कंठ","तालू","मूर्धा","ओठ"],"a":0,"t":"उच्चारस्थान","d":"Easy","trend":"High","x":"क-वर्ग कंठ्य मानला जातो.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"MPSC language papers repeatedly test वर्णांचे वर्गीकरण and pronunciation properties. A State Service Marathi paper also tested स्वरांचे प्रकार/उच्चारस्थान-linked classification.","source_label":"MPSC State Service Mains 2019 + recent Group C pattern","source_url":"https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e","checked_on":"20 Sep 2026"},{"q":"‘च-वर्ग’ातील वर्णांचे प्रमुख उच्चारस्थान कोणते?","o":["कंठ","तालू","दात","ओठ"],"a":1,"t":"उच्चारस्थान","d":"Easy","trend":"High","x":"च-वर्ग तालव्य वर्ग आहे.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"MPSC language papers repeatedly test वर्णांचे वर्गीकरण and pronunciation properties. A State Service Marathi paper also tested स्वरांचे प्रकार/उच्चारस्थान-linked classification.","source_label":"MPSC State Service Mains 2019 + recent Group C pattern","source_url":"https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e","checked_on":"20 Sep 2026"},{"q":"‘ट-वर्ग’ातील वर्णांचे प्रमुख उच्चारस्थान कोणते?","o":["मूर्धा","तालू","दात","ओठ"],"a":0,"t":"उच्चारस्थान","d":"Easy","trend":"High","x":"ट-वर्ग मूर्धन्य आहे.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"MPSC language papers repeatedly test वर्णांचे वर्गीकरण and pronunciation properties. A State Service Marathi paper also tested स्वरांचे प्रकार/उच्चारस्थान-linked classification.","source_label":"MPSC State Service Mains 2019 + recent Group C pattern","source_url":"https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e","checked_on":"20 Sep 2026"},{"q":"‘त-वर्ग’ातील वर्णांचे प्रमुख उच्चारस्थान कोणते?","o":["तालू","दात","कंठ","ओठ"],"a":1,"t":"उच्चारस्थान","d":"Easy","trend":"High","x":"त-वर्ग दंत्य आहे.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"MPSC language papers repeatedly test वर्णांचे वर्गीकरण and pronunciation properties. A State Service Marathi paper also tested स्वरांचे प्रकार/उच्चारस्थान-linked classification.","source_label":"MPSC State Service Mains 2019 + recent Group C pattern","source_url":"https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e","checked_on":"20 Sep 2026"},{"q":"‘प-वर्ग’ातील वर्णांचे प्रमुख उच्चारस्थान कोणते?","o":["मूर्धा","दात","ओठ","कंठ"],"a":2,"t":"उच्चारस्थान","d":"Easy","trend":"High","x":"प-वर्ग ओष्ठ्य आहे.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"MPSC language papers repeatedly test वर्णांचे वर्गीकरण and pronunciation properties. A State Service Marathi paper also tested स्वरांचे प्रकार/उच्चारस्थान-linked classification.","source_label":"MPSC State Service Mains 2019 + recent Group C pattern","source_url":"https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e","checked_on":"20 Sep 2026"},{"q":"‘व’ या वर्णाचे उच्चारस्थान कोणते मानले जाते?","o":["कंठ्य","दंतोष्ठ्य","मूर्धन्य","तालव्य"],"a":1,"t":"उच्चारस्थान","d":"Medium","trend":"High","x":"‘व’ उच्चारताना दात व ओठ यांचा सहभाग असल्याने तो दंतोष्ठ्य आहे.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"MPSC language papers repeatedly test वर्णांचे वर्गीकरण and pronunciation properties. A State Service Marathi paper also tested स्वरांचे प्रकार/उच्चारस्थान-linked classification.","source_label":"MPSC State Service Mains 2019 + recent Group C pattern","source_url":"https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e","checked_on":"20 Sep 2026"},{"q":"‘ए’ आणि ‘ऐ’ यांचे संयुक्त उच्चारस्थान कोणते?","o":["कंठतालव्य","कंठोष्ठ्य","दंतोष्ठ्य","मूर्धन्य"],"a":0,"t":"उच्चारस्थान","d":"Medium","trend":"High","x":"ए, ऐ यांना कंठतालव्य मानले जाते.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"MPSC language papers repeatedly test वर्णांचे वर्गीकरण and pronunciation properties. A State Service Marathi paper also tested स्वरांचे प्रकार/उच्चारस्थान-linked classification.","source_label":"MPSC State Service Mains 2019 + recent Group C pattern","source_url":"https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e","checked_on":"20 Sep 2026"},{"q":"‘ओ’ आणि ‘औ’ यांचे संयुक्त उच्चारस्थान कोणते?","o":["तालव्य","कंठोष्ठ्य","दंत्य","मूर्धन्य"],"a":1,"t":"उच्चारस्थान","d":"Medium","trend":"High","x":"ओ, औ यांना कंठोष्ठ्य मानले जाते.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"MPSC language papers repeatedly test वर्णांचे वर्गीकरण and pronunciation properties. A State Service Marathi paper also tested स्वरांचे प्रकार/उच्चारस्थान-linked classification.","source_label":"MPSC State Service Mains 2019 + recent Group C pattern","source_url":"https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e","checked_on":"20 Sep 2026"},{"q":"‘ऋ’ या वर्णाचे उच्चारस्थान कोणते?","o":["मूर्धन्य","ओष्ठ्य","दंत्य","कंठ्य"],"a":0,"t":"उच्चारस्थान","d":"Medium","trend":"High","x":"स्पर्धा परीक्षा व्याकरणात ऋ हा मूर्धन्य मानला जातो.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"MPSC language papers repeatedly test वर्णांचे वर्गीकरण and pronunciation properties. A State Service Marathi paper also tested स्वरांचे प्रकार/उच्चारस्थान-linked classification.","source_label":"MPSC State Service Mains 2019 + recent Group C pattern","source_url":"https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e","checked_on":"20 Sep 2026"},{"q":"‘इ’ आणि ‘ई’ या स्वरांचे उच्चारस्थान कोणते?","o":["तालव्य","ओष्ठ्य","कंठ्य","दंत्य"],"a":0,"t":"उच्चारस्थान","d":"Medium","trend":"High","x":"इ, ई हे तालव्य स्वर आहेत.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"MPSC language papers repeatedly test वर्णांचे वर्गीकरण and pronunciation properties. A State Service Marathi paper also tested स्वरांचे प्रकार/उच्चारस्थान-linked classification.","source_label":"MPSC State Service Mains 2019 + recent Group C pattern","source_url":"https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e","checked_on":"20 Sep 2026"},{"q":"‘उ’ आणि ‘ऊ’ या स्वरांचे उच्चारस्थान कोणते?","o":["दंत्य","मूर्धन्य","ओष्ठ्य","तालव्य"],"a":2,"t":"उच्चारस्थान","d":"Medium","trend":"High","x":"उ, ऊ उच्चारताना ओठांचा मुख्य सहभाग असतो.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"MPSC language papers repeatedly test वर्णांचे वर्गीकरण and pronunciation properties. A State Service Marathi paper also tested स्वरांचे प्रकार/उच्चारस्थान-linked classification.","source_label":"MPSC State Service Mains 2019 + recent Group C pattern","source_url":"https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e","checked_on":"20 Sep 2026"},{"q":"‘अ’ आणि ‘आ’ या स्वरांचे उच्चारस्थान कोणते?","o":["कंठ्य","तालव्य","ओष्ठ्य","दंत्य"],"a":0,"t":"उच्चारस्थान","d":"Medium","trend":"High","x":"अ, आ हे कंठ्य स्वर आहेत.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"MPSC language papers repeatedly test वर्णांचे वर्गीकरण and pronunciation properties. A State Service Marathi paper also tested स्वरांचे प्रकार/उच्चारस्थान-linked classification.","source_label":"MPSC State Service Mains 2019 + recent Group C pattern","source_url":"https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e","checked_on":"20 Sep 2026"},{"q":"खालीलपैकी कोणता मूर्धन्य वर्ण आहे?","o":["ल","ळ","य","व"],"a":1,"t":"उच्चारस्थान","d":"Medium","trend":"High","x":"‘ळ’ हा मराठीतील महत्त्वाचा मूर्धन्य वर्ण आहे.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"MPSC language papers repeatedly test वर्णांचे वर्गीकरण and pronunciation properties. A State Service Marathi paper also tested स्वरांचे प्रकार/उच्चारस्थान-linked classification.","source_label":"MPSC State Service Mains 2019 + recent Group C pattern","source_url":"https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e","checked_on":"20 Sep 2026"},{"q":"खालीलपैकी कोणता तालव्य वर्ण आहे?","o":["य","र","ल","व"],"a":0,"t":"उच्चारस्थान","d":"Medium","trend":"High","x":"‘य’ हा तालव्य अंतस्थ वर्ण मानला जातो.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"MPSC language papers repeatedly test वर्णांचे वर्गीकरण and pronunciation properties. A State Service Marathi paper also tested स्वरांचे प्रकार/उच्चारस्थान-linked classification.","source_label":"MPSC State Service Mains 2019 + recent Group C pattern","source_url":"https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e","checked_on":"20 Sep 2026"},{"q":"खालीलपैकी कोणता मूर्धन्य अंतस्थ वर्ण आहे?","o":["य","र","ल","व"],"a":1,"t":"उच्चारस्थान","d":"Medium","trend":"Medium","x":"‘र’ चे उच्चारस्थान मूर्धा मानले जाते.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"MPSC language papers repeatedly test वर्णांचे वर्गीकरण and pronunciation properties. A State Service Marathi paper also tested स्वरांचे प्रकार/उच्चारस्थान-linked classification.","source_label":"MPSC State Service Mains 2019 + recent Group C pattern","source_url":"https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e","checked_on":"20 Sep 2026"},{"q":"खालीलपैकी कोणता दंत्य अंतस्थ वर्ण आहे?","o":["य","र","ल","व"],"a":2,"t":"उच्चारस्थान","d":"Medium","trend":"Medium","x":"‘ल’ हा दंत्य वर्ण आहे.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"MPSC language papers repeatedly test वर्णांचे वर्गीकरण and pronunciation properties. A State Service Marathi paper also tested स्वरांचे प्रकार/उच्चारस्थान-linked classification.","source_label":"MPSC State Service Mains 2019 + recent Group C pattern","source_url":"https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e","checked_on":"20 Sep 2026"},{"q":"खालीलपैकी कोणता तालव्य ऊष्म वर्ण आहे?","o":["श","ष","स","ह"],"a":0,"t":"ऊष्म व अंतस्थ","d":"Medium","trend":"High","x":"श हा तालव्य ऊष्म वर्ण आहे.","pyq_status":"Verified PYQ topic","frequency":"Most Asked / Frequent","upcoming":"High","evidence":"An MPSC official paper asked ‘श्, ष्, स्, ह्’ कोणत्या उच्चार प्रकारातील आहेत? Answer: उष्मे. The same वर्णवर्ग family is directly relevant.","source_label":"MPSC Subordinate Services Mains 2020","source_url":"https://testbook.com/question-answer/ques--635be523a1f10a1efef8b4cf","checked_on":"20 Sep 2026"},{"q":"खालीलपैकी कोणता मूर्धन्य ऊष्म वर्ण आहे?","o":["श","ष","स","ह"],"a":1,"t":"ऊष्म व अंतस्थ","d":"Medium","trend":"High","x":"ष हा मूर्धन्य वर्ण आहे.","pyq_status":"Verified PYQ topic","frequency":"Most Asked / Frequent","upcoming":"High","evidence":"An MPSC official paper asked ‘श्, ष्, स्, ह्’ कोणत्या उच्चार प्रकारातील आहेत? Answer: उष्मे. The same वर्णवर्ग family is directly relevant.","source_label":"MPSC Subordinate Services Mains 2020","source_url":"https://testbook.com/question-answer/ques--635be523a1f10a1efef8b4cf","checked_on":"20 Sep 2026"},{"q":"खालीलपैकी कोणता दंत्य ऊष्म वर्ण आहे?","o":["श","ष","स","ह"],"a":2,"t":"ऊष्म व अंतस्थ","d":"Medium","trend":"High","x":"स हा दंत्य ऊष्म वर्ण आहे.","pyq_status":"Verified PYQ topic","frequency":"Most Asked / Frequent","upcoming":"High","evidence":"An MPSC official paper asked ‘श्, ष्, स्, ह्’ कोणत्या उच्चार प्रकारातील आहेत? Answer: उष्मे. The same वर्णवर्ग family is directly relevant.","source_label":"MPSC Subordinate Services Mains 2020","source_url":"https://testbook.com/question-answer/ques--635be523a1f10a1efef8b4cf","checked_on":"20 Sep 2026"},{"q":"‘ह’ या वर्णाचे प्रमुख उच्चारस्थान कोणते?","o":["कंठ्य","दंत्य","ओष्ठ्य","मूर्धन्य"],"a":0,"t":"उच्चारस्थान","d":"Medium","trend":"Medium","x":"ह हा कंठ्य वर्ण मानला जातो.","pyq_status":"PYQ-pattern concept","frequency":"Frequently Tested","upcoming":"High","evidence":"MPSC language papers repeatedly test वर्णांचे वर्गीकरण and pronunciation properties. A State Service Marathi paper also tested स्वरांचे प्रकार/उच्चारस्थान-linked classification.","source_label":"MPSC State Service Mains 2019 + recent Group C pattern","source_url":"https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e","checked_on":"20 Sep 2026"},{"q":"‘य, र, ल, व’ या समूहाला सामान्यतः काय म्हणतात?","o":["अंतस्थ व्यंजने","स्पर्श व्यंजने","अनुनासिक व्यंजने","संयुक्ताक्षरे"],"a":0,"t":"ऊष्म व अंतस्थ","d":"Easy","trend":"High","x":"य, र, ल, व ही अंतस्थ व्यंजने आहेत.","pyq_status":"Verified PYQ topic","frequency":"Most Asked / Frequent","upcoming":"High","evidence":"An MPSC official paper asked ‘श्, ष्, स्, ह्’ कोणत्या उच्चार प्रकारातील आहेत? Answer: उष्मे. The same वर्णवर्ग family is directly relevant.","source_label":"MPSC Subordinate Services Mains 2020","source_url":"https://testbook.com/question-answer/ques--635be523a1f10a1efef8b4cf","checked_on":"20 Sep 2026"},{"q":"‘श, ष, स, ह’ या समूहाला कोणत्या प्रकारात ठेवले जाते?","o":["ऊष्म व्यंजने","अंतस्थ व्यंजने","अनुनासिक व्यंजने","स्वर"],"a":0,"t":"ऊष्म व अंतस्थ","d":"Easy","trend":"High","x":"स्पर्धा परीक्षा व्याकरणात श, ष, स, ह हे ऊष्म म्हणून ओळखले जातात.","pyq_status":"Verified PYQ topic","frequency":"Most Asked / Frequent","upcoming":"High","evidence":"An MPSC official paper asked ‘श्, ष्, स्, ह्’ कोणत्या उच्चार प्रकारातील आहेत? Answer: उष्मे. The same वर्णवर्ग family is directly relevant.","source_label":"MPSC Subordinate Services Mains 2020","source_url":"https://testbook.com/question-answer/ques--635be523a1f10a1efef8b4cf","checked_on":"20 Sep 2026"},{"q":"प्रत्येक स्पर्श व्यंजनवर्गातील पाचवा वर्ण प्रामुख्याने कोणत्या प्रकारचा असतो?","o":["अनुनासिक","महाप्राण अघोष","अंतस्थ","ऊष्म"],"a":0,"t":"घोष-प्राण व नासिक्य","d":"Medium","trend":"High","x":"ङ, ञ, ण, न, म हे अनुक्रमे पाचव्या स्थानावरील अनुनासिक वर्ण आहेत.","pyq_status":"PYQ-linked • 2025 Mains","frequency":"Most Asked / Frequent","upcoming":"High","evidence":"MPSC Group C 2025 Mains Paper-I (held 12 Jul 2026) directly asked which letters are महाप्राण. This makes महाप्राण/अल्पप्राण/घोष-अघोष classification a very recent active area.","source_label":"MPSC Group C 2025 Mains Paper-I","source_url":"https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708","checked_on":"20 Sep 2026"},{"q":"क-वर्गातील अनुनासिक वर्ण कोणता?","o":["घ","ङ","ग","ख"],"a":1,"t":"घोष-प्राण व नासिक्य","d":"Easy","trend":"High","x":"क-वर्गातील पाचवा वर्ण ‘ङ’ अनुनासिक आहे.","pyq_status":"PYQ-linked • 2025 Mains","frequency":"Most Asked / Frequent","upcoming":"High","evidence":"MPSC Group C 2025 Mains Paper-I (held 12 Jul 2026) directly asked which letters are महाप्राण. This makes महाप्राण/अल्पप्राण/घोष-अघोष classification a very recent active area.","source_label":"MPSC Group C 2025 Mains Paper-I","source_url":"https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708","checked_on":"20 Sep 2026"},{"q":"च-वर्गातील अनुनासिक वर्ण कोणता?","o":["ज","झ","ञ","छ"],"a":2,"t":"घोष-प्राण व नासिक्य","d":"Easy","trend":"High","x":"च-वर्गातील पाचवा वर्ण ‘ञ’ आहे.","pyq_status":"PYQ-linked • 2025 Mains","frequency":"Most Asked / Frequent","upcoming":"High","evidence":"MPSC Group C 2025 Mains Paper-I (held 12 Jul 2026) directly asked which letters are महाप्राण. This makes महाप्राण/अल्पप्राण/घोष-अघोष classification a very recent active area.","source_label":"MPSC Group C 2025 Mains Paper-I","source_url":"https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708","checked_on":"20 Sep 2026"},{"q":"ट-वर्गातील अनुनासिक वर्ण कोणता?","o":["ण","ड","ढ","ठ"],"a":0,"t":"घोष-प्राण व नासिक्य","d":"Easy","trend":"High","x":"ट-वर्गातील पाचवा वर्ण ‘ण’ आहे.","pyq_status":"PYQ-linked • 2025 Mains","frequency":"Most Asked / Frequent","upcoming":"High","evidence":"MPSC Group C 2025 Mains Paper-I (held 12 Jul 2026) directly asked which letters are महाप्राण. This makes महाप्राण/अल्पप्राण/घोष-अघोष classification a very recent active area.","source_label":"MPSC Group C 2025 Mains Paper-I","source_url":"https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708","checked_on":"20 Sep 2026"},{"q":"त-वर्गातील अनुनासिक वर्ण कोणता?","o":["द","ध","न","थ"],"a":2,"t":"घोष-प्राण व नासिक्य","d":"Easy","trend":"High","x":"त-वर्गातील पाचवा वर्ण ‘न’ आहे.","pyq_status":"PYQ-linked • 2025 Mains","frequency":"Most Asked / Frequent","upcoming":"High","evidence":"MPSC Group C 2025 Mains Paper-I (held 12 Jul 2026) directly asked which letters are महाप्राण. This makes महाप्राण/अल्पप्राण/घोष-अघोष classification a very recent active area.","source_label":"MPSC Group C 2025 Mains Paper-I","source_url":"https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708","checked_on":"20 Sep 2026"},{"q":"प-वर्गातील अनुनासिक वर्ण कोणता?","o":["ब","भ","म","फ"],"a":2,"t":"घोष-प्राण व नासिक्य","d":"Easy","trend":"High","x":"प-वर्गातील पाचवा वर्ण ‘म’ आहे.","pyq_status":"PYQ-linked • 2025 Mains","frequency":"Most Asked / Frequent","upcoming":"High","evidence":"MPSC Group C 2025 Mains Paper-I (held 12 Jul 2026) directly asked which letters are महाप्राण. This makes महाप्राण/अल्पप्राण/घोष-अघोष classification a very recent active area.","source_label":"MPSC Group C 2025 Mains Paper-I","source_url":"https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708","checked_on":"20 Sep 2026"},{"q":"स्पर्श व्यंजनवर्गातील पहिला वर्ण सामान्यतः कसा असतो?","o":["अघोष अल्पप्राण","अघोष महाप्राण","सघोष अल्पप्राण","सघोष महाप्राण"],"a":0,"t":"घोष-प्राण व नासिक्य","d":"Hard","trend":"High","x":"क, च, ट, त, प हे अघोष अल्पप्राण वर्ण आहेत.","pyq_status":"PYQ-linked • 2025 Mains","frequency":"Most Asked / Frequent","upcoming":"High","evidence":"MPSC Group C 2025 Mains Paper-I (held 12 Jul 2026) directly asked which letters are महाप्राण. This makes महाप्राण/अल्पप्राण/घोष-अघोष classification a very recent active area.","source_label":"MPSC Group C 2025 Mains Paper-I","source_url":"https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708","checked_on":"20 Sep 2026"},{"q":"स्पर्श व्यंजनवर्गातील दुसरा वर्ण सामान्यतः कसा असतो?","o":["सघोष अल्पप्राण","अघोष महाप्राण","सघोष महाप्राण","अनुनासिक"],"a":1,"t":"घोष-प्राण व नासिक्य","d":"Hard","trend":"High","x":"ख, छ, ठ, थ, फ हे अघोष महाप्राण आहेत.","pyq_status":"PYQ-linked • 2025 Mains","frequency":"Most Asked / Frequent","upcoming":"High","evidence":"MPSC Group C 2025 Mains Paper-I (held 12 Jul 2026) directly asked which letters are महाप्राण. This makes महाप्राण/अल्पप्राण/घोष-अघोष classification a very recent active area.","source_label":"MPSC Group C 2025 Mains Paper-I","source_url":"https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708","checked_on":"20 Sep 2026"},{"q":"स्पर्श व्यंजनवर्गातील तिसरा वर्ण सामान्यतः कसा असतो?","o":["सघोष अल्पप्राण","अघोष अल्पप्राण","सघोष महाप्राण","अघोष महाप्राण"],"a":0,"t":"घोष-प्राण व नासिक्य","d":"Hard","trend":"High","x":"ग, ज, ड, द, ब हे सघोष अल्पप्राण आहेत.","pyq_status":"PYQ-linked • 2025 Mains","frequency":"Most Asked / Frequent","upcoming":"High","evidence":"MPSC Group C 2025 Mains Paper-I (held 12 Jul 2026) directly asked which letters are महाप्राण. This makes महाप्राण/अल्पप्राण/घोष-अघोष classification a very recent active area.","source_label":"MPSC Group C 2025 Mains Paper-I","source_url":"https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708","checked_on":"20 Sep 2026"},{"q":"स्पर्श व्यंजनवर्गातील चौथा वर्ण सामान्यतः कसा असतो?","o":["अघोष महाप्राण","सघोष महाप्राण","सघोष अल्पप्राण","अनुनासिक"],"a":1,"t":"घोष-प्राण व नासिक्य","d":"Hard","trend":"High","x":"घ, झ, ढ, ध, भ हे सघोष महाप्राण आहेत.","pyq_status":"PYQ-linked • 2025 Mains","frequency":"Most Asked / Frequent","upcoming":"High","evidence":"MPSC Group C 2025 Mains Paper-I (held 12 Jul 2026) directly asked which letters are महाप्राण. This makes महाप्राण/अल्पप्राण/घोष-अघोष classification a very recent active area.","source_label":"MPSC Group C 2025 Mains Paper-I","source_url":"https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708","checked_on":"20 Sep 2026"},{"q":"खालीलपैकी अघोष महाप्राण वर्ण कोणता?","o":["क","ख","ग","घ"],"a":1,"t":"घोष-प्राण व नासिक्य","d":"Medium","trend":"High","x":"ख हा क-वर्गातील दुसरा म्हणजे अघोष महाप्राण वर्ण आहे.","pyq_status":"PYQ-linked • 2025 Mains","frequency":"Most Asked / Frequent","upcoming":"High","evidence":"MPSC Group C 2025 Mains Paper-I (held 12 Jul 2026) directly asked which letters are महाप्राण. This makes महाप्राण/अल्पप्राण/घोष-अघोष classification a very recent active area.","source_label":"MPSC Group C 2025 Mains Paper-I","source_url":"https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708","checked_on":"20 Sep 2026"},{"q":"खालीलपैकी सघोष अल्पप्राण वर्ण कोणता?","o":["क","ख","ग","घ"],"a":2,"t":"घोष-प्राण व नासिक्य","d":"Medium","trend":"High","x":"ग हा क-वर्गातील तिसरा म्हणजे सघोष अल्पप्राण वर्ण आहे.","pyq_status":"PYQ-linked • 2025 Mains","frequency":"Most Asked / Frequent","upcoming":"High","evidence":"MPSC Group C 2025 Mains Paper-I (held 12 Jul 2026) directly asked which letters are महाप्राण. This makes महाप्राण/अल्पप्राण/घोष-अघोष classification a very recent active area.","source_label":"MPSC Group C 2025 Mains Paper-I","source_url":"https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708","checked_on":"20 Sep 2026"},{"q":"खालीलपैकी सघोष महाप्राण वर्ण कोणता?","o":["च","छ","ज","झ"],"a":3,"t":"घोष-प्राण व नासिक्य","d":"Medium","trend":"High","x":"झ हा च-वर्गातील चौथा म्हणजे सघोष महाप्राण वर्ण आहे.","pyq_status":"PYQ-linked • 2025 Mains","frequency":"Most Asked / Frequent","upcoming":"High","evidence":"MPSC Group C 2025 Mains Paper-I (held 12 Jul 2026) directly asked which letters are महाप्राण. This makes महाप्राण/अल्पप्राण/घोष-अघोष classification a very recent active area.","source_label":"MPSC Group C 2025 Mains Paper-I","source_url":"https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708","checked_on":"20 Sep 2026"},{"q":"‘अं’ या चिन्हाला काय म्हणतात?","o":["अनुस्वार","विसर्ग","अवग्रह","हलंत"],"a":0,"t":"चिन्हे व संयुक्ताक्षरे","d":"Easy","trend":"High","x":"‘ं’ हे अनुस्वार चिन्ह आहे.","pyq_status":"Exact PYQ not verified","frequency":"Regular Grammar Area","upcoming":"Medium","evidence":"This is a standard Marathi grammar area, but the exact question wording was not verified in the indexed MPSC Group C papers checked.","source_label":"MPSC Group C Marathi syllabus/papers","source_url":"https://testbook.com/mpsc-group-c/syllabus-exam-pattern","checked_on":"20 Sep 2026"},{"q":"‘अः’ मधील ‘ः’ या चिन्हाला काय म्हणतात?","o":["अनुस्वार","विसर्ग","चंद्रबिंदू","मात्रा"],"a":1,"t":"चिन्हे व संयुक्ताक्षरे","d":"Easy","trend":"High","x":"‘ः’ हे विसर्ग चिन्ह आहे.","pyq_status":"Exact PYQ not verified","frequency":"Regular Grammar Area","upcoming":"Medium","evidence":"This is a standard Marathi grammar area, but the exact question wording was not verified in the indexed MPSC Group C papers checked.","source_label":"MPSC Group C Marathi syllabus/papers","source_url":"https://testbook.com/mpsc-group-c/syllabus-exam-pattern","checked_on":"20 Sep 2026"},{"q":"‘क्ष’ हे कोणत्या प्रकारचे रूप आहे?","o":["संयुक्ताक्षर","स्वर","मात्रा","अनुस्वार"],"a":0,"t":"चिन्हे व संयुक्ताक्षरे","d":"Easy","trend":"High","x":"क्ष हे व्यंजनांच्या संयोगातून तयार झालेले संयुक्ताक्षर आहे.","pyq_status":"Exact PYQ not verified","frequency":"Regular Grammar Area","upcoming":"Medium","evidence":"This is a standard Marathi grammar area, but the exact question wording was not verified in the indexed MPSC Group C papers checked.","source_label":"MPSC Group C Marathi syllabus/papers","source_url":"https://testbook.com/mpsc-group-c/syllabus-exam-pattern","checked_on":"20 Sep 2026"},{"q":"‘त्र’ हे प्रामुख्याने कोणत्या दोन घटकांच्या संयोगातून लिहिले जाते?","o":["त् + र","ट् + र","त् + ल","थ् + र"],"a":0,"t":"चिन्हे व संयुक्ताक्षरे","d":"Medium","trend":"Medium","x":"त्र = त् + र.","pyq_status":"Exact PYQ not verified","frequency":"Regular Grammar Area","upcoming":"Medium","evidence":"This is a standard Marathi grammar area, but the exact question wording was not verified in the indexed MPSC Group C papers checked.","source_label":"MPSC Group C Marathi syllabus/papers","source_url":"https://testbook.com/mpsc-group-c/syllabus-exam-pattern","checked_on":"20 Sep 2026"},{"q":"‘श्र’ हे प्रामुख्याने कोणत्या संयोगातून तयार होते?","o":["स् + र","श् + र","ष् + र","श् + ल"],"a":1,"t":"चिन्हे व संयुक्ताक्षरे","d":"Medium","trend":"Medium","x":"श्र = श् + र.","pyq_status":"Exact PYQ not verified","frequency":"Regular Grammar Area","upcoming":"Medium","evidence":"This is a standard Marathi grammar area, but the exact question wording was not verified in the indexed MPSC Group C papers checked.","source_label":"MPSC Group C Marathi syllabus/papers","source_url":"https://testbook.com/mpsc-group-c/syllabus-exam-pattern","checked_on":"20 Sep 2026"},{"q":"‘ज्ञ’ हे देवनागरी लेखनात कोणत्या संयोगाचे संयुक्ताक्षर मानले जाते?","o":["ज् + ञ","ग् + य","द् + न","ज् + न"],"a":0,"t":"चिन्हे व संयुक्ताक्षरे","d":"Hard","trend":"Medium","x":"देवनागरीच्या पारंपरिक रचनेत ज्ञ = ज् + ञ असे लिहिले जाते.","pyq_status":"Exact PYQ not verified","frequency":"Regular Grammar Area","upcoming":"Medium","evidence":"This is a standard Marathi grammar area, but the exact question wording was not verified in the indexed MPSC Group C papers checked.","source_label":"MPSC Group C Marathi syllabus/papers","source_url":"https://testbook.com/mpsc-group-c/syllabus-exam-pattern","checked_on":"20 Sep 2026"},{"q":"व्यंजनाला विविध स्वर जोडून तयार होणाऱ्या मालिकेला काय म्हणतात?","o":["बाराखडी","वर्णक्रम","विसर्ग","संधी"],"a":0,"t":"चिन्हे व संयुक्ताक्षरे","d":"Easy","trend":"Medium","x":"व्यंजन + स्वरचिन्हांच्या क्रमाला बाराखडी म्हणतात.","pyq_status":"Exact PYQ not verified","frequency":"Regular Grammar Area","upcoming":"Medium","evidence":"This is a standard Marathi grammar area, but the exact question wording was not verified in the indexed MPSC Group C papers checked.","source_label":"MPSC Group C Marathi syllabus/papers","source_url":"https://testbook.com/mpsc-group-c/syllabus-exam-pattern","checked_on":"20 Sep 2026"},{"q":"व्यंजनाला जोडल्या जाणाऱ्या स्वरचिन्हाला सामान्यतः काय म्हणतात?","o":["मात्रा","अनुस्वार","विसर्ग","हलंत"],"a":0,"t":"चिन्हे व संयुक्ताक्षरे","d":"Easy","trend":"High","x":"स्वरांचे व्यंजनाशी जोडले जाणारे चिन्ह म्हणजे मात्रा.","pyq_status":"Exact PYQ not verified","frequency":"Regular Grammar Area","upcoming":"Medium","evidence":"This is a standard Marathi grammar area, but the exact question wording was not verified in the indexed MPSC Group C papers checked.","source_label":"MPSC Group C Marathi syllabus/papers","source_url":"https://testbook.com/mpsc-group-c/syllabus-exam-pattern","checked_on":"20 Sep 2026"}];
+const KEY="mpsc_marathi_varnamala_v1";
+const state={idx:0,answers:Array(raw.length).fill(null),review:Array(raw.length).fill(false),left:45*60,started:Date.now(),submitted:false};
+let questions=raw.map((q,i)=>({...q,id:i}));
+function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
+function buildFresh(){
+ questions=shuffle(raw.map((q,i)=>{let arr=q.o.map((v,idx)=>({v,correct:idx===q.a}));shuffle(arr);return {...q,id:i,o:arr.map(z=>z.v),a:arr.findIndex(z=>z.correct)}}));
+}
+function save(){}
+function restore(){return false}
+try{localStorage.removeItem(KEY)}catch(e){}
+buildFresh();
+const $=id=>document.getElementById(id);
+function render(){
+ const card=document.querySelector(".card");
+ if(card){
+   card.animate(
+     [{opacity:.60,transform:"translateX(8px) scale(.997)"},{opacity:1,transform:"translateX(0) scale(1)"}],
+     {duration:230,easing:"cubic-bezier(.2,.8,.2,1)"}
+   );
+ }
+ const q=questions[state.idx]; $("qno").textContent=`Question ${state.idx+1}/50`; $("topic").textContent=q.t; $("difficulty").textContent=q.d; $("trend").textContent=`Past Frequency: ${q.frequency||"Core Practice"} • Upcoming Relevance: ${q.upcoming||"Medium"} • ${q.pyq_status||"Exact PYQ not verified"}`;
+ $("qtext").textContent=q.q;
+ $("compactPyq").textContent="PYQ: "+(q.pyq_status||"Exact PYQ not verified");
+ $("compactFreq").textContent="Frequency: "+(q.frequency||"Core Practice");
+ $("opts").innerHTML="";
+ q.o.forEach((v,i)=>{const lab=document.createElement("label");lab.className="opt"+(state.answers[state.idx]===i?" sel":"");lab.innerHTML=`<input type="radio" name="a"><span class="letter">${String.fromCharCode(65+i)}</span><span>${v}</span>`;lab.onclick=()=>{state.answers[state.idx]=i;save();render()};$("opts").appendChild(lab)});
+ $("prev").disabled=state.idx===0;$("next").textContent=state.idx===49?"Finish →":"Save & Next →";
+ const answered=state.answers.filter(v=>v!==null).length;$("prog").style.width=(answered/50*100)+"%";$("ac").textContent=answered;$("uc").textContent=50-answered;$("rc").textContent=state.review.filter(Boolean).length;
+ palette();
+}
+function palette(){$("palette").innerHTML="";questions.forEach((q,i)=>{let b=document.createElement("button");b.className="qn"+(i===state.idx?" cur":state.review[i]?" rev":state.answers[i]!==null?" ans":"");b.textContent=i+1;b.onclick=()=>{state.idx=i;save();render();closeSide()};$("palette").appendChild(b)})}
+function closeSide(){$("side").classList.remove("open");$("overlay").classList.remove("open")}
+$("mobile").onclick=()=>{$("side").classList.add("open");$("overlay").classList.add("open")};$("overlay").onclick=closeSide;
+$("prev").onclick=()=>{if(state.idx>0){state.idx--;save();render()}};
+$("next").onclick=()=>{if(state.idx<49){state.idx++;save();render()}else submit()};
+$("review").onclick=()=>{state.review[state.idx]=!state.review[state.idx];save();render()};
+$("clear").onclick=()=>{state.answers[state.idx]=null;save();render()};
+$("submit").onclick=submit;
+function submit(){
+ const rem=state.answers.filter(v=>v===null).length;if(!confirm(rem?`You have ${rem} unanswered question(s). Submit now?`:"Submit test now?"))return;
+ state.submitted=true;localStorage.removeItem(KEY);dashboard()
+}
+function dashboard(){
+ let correct=0,wrong=0,skip=0;const topicMap={};
+ questions.forEach((q,i)=>{const ans=state.answers[i];const ok=ans===q.a;if(ans===null)skip++;else if(ok)correct++;else wrong++;
+  if(!topicMap[q.t])topicMap[q.t]={total:0,correct:0,attempted:0};topicMap[q.t].total++;if(ans!==null)topicMap[q.t].attempted++;if(ok)topicMap[q.t].correct++;
+ });
+ const pct=Math.round(correct/50*100),acc=Math.round(correct/Math.max(1,correct+wrong)*100),used=Math.max(0,45*60-state.left);
+ $("top").classList.add("hide");$("exam").classList.add("hide");$("mobile").classList.add("hide");$("result").classList.add("show");
+ $("score").textContent=pct+"%";$("kCorrect").textContent=correct;$("kWrong").textContent=wrong;$("kSkip").textContent=skip;$("kAcc").textContent=acc+"%";$("kTime").textContent=Math.floor(used/60)+"m "+(used%60)+"s";
+ $("message").textContent=pct>=70?"🎉 Congratulations! Excellent milestone achieved!":pct>=50?"Good attempt — strengthen the weaker areas.":"Build the basics first, then retake the test.";
+ $("summary").textContent=`Score: ${correct}/50. Trend labels are practice priorities based on recurring exam concepts, not predictions or guarantees.`;
+ if(pct>=70)confetti();
+ const entries=Object.entries(topicMap).map(([name,v])=>({name,...v,p:Math.round(v.correct/v.total*100)})).sort((a,b)=>a.p-b.p);
+ $("topicPerf").innerHTML=entries.map(e=>`<div class="topicRow"><div class="topicTop"><span>${e.name}</span><span>${e.correct}/${e.total} • ${e.p}%</span></div><div class="bar"><span style="width:${e.p}%"></span></div></div>`).join("");
+ $("focus").innerHTML=entries.map(e=>`<div class="focusItem ${e.p<60?"bad":e.p>=80?"good":""}"><b>${e.name}: ${e.p}%</b><div class="small">${e.p<60?"Priority focus: revise concepts and solve another 20–30 MCQs from this subtopic.":e.p<80?"Needs reinforcement: review mistakes and retest.":"Strong area: maintain with quick revision."}</div></div>`).join("");
+ $("reviewList").innerHTML=questions.map((q,i)=>{const a=state.answers[i],cls=a===null?"skip":a===q.a?"ok":"bad";return `<div class="ri ${cls}"><b>Q${i+1}. ${q.q}</b><div class="small">Topic: ${q.t} • Difficulty: ${q.d} • Past Frequency: ${q.frequency||"Core Practice"} • Upcoming Relevance: ${q.upcoming||"Medium"} • ${q.pyq_status||"Exact PYQ not verified"}<br>Your answer: ${a===null?"Not answered":q.o[a]}<br>Correct answer: ${q.o[q.a]}<br><b>Explanation:</b> ${q.x}</div></div>`}).join("");
+ window.scrollTo({top:0,behavior:"smooth"})
+}
+function confetti(){const colors=["#3457d5","#159455","#e6a400","#d6455d","#8b5cf6"];for(let i=0;i<110;i++){let c=document.createElement("i");c.className="confetti";c.style.left=Math.random()*100+"vw";c.style.background=colors[i%colors.length];c.style.animationDuration=(2.5+Math.random()*3)+"s";c.style.animationDelay=(Math.random()*1.2)+"s";c.style.transform=`rotate(${Math.random()*360}deg)`;document.body.appendChild(c);setTimeout(()=>c.remove(),6500)}}
+$("restart").onclick=()=>{localStorage.removeItem(KEY);location.reload()};
+function tick(){if(state.submitted)return;const m=String(Math.floor(state.left/60)).padStart(2,"0"),s=String(state.left%60).padStart(2,"0");$("clock").textContent=m+":"+s;if(state.left<=0){state.submitted=true;localStorage.removeItem(KEY);dashboard();return}state.left--;if(state.left%5===0)save()}
+
+document.addEventListener("pointerdown",e=>{
+ const target=e.target.closest("button,.opt");
+ if(!target)return;
+ const r=target.getBoundingClientRect();
+ const size=Math.max(r.width,r.height);
+ const wave=document.createElement("span");
+ wave.className="ripple";
+ wave.style.width=wave.style.height=size+"px";
+ wave.style.left=(e.clientX-r.left-size/2)+"px";
+ wave.style.top=(e.clientY-r.top-size/2)+"px";
+ target.appendChild(wave);
+ setTimeout(()=>wave.remove(),460);
+});
+render();tick();setInterval(tick,1000);
+</script>
+
+</body></html>
