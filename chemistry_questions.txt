@@ -1,0 +1,553 @@
+Chemistry / रसायनशास्त्र
+Your existing 50 questions, options, answer keys and explanations retained.
+Practice resource. PYQ source status and adaptations are marked per question.
+
+1. [PRACTICE] अणूच्या केंद्रकात कोणते कण आढळतात?
+   (1) प्रोटॉन व न्यूट्रॉन
+   (2) इलेक्ट्रॉन व प्रोटॉन
+   (3) फक्त इलेक्ट्रॉन
+   (4) इलेक्ट्रॉन व न्यूट्रॉन
+उत्तर / Answer: (1) प्रोटॉन व न्यूट्रॉन
+Explanation: केंद्रकात प्रोटॉन व न्यूट्रॉन असतात; इलेक्ट्रॉन केंद्रकाभोवती असतात.
+Source: MPSC Chemistry PYQs 2021–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+2. [PRACTICE] इलेक्ट्रॉनचा विद्युतभार कसा असतो?
+   (1) धन
+   (2) ऋण
+   (3) उदासीन
+   (4) परिवर्ती
+उत्तर / Answer: (2) ऋण
+Explanation: इलेक्ट्रॉनवर ऋण विद्युतभार असतो.
+Source: MPSC Chemistry PYQs 2021–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+3. [PRACTICE] प्रोटॉनचा विद्युतभार कसा असतो?
+   (1) ऋण
+   (2) धन
+   (3) उदासीन
+   (4) शून्य वस्तुमान
+उत्तर / Answer: (2) धन
+Explanation: प्रोटॉनवर धन विद्युतभार असतो.
+Source: MPSC Chemistry PYQs 2021–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+4. [PRACTICE] अणुक्रमांक (Atomic Number) कशाच्या संख्येइतका असतो?
+   (1) न्यूट्रॉन
+   (2) प्रोटॉन
+   (3) न्यूट्रॉन + इलेक्ट्रॉन
+   (4) फक्त वस्तुमान संख्या
+उत्तर / Answer: (2) प्रोटॉन
+Explanation: अणुक्रमांक = केंद्रकातील प्रोटॉनची संख्या.
+Source: MPSC Chemistry PYQs 2021–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+5. [PRACTICE] वस्तुमान संख्या (Mass Number) = ?
+   (1) प्रोटॉन + न्यूट्रॉन
+   (2) प्रोटॉन + इलेक्ट्रॉन
+   (3) न्यूट्रॉन − प्रोटॉन
+   (4) इलेक्ट्रॉन + न्यूट्रॉन
+उत्तर / Answer: (1) प्रोटॉन + न्यूट्रॉन
+Explanation: वस्तुमान संख्या म्हणजे प्रोटॉन व न्यूट्रॉन यांची बेरीज.
+Source: MPSC Chemistry PYQs 2021–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+6. [PRACTICE] समस्थानिकांमध्ये (Isotopes) काय समान असते?
+   (1) वस्तुमान संख्या
+   (2) अणुक्रमांक
+   (3) न्यूट्रॉन संख्या
+   (4) भौतिक गुणधर्म नेहमीच सर्व समान
+उत्तर / Answer: (2) अणुक्रमांक
+Explanation: समस्थानिकांचा अणुक्रमांक समान पण वस्तुमान संख्या वेगळी असते.
+Source: MPSC Chemistry PYQs 2021–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+7. [PRACTICE] सोडियमचा अणुक्रमांक 11 आहे. तटस्थ सोडियम अणूमध्ये इलेक्ट्रॉन किती?
+   (1) 10
+   (2) 11
+   (3) 12
+   (4) 22
+उत्तर / Answer: (2) 11
+Explanation: तटस्थ अणूमध्ये प्रोटॉन आणि इलेक्ट्रॉन संख्या समान असते.
+Source: MPSC Group C 2023 Mains Paper-II
+https://testbook.com/question-answer/the-atomic-number-of-sodium-is-11and-its-mas--678a203ef24b2c43833ef3c4
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+8. [PRACTICE] इलेक्ट्रॉनचे K, L, M, N असे स्तर कोणाशी संबंधित आहेत?
+   (1) ऊर्जा स्तर
+   (2) अणुक्रमांकाचे गट
+   (3) रासायनिक सूत्र
+   (4) द्रावणाचा pH
+उत्तर / Answer: (1) ऊर्जा स्तर
+Explanation: K, L, M, N हे इलेक्ट्रॉनचे प्रमुख ऊर्जा स्तर/शेल दर्शवतात.
+Source: MPSC Chemistry PYQs 2021–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+9. [PRACTICE] रदरफोर्डच्या प्रयोगातून अणूबद्दल कोणती महत्त्वाची कल्पना मिळाली?
+   (1) अणूचे बहुतांश वस्तुमान लहान केंद्रकात केंद्रित असते
+   (2) इलेक्ट्रॉन अस्तित्वात नाहीत
+   (3) अणू पूर्णपणे घन असतो
+   (4) प्रोटॉन ऋणभारित असतात
+उत्तर / Answer: (1) अणूचे बहुतांश वस्तुमान लहान केंद्रकात केंद्रित असते
+Explanation: रदरफोर्डच्या सुवर्णपर्ण प्रयोगातून लहान, धनभारित केंद्रकाची संकल्पना दृढ झाली.
+Source: MPSC Chemistry PYQs 2021–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+10. [PRACTICE] न्यूट्रॉनचा विद्युतभार किती?
+   (1) +1
+   (2) −1
+   (3) 0
+   (4) +2
+उत्तर / Answer: (3) 0
+Explanation: न्यूट्रॉन विद्युतदृष्ट्या उदासीन आहे.
+Source: MPSC Chemistry PYQs 2021–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+11. [PRACTICE] आधुनिक आवर्त सारणीत मूलद्रव्यांची मांडणी मुख्यतः कशानुसार आहे?
+   (1) वाढत्या अणुक्रमांकानुसार
+   (2) वाढत्या वस्तुमानानुसारच
+   (3) वर्णक्रमानुसार
+   (4) घनतेनुसार
+उत्तर / Answer: (1) वाढत्या अणुक्रमांकानुसार
+Explanation: आधुनिक आवर्त नियम अणुक्रमांकावर आधारित आहे.
+Source: MPSC PYQs: 2018, 2022, 2025
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+12. [PRACTICE] आवर्त सारणीतील एकाच गटातील मूलद्रव्यांमध्ये प्रामुख्याने काय साम्य असते?
+   (1) संयुजा इलेक्ट्रॉनांची रचना/रासायनिक गुणधर्म
+   (2) सर्वांचे अणुभार समान
+   (3) सर्वांची अवस्था समान
+   (4) सर्वांचे न्यूट्रॉन समान
+उत्तर / Answer: (1) संयुजा इलेक्ट्रॉनांची रचना/रासायनिक गुणधर्म
+Explanation: एकाच गटातील मूलद्रव्यांचे संयुजा इलेक्ट्रॉन नमुने समान असल्याने रासायनिक गुणधर्मात साम्य असते.
+Source: MPSC PYQs: 2018, 2022, 2025
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+13. [PRACTICE] आवर्त सारणीतील निष्क्रिय वायू (Noble Gases) कोणत्या गटात आहेत?
+   (1) 1
+   (2) 2
+   (3) 17
+   (4) 18
+उत्तर / Answer: (4) 18
+Explanation: निष्क्रिय वायू गट 18 मध्ये आहेत.
+Source: MPSC PYQs: 2018, 2022, 2025
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+14. [PRACTICE] हॅलोजन मूलद्रव्ये कोणत्या गटात आहेत?
+   (1) 1
+   (2) 16
+   (3) 17
+   (4) 18
+उत्तर / Answer: (3) 17
+Explanation: F, Cl, Br, I इ. हॅलोजन गट 17 मध्ये आहेत.
+Source: MPSC PYQs: 2018, 2022, 2025
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+15. [PRACTICE] अल्कली धातू कोणत्या गटात आहेत?
+   (1) 1
+   (2) 2
+   (3) 17
+   (4) 18
+उत्तर / Answer: (1) 1
+Explanation: अल्कली धातू गट 1 मध्ये येतात.
+Source: MPSC PYQs: 2018, 2022, 2025
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+16. [PRACTICE] आयनिक बंध सामान्यतः कसा तयार होतो?
+   (1) इलेक्ट्रॉनच्या देवाणघेवाणीने
+   (2) फक्त न्यूट्रॉनच्या देवाणघेवाणीने
+   (3) प्रोटॉन शेअर करून
+   (4) अणुभार बदलून
+उत्तर / Answer: (1) इलेक्ट्रॉनच्या देवाणघेवाणीने
+Explanation: आयनिक बंधात इलेक्ट्रॉनचे हस्तांतरण होऊन विरुद्ध भारित आयन तयार होतात.
+Source: MPSC PYQs: 2018, 2022, 2025
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+17. [PRACTICE] सहसंयुज (Covalent) बंधात काय होते?
+   (1) इलेक्ट्रॉनांची भागीदारी होते
+   (2) प्रोटॉन हस्तांतरित होतात
+   (3) न्यूट्रॉन शेअर होतात
+   (4) फक्त धातू तयार होतात
+उत्तर / Answer: (1) इलेक्ट्रॉनांची भागीदारी होते
+Explanation: सहसंयुज बंधात अणू इलेक्ट्रॉन जोड्या शेअर करतात.
+Source: MPSC PYQs: 2018, 2022, 2025
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+18. [PRACTICE] कॅल्शियम आणि क्लोरीन मिळून CaCl₂ तयार करताना प्रमुख बंध कोणता?
+   (1) सहसंयुज
+   (2) आयनिक
+   (3) धात्विक
+   (4) हायड्रोजन
+उत्तर / Answer: (2) आयनिक
+Explanation: धातू Ca इलेक्ट्रॉन देतो आणि Cl इलेक्ट्रॉन स्वीकारतो; त्यामुळे आयनिक बंध तयार होतो.
+Source: MPSC PYQs: 2018, 2022, 2025
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+19. [PRACTICE] NaCl मधील बंधाचा प्रकार कोणता?
+   (1) आयनिक
+   (2) सहसंयुज
+   (3) हायड्रोजन
+   (4) धात्विक
+उत्तर / Answer: (1) आयनिक
+Explanation: NaCl मध्ये Na⁺ आणि Cl⁻ आयनांमधील विद्युतस्थैतिक आकर्षण असते.
+Source: MPSC PYQs: 2018, 2022, 2025
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+20. [PRACTICE] पाणी (H₂O) रेणूमधील O–H बंध मुख्यतः कोणत्या प्रकारचा आहे?
+   (1) सहसंयुज
+   (2) आयनिक
+   (3) धात्विक
+   (4) न्यूक्लियर
+उत्तर / Answer: (1) सहसंयुज
+Explanation: पाण्यात O आणि H इलेक्ट्रॉन सामायिक करतात; O–H बंध ध्रुवीय सहसंयुज आहे.
+Source: MPSC PYQs: 2018, 2022, 2025
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+21. [PRACTICE] pH = 7 असलेले द्रावण सामान्यतः कसे असते?
+   (1) आम्लीय
+   (2) क्षारीय
+   (3) उदासीन
+   (4) अत्यंत आम्लीय
+उत्तर / Answer: (3) उदासीन
+Explanation: 25°C च्या आसपास pH 7 द्रावण उदासीन मानले जाते.
+Source: MPSC Chemistry PYQs 2023–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+22. [PRACTICE] pH 7 पेक्षा कमी असल्यास द्रावण सामान्यतः कसे असते?
+   (1) आम्लीय
+   (2) क्षारीय
+   (3) उदासीन
+   (4) धात्विक
+उत्तर / Answer: (1) आम्लीय
+Explanation: pH < 7 म्हणजे आम्लीय द्रावण.
+Source: MPSC Chemistry PYQs 2023–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+23. [PRACTICE] pH 7 पेक्षा जास्त असल्यास द्रावण सामान्यतः कसे असते?
+   (1) आम्लीय
+   (2) क्षारीय
+   (3) उदासीन
+   (4) वायुरूप
+उत्तर / Answer: (2) क्षारीय
+Explanation: pH > 7 म्हणजे क्षारीय/अल्कलाइन द्रावण.
+Source: MPSC Chemistry PYQs 2023–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+24. [PRACTICE] हायड्रोक्लोरिक आम्लाचे सूत्र कोणते?
+   (1) HCl
+   (2) H₂SO₄
+   (3) HNO₃
+   (4) NaOH
+उत्तर / Answer: (1) HCl
+Explanation: Hydrochloric acid चे सूत्र HCl आहे.
+Source: MPSC Chemistry PYQs 2023–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+25. [PRACTICE] सल्फ्युरिक आम्लाचे सूत्र कोणते?
+   (1) HCl
+   (2) H₂SO₄
+   (3) H₂CO₃
+   (4) KOH
+उत्तर / Answer: (2) H₂SO₄
+Explanation: Sulfuric acid चे सूत्र H₂SO₄ आहे.
+Source: MPSC Chemistry PYQs 2023–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+26. [PRACTICE] सोडियम हायड्रॉक्साइडचे सूत्र कोणते?
+   (1) NaOH
+   (2) NaCl
+   (3) Na₂CO₃
+   (4) HCl
+उत्तर / Answer: (1) NaOH
+Explanation: Sodium hydroxide = NaOH.
+Source: MPSC Chemistry PYQs 2023–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+27. [PRACTICE] सामान्य मिठाचे रासायनिक सूत्र कोणते?
+   (1) KCl
+   (2) NaOH
+   (3) NaCl
+   (4) HCl
+उत्तर / Answer: (3) NaCl
+Explanation: Common salt म्हणजे sodium chloride, NaCl.
+Source: MPSC Chemistry PYQs 2023–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+28. [PRACTICE] आम्ल आणि आम्लारी यांच्या अभिक्रियेत सामान्यतः काय तयार होते?
+   (1) क्षार आणि पाणी
+   (2) फक्त हायड्रोजन
+   (3) फक्त ऑक्सिजन
+   (4) फक्त धातू
+उत्तर / Answer: (1) क्षार आणि पाणी
+Explanation: Neutralization मध्ये acid + base → salt + water.
+Source: MPSC Chemistry PYQs 2023–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+29. [PRACTICE] निळा लिटमस आम्लात टाकल्यास काय होते?
+   (1) लाल होतो
+   (2) हिरवा होतो
+   (3) निळाच राहतो
+   (4) काळा होतो
+उत्तर / Answer: (1) लाल होतो
+Explanation: आम्ल निळ्या लिटमसला लाल करते.
+Source: MPSC Chemistry PYQs 2023–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+30. [PRACTICE] लाल लिटमस क्षारीय द्रावणात टाकल्यास काय होते?
+   (1) लालच राहतो
+   (2) निळा होतो
+   (3) पिवळा होतो
+   (4) रंगहीन होतो
+उत्तर / Answer: (2) निळा होतो
+Explanation: आम्लारी लाल लिटमसला निळे करते.
+Source: MPSC Chemistry PYQs 2023–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+31. [PRACTICE] खालीलपैकी धातूचा सामान्य गुणधर्म कोणता?
+   (1) उष्णता व विद्युतचा चांगला चालक
+   (2) नेहमी ठिसूळ
+   (3) नेहमी वायुरूप
+   (4) विद्युतचा खराब चालक
+उत्तर / Answer: (1) उष्णता व विद्युतचा चांगला चालक
+Explanation: बहुतेक धातू उष्णता आणि विद्युतचे चांगले चालक असतात.
+Source: MPSC Chemistry PYQs / Group C 2024
+https://testbook.com/question-answer/bronze-alloy-is-a-combination-of-_______--694f1e878a3274ad6d67a271
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+32. [PRACTICE] खालीलपैकी अधातू कोणता?
+   (1) लोह
+   (2) तांबे
+   (3) सल्फर
+   (4) अॅल्युमिनियम
+उत्तर / Answer: (3) सल्फर
+Explanation: Sulfur हा अधातू आहे.
+Source: MPSC Chemistry PYQs / Group C 2024
+https://testbook.com/question-answer/bronze-alloy-is-a-combination-of-_______--694f1e878a3274ad6d67a271
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+33. [PRACTICE] लोखंडाला गंज येण्यासाठी प्रमुखतः कोणत्या दोन गोष्टी आवश्यक असतात?
+   (1) ऑक्सिजन आणि पाणी/आर्द्रता
+   (2) नायट्रोजन आणि मीठच
+   (3) फक्त सूर्यप्रकाश
+   (4) फक्त कार्बन डायऑक्साइड
+उत्तर / Answer: (1) ऑक्सिजन आणि पाणी/आर्द्रता
+Explanation: Iron rusting साठी oxygen आणि moisture आवश्यक असतात.
+Source: MPSC Chemistry PYQs / Group C 2024
+https://testbook.com/question-answer/bronze-alloy-is-a-combination-of-_______--694f1e878a3274ad6d67a271
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+34. [PRACTICE] लोखंडावरील गंजापासून संरक्षणासाठी झिंकचा थर देण्याच्या प्रक्रियेला काय म्हणतात?
+   (1) गॅल्व्हनायझेशन
+   (2) डिस्टिलेशन
+   (3) सब्लिमेशन
+   (4) न्यूट्रलायझेशन
+उत्तर / Answer: (1) गॅल्व्हनायझेशन
+Explanation: Zinc coating on iron is called galvanization.
+Source: MPSC Chemistry PYQs / Group C 2024
+https://testbook.com/question-answer/bronze-alloy-is-a-combination-of-_______--694f1e878a3274ad6d67a271
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+35. [PRACTICE] तांबे आणि जस्त यांची मिश्रधातू कोणती?
+   (1) पितळ (Brass)
+   (2) कांस्य (Bronze)
+   (3) स्टील
+   (4) सोल्डर
+उत्तर / Answer: (1) पितळ (Brass)
+Explanation: Brass = copper + zinc.
+Source: MPSC Chemistry PYQs / Group C 2024
+https://testbook.com/question-answer/bronze-alloy-is-a-combination-of-_______--694f1e878a3274ad6d67a271
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+36. [PRACTICE] तांबे आणि कथील (Tin) यांची मिश्रधातू कोणती?
+   (1) पितळ
+   (2) कांस्य
+   (3) स्टील
+   (4) ड्युराल्युमिन
+उत्तर / Answer: (2) कांस्य
+Explanation: Bronze = copper + tin.
+Source: MPSC Group C 2024 Prelims
+https://testbook.com/question-answer/bronze-alloy-is-a-combination-of-_______--694f1e878a3274ad6d67a271
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+37. [PRACTICE] स्टीलमध्ये प्रमुख धातू कोणता?
+   (1) लोह
+   (2) तांबे
+   (3) चांदी
+   (4) पारा
+उत्तर / Answer: (1) लोह
+Explanation: Steel हा मुख्यतः iron-based alloy आहे, ज्यात carbon महत्त्वाचा घटक असतो.
+Source: MPSC Chemistry PYQs / Group C 2024
+https://testbook.com/question-answer/bronze-alloy-is-a-combination-of-_______--694f1e878a3274ad6d67a271
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+38. [PRACTICE] खोलीच्या तापमानाला द्रवरूप असलेला सामान्य धातू कोणता?
+   (1) पारा
+   (2) लोह
+   (3) तांबे
+   (4) अॅल्युमिनियम
+उत्तर / Answer: (1) पारा
+Explanation: Mercury (Hg) room temperature ला द्रवरूप असतो.
+Source: MPSC Chemistry PYQs / Group C 2024
+https://testbook.com/question-answer/bronze-alloy-is-a-combination-of-_______--694f1e878a3274ad6d67a271
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+39. [PRACTICE] विद्युत तारा बनवण्यासाठी तांबे का वापरतात?
+   (1) उत्तम विद्युत चालक व तन्य असल्यामुळे
+   (2) तो अधातू असल्यामुळे
+   (3) तो नेहमी वायुरूप असल्यामुळे
+   (4) तो विद्युतरोधक असल्यामुळे
+उत्तर / Answer: (1) उत्तम विद्युत चालक व तन्य असल्यामुळे
+Explanation: Copper has high electrical conductivity and is ductile.
+Source: MPSC Chemistry PYQs / Group C 2024
+https://testbook.com/question-answer/bronze-alloy-is-a-combination-of-_______--694f1e878a3274ad6d67a271
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+40. [PRACTICE] धातू आम्लाशी अभिक्रिया करताना अनेकदा कोणता वायू मुक्त होतो?
+   (1) हायड्रोजन
+   (2) ऑक्सिजन
+   (3) क्लोरीन
+   (4) निऑन
+उत्तर / Answer: (1) हायड्रोजन
+Explanation: Many reactive metals displace hydrogen from dilute acids.
+Source: MPSC Chemistry PYQs / Group C 2024
+https://testbook.com/question-answer/bronze-alloy-is-a-combination-of-_______--694f1e878a3274ad6d67a271
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+41. [PRACTICE] कार्बनची संयुजा सामान्यतः किती मानली जाते?
+   (1) 1
+   (2) 2
+   (3) 3
+   (4) 4
+उत्तर / Answer: (4) 4
+Explanation: Carbon is tetravalent; its usual valency is 4.
+Source: MPSC Chemistry PYQs 2021–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+42. [PRACTICE] मीथेनचे रासायनिक सूत्र कोणते?
+   (1) CH₄
+   (2) C₂H₆
+   (3) CO₂
+   (4) CH₃OH
+उत्तर / Answer: (1) CH₄
+Explanation: Methane = CH₄.
+Source: MPSC Chemistry PYQs 2021–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+43. [PRACTICE] कार्बन डायऑक्साइडचे सूत्र कोणते?
+   (1) CO
+   (2) CO₂
+   (3) C₂O
+   (4) CH₄
+उत्तर / Answer: (2) CO₂
+Explanation: Carbon dioxide = CO₂.
+Source: MPSC Chemistry PYQs 2021–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+44. [PRACTICE] इथेनॉलचे सामान्य रासायनिक सूत्र कोणते?
+   (1) C₂H₅OH
+   (2) CH₃COOH
+   (3) CH₄
+   (4) C₂H₄
+उत्तर / Answer: (1) C₂H₅OH
+Explanation: Ethanol is commonly written as C₂H₅OH.
+Source: MPSC Chemistry PYQs 2021–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+45. [PRACTICE] अॅसिटिक आम्ल (Ethanoic acid) चे सूत्र कोणते?
+   (1) CH₃COOH
+   (2) C₂H₅OH
+   (3) H₂CO₃
+   (4) NaHCO₃
+उत्तर / Answer: (1) CH₃COOH
+Explanation: Ethanoic/acetic acid = CH₃COOH.
+Source: MPSC Chemistry PYQs 2021–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+46. [PRACTICE] बेकिंग सोड्याचे रासायनिक नाव कोणते?
+   (1) सोडियम बायकार्बोनेट
+   (2) सोडियम क्लोराइड
+   (3) कॅल्शियम कार्बोनेट
+   (4) पोटॅशियम नायट्रेट
+उत्तर / Answer: (1) सोडियम बायकार्बोनेट
+Explanation: Baking soda = sodium hydrogen carbonate / sodium bicarbonate (NaHCO₃).
+Source: MPSC Chemistry PYQs 2021–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+47. [PRACTICE] वॉशिंग सोड्याचे प्रमुख रासायनिक नाव कोणते?
+   (1) सोडियम कार्बोनेट
+   (2) सोडियम क्लोराइड
+   (3) कॅल्शियम हायड्रॉक्साइड
+   (4) अमोनियम क्लोराइड
+उत्तर / Answer: (1) सोडियम कार्बोनेट
+Explanation: Washing soda is hydrated sodium carbonate.
+Source: MPSC Group C 2023 Mains Paper-II
+https://testbook.com/question-answer/which-of-the-following-salt-is-used-in-refining-of--678a20c07693053d5e025f70
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+48. [PRACTICE] LPG मध्ये प्रमुखतः कोणते हायड्रोकार्बन असतात?
+   (1) प्रोपेन व ब्यूटेन
+   (2) फक्त मिथेन
+   (3) फक्त इथीन
+   (4) बेंझीन व टोल्युइन
+उत्तर / Answer: (1) प्रोपेन व ब्यूटेन
+Explanation: Domestic LPG is mainly a mixture of propane and butane.
+Source: MPSC Chemistry PYQs 2021–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+49. [PRACTICE] हीरा (Diamond) आणि ग्रॅफाइट हे कशाचे अपरूप (allotropes) आहेत?
+   (1) कार्बन
+   (2) सल्फर
+   (3) ऑक्सिजन
+   (4) सिलिकॉन
+उत्तर / Answer: (1) कार्बन
+Explanation: Diamond and graphite are allotropes of carbon.
+Source: MPSC Chemistry PYQs 2021–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+50. [PRACTICE] पॉलिथीन (Polyethylene) तयार करण्यासाठी कोणता मोनोमर वापरला जातो?
+   (1) इथीन (Ethene)
+   (2) इथेनॉल
+   (3) मीथेन
+   (4) अॅसिटिक आम्ल
+उत्तर / Answer: (1) इथीन (Ethene)
+Explanation: Polyethylene is formed by polymerization of ethene.
+Source: MPSC Chemistry PYQs 2021–2026
+https://www.unlockias.in/mpsc-previous-year-questions/topic-wise/chemistry
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.

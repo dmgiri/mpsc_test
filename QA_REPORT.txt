@@ -1,0 +1,33 @@
+AUTOMATED CHECKS
+================
+{
+  "results": [
+    {
+      "subject": "marathi",
+      "count": 100,
+      "status": "answer, flag, restore, check, submit, CSV serialization passed"
+    },
+    {
+      "subject": "geometry",
+      "count": 50,
+      "status": "answer, flag, restore, check, submit, CSV serialization passed"
+    },
+    {
+      "subject": "english",
+      "count": 50,
+      "status": "answer, flag, restore, check, submit, CSV serialization passed"
+    },
+    {
+      "subject": "chemistry",
+      "count": 50,
+      "status": "answer, flag, restore, check, submit, CSV serialization passed"
+    },
+    {
+      "mobile": "390px: theme, answer persistence, palette, font and submit passed"
+    }
+  ],
+  "page_errors": [],
+  "test_environment": "Chromium desktop 1440x1000 and mobile emulation 390x844; document injection with simulated localStorage because environment administrator blocks navigation. Export serialization tested; native download and file:// persistence not exercised here."
+}
+
+Additional checks: 250 topic question records, unique question-and-option combinations within each topic. Each has 4 distinct options and a valid answer index. Exact retention of the prior 50 Marathi / 50 English / 50 Chemistry question texts, options, answer indices and explanations checked. All PYQ records have a public question URL or an uploaded-paper page reference. No screenshot question images or external dependencies in the four new topic HTML files. This is a structural and interaction check, not a fresh official answer-key audit.

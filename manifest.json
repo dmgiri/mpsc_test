@@ -1,0 +1,43 @@
+{
+  "marathi": {
+    "questions": 100,
+    "kinds": {
+      "practice": 93,
+      "pyq": 7
+    },
+    "source_families": {
+      "Practice": 93,
+      "MPSC": 7
+    }
+  },
+  "geometry": {
+    "questions": 50,
+    "kinds": {
+      "pyq": 50
+    },
+    "source_families": {
+      "MPSC": 14,
+      "SSC": 19,
+      "RRB": 6,
+      "CDS": 11
+    }
+  },
+  "english": {
+    "questions": 50,
+    "kinds": {
+      "practice": 50
+    },
+    "source_families": {
+      "Practice": 50
+    }
+  },
+  "chemistry": {
+    "questions": 50,
+    "kinds": {
+      "practice": 50
+    },
+    "source_families": {
+      "Practice": 50
+    }
+  }
+}

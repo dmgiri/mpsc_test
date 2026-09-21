@@ -1,0 +1,1116 @@
+Marathi वर्णमाला
+7 sourced PYQs + 93 important practice questions. The original 50-question practice bank is retained.
+Practice resource. PYQ source status and adaptations are marked per question.
+
+1. [PRACTICE] ज्या वर्णांचा उच्चार इतर कोणत्याही वर्णाच्या मदतीशिवाय पूर्ण होतो, त्यांना काय म्हणतात?
+   (1) स्वर
+   (2) व्यंजन
+   (3) संयुक्ताक्षरे
+   (4) अनुस्वार
+उत्तर / Answer: (1) स्वर
+Explanation: स्वरांचा उच्चार स्वतंत्रपणे करता येतो.
+Source: MPSC Marathi grammar PYQ collection
+https://testbook.com/mpsc-group-c/previous-year-papers
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+2. [PRACTICE] ज्या वर्णांचा स्पष्ट उच्चार होण्यासाठी स्वराची मदत लागते, त्यांना काय म्हणतात?
+   (1) स्वर
+   (2) व्यंजन
+   (3) मात्रा
+   (4) विसर्ग
+उत्तर / Answer: (2) व्यंजन
+Explanation: व्यंजनाचा पूर्ण उच्चार स्वराच्या साहाय्याने होतो.
+Source: MPSC Marathi grammar PYQ collection
+https://testbook.com/mpsc-group-c/previous-year-papers
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+3. [PRACTICE] ‘क, ख, ग, घ, ङ’ हा कोणता व्यंजनवर्ग आहे?
+   (1) क-वर्ग
+   (2) च-वर्ग
+   (3) ट-वर्ग
+   (4) प-वर्ग
+उत्तर / Answer: (1) क-वर्ग
+Explanation: क, ख, ग, घ, ङ हा क-वर्ग आहे.
+Source: Recent MPSC Marathi PYQ pattern
+https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+4. [PRACTICE] ‘च, छ, ज, झ, ञ’ हा कोणता व्यंजनवर्ग आहे?
+   (1) क-वर्ग
+   (2) च-वर्ग
+   (3) त-वर्ग
+   (4) प-वर्ग
+उत्तर / Answer: (2) च-वर्ग
+Explanation: च, छ, ज, झ, ञ हा च-वर्ग आहे.
+Source: Recent MPSC Marathi PYQ pattern
+https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+5. [PRACTICE] ‘ट, ठ, ड, ढ, ण’ हा कोणता व्यंजनवर्ग आहे?
+   (1) ट-वर्ग
+   (2) त-वर्ग
+   (3) च-वर्ग
+   (4) क-वर्ग
+उत्तर / Answer: (1) ट-वर्ग
+Explanation: ट, ठ, ड, ढ, ण हा ट-वर्ग आहे.
+Source: Recent MPSC Marathi PYQ pattern
+https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+6. [PRACTICE] ‘त, थ, द, ध, न’ हा कोणता व्यंजनवर्ग आहे?
+   (1) प-वर्ग
+   (2) त-वर्ग
+   (3) ट-वर्ग
+   (4) च-वर्ग
+उत्तर / Answer: (2) त-वर्ग
+Explanation: त, थ, द, ध, न हा त-वर्ग आहे.
+Source: Recent MPSC Marathi PYQ pattern
+https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+7. [PRACTICE] ‘प, फ, ब, भ, म’ हा कोणता व्यंजनवर्ग आहे?
+   (1) क-वर्ग
+   (2) ट-वर्ग
+   (3) प-वर्ग
+   (4) त-वर्ग
+उत्तर / Answer: (3) प-वर्ग
+Explanation: प, फ, ब, भ, म हा प-वर्ग आहे.
+Source: Recent MPSC Marathi PYQ pattern
+https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+8. [PRACTICE] ‘क-वर्ग’ातील वर्णांचे प्रमुख उच्चारस्थान कोणते?
+   (1) कंठ
+   (2) तालू
+   (3) मूर्धा
+   (4) ओठ
+उत्तर / Answer: (1) कंठ
+Explanation: क-वर्ग कंठ्य मानला जातो.
+Source: MPSC State Service Mains 2019 + recent Group C pattern
+https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+9. [PRACTICE] ‘च-वर्ग’ातील वर्णांचे प्रमुख उच्चारस्थान कोणते?
+   (1) कंठ
+   (2) तालू
+   (3) दात
+   (4) ओठ
+उत्तर / Answer: (2) तालू
+Explanation: च-वर्ग तालव्य वर्ग आहे.
+Source: MPSC State Service Mains 2019 + recent Group C pattern
+https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+10. [PRACTICE] ‘ट-वर्ग’ातील वर्णांचे प्रमुख उच्चारस्थान कोणते?
+   (1) मूर्धा
+   (2) तालू
+   (3) दात
+   (4) ओठ
+उत्तर / Answer: (1) मूर्धा
+Explanation: ट-वर्ग मूर्धन्य आहे.
+Source: MPSC State Service Mains 2019 + recent Group C pattern
+https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+11. [PRACTICE] ‘त-वर्ग’ातील वर्णांचे प्रमुख उच्चारस्थान कोणते?
+   (1) तालू
+   (2) दात
+   (3) कंठ
+   (4) ओठ
+उत्तर / Answer: (2) दात
+Explanation: त-वर्ग दंत्य आहे.
+Source: MPSC State Service Mains 2019 + recent Group C pattern
+https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+12. [PRACTICE] ‘प-वर्ग’ातील वर्णांचे प्रमुख उच्चारस्थान कोणते?
+   (1) मूर्धा
+   (2) दात
+   (3) ओठ
+   (4) कंठ
+उत्तर / Answer: (3) ओठ
+Explanation: प-वर्ग ओष्ठ्य आहे.
+Source: MPSC State Service Mains 2019 + recent Group C pattern
+https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+13. [PRACTICE] ‘व’ या वर्णाचे उच्चारस्थान कोणते मानले जाते?
+   (1) कंठ्य
+   (2) दंतोष्ठ्य
+   (3) मूर्धन्य
+   (4) तालव्य
+उत्तर / Answer: (2) दंतोष्ठ्य
+Explanation: ‘व’ उच्चारताना दात व ओठ यांचा सहभाग असल्याने तो दंतोष्ठ्य आहे.
+Source: MPSC State Service Mains 2019 + recent Group C pattern
+https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+14. [PRACTICE] ‘ए’ आणि ‘ऐ’ यांचे संयुक्त उच्चारस्थान कोणते?
+   (1) कंठतालव्य
+   (2) कंठोष्ठ्य
+   (3) दंतोष्ठ्य
+   (4) मूर्धन्य
+उत्तर / Answer: (1) कंठतालव्य
+Explanation: ए, ऐ यांना कंठतालव्य मानले जाते.
+Source: MPSC State Service Mains 2019 + recent Group C pattern
+https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+15. [PRACTICE] ‘ओ’ आणि ‘औ’ यांचे संयुक्त उच्चारस्थान कोणते?
+   (1) तालव्य
+   (2) कंठोष्ठ्य
+   (3) दंत्य
+   (4) मूर्धन्य
+उत्तर / Answer: (2) कंठोष्ठ्य
+Explanation: ओ, औ यांना कंठोष्ठ्य मानले जाते.
+Source: MPSC State Service Mains 2019 + recent Group C pattern
+https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+16. [PRACTICE] ‘ऋ’ या वर्णाचे उच्चारस्थान कोणते?
+   (1) मूर्धन्य
+   (2) ओष्ठ्य
+   (3) दंत्य
+   (4) कंठ्य
+उत्तर / Answer: (1) मूर्धन्य
+Explanation: स्पर्धा परीक्षा व्याकरणात ऋ हा मूर्धन्य मानला जातो.
+Source: MPSC State Service Mains 2019 + recent Group C pattern
+https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+17. [PRACTICE] ‘इ’ आणि ‘ई’ या स्वरांचे उच्चारस्थान कोणते?
+   (1) तालव्य
+   (2) ओष्ठ्य
+   (3) कंठ्य
+   (4) दंत्य
+उत्तर / Answer: (1) तालव्य
+Explanation: इ, ई हे तालव्य स्वर आहेत.
+Source: MPSC State Service Mains 2019 + recent Group C pattern
+https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+18. [PRACTICE] ‘उ’ आणि ‘ऊ’ या स्वरांचे उच्चारस्थान कोणते?
+   (1) दंत्य
+   (2) मूर्धन्य
+   (3) ओष्ठ्य
+   (4) तालव्य
+उत्तर / Answer: (3) ओष्ठ्य
+Explanation: उ, ऊ उच्चारताना ओठांचा मुख्य सहभाग असतो.
+Source: MPSC State Service Mains 2019 + recent Group C pattern
+https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+19. [PRACTICE] ‘अ’ आणि ‘आ’ या स्वरांचे उच्चारस्थान कोणते?
+   (1) कंठ्य
+   (2) तालव्य
+   (3) ओष्ठ्य
+   (4) दंत्य
+उत्तर / Answer: (1) कंठ्य
+Explanation: अ, आ हे कंठ्य स्वर आहेत.
+Source: MPSC State Service Mains 2019 + recent Group C pattern
+https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+20. [PRACTICE] खालीलपैकी कोणता मूर्धन्य वर्ण आहे?
+   (1) ल
+   (2) ळ
+   (3) य
+   (4) व
+उत्तर / Answer: (2) ळ
+Explanation: ‘ळ’ हा मराठीतील महत्त्वाचा मूर्धन्य वर्ण आहे.
+Source: MPSC State Service Mains 2019 + recent Group C pattern
+https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+21. [PRACTICE] खालीलपैकी कोणता तालव्य वर्ण आहे?
+   (1) य
+   (2) र
+   (3) ल
+   (4) व
+उत्तर / Answer: (1) य
+Explanation: ‘य’ हा तालव्य अंतस्थ वर्ण मानला जातो.
+Source: MPSC State Service Mains 2019 + recent Group C pattern
+https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+22. [PRACTICE] खालीलपैकी कोणता मूर्धन्य अंतस्थ वर्ण आहे?
+   (1) य
+   (2) र
+   (3) ल
+   (4) व
+उत्तर / Answer: (2) र
+Explanation: ‘र’ चे उच्चारस्थान मूर्धा मानले जाते.
+Source: MPSC State Service Mains 2019 + recent Group C pattern
+https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+23. [PRACTICE] खालीलपैकी कोणता दंत्य अंतस्थ वर्ण आहे?
+   (1) य
+   (2) र
+   (3) ल
+   (4) व
+उत्तर / Answer: (3) ल
+Explanation: ‘ल’ हा दंत्य वर्ण आहे.
+Source: MPSC State Service Mains 2019 + recent Group C pattern
+https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+24. [PRACTICE] खालीलपैकी कोणता तालव्य ऊष्म वर्ण आहे?
+   (1) श
+   (2) ष
+   (3) स
+   (4) ह
+उत्तर / Answer: (1) श
+Explanation: श हा तालव्य ऊष्म वर्ण आहे.
+Source: MPSC Subordinate Services Mains 2020
+https://testbook.com/question-answer/ques--635be523a1f10a1efef8b4cf
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+25. [PRACTICE] खालीलपैकी कोणता मूर्धन्य ऊष्म वर्ण आहे?
+   (1) श
+   (2) ष
+   (3) स
+   (4) ह
+उत्तर / Answer: (2) ष
+Explanation: ष हा मूर्धन्य वर्ण आहे.
+Source: MPSC Subordinate Services Mains 2020
+https://testbook.com/question-answer/ques--635be523a1f10a1efef8b4cf
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+26. [PRACTICE] खालीलपैकी कोणता दंत्य ऊष्म वर्ण आहे?
+   (1) श
+   (2) ष
+   (3) स
+   (4) ह
+उत्तर / Answer: (3) स
+Explanation: स हा दंत्य ऊष्म वर्ण आहे.
+Source: MPSC Subordinate Services Mains 2020
+https://testbook.com/question-answer/ques--635be523a1f10a1efef8b4cf
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+27. [PRACTICE] ‘ह’ या वर्णाचे प्रमुख उच्चारस्थान कोणते?
+   (1) कंठ्य
+   (2) दंत्य
+   (3) ओष्ठ्य
+   (4) मूर्धन्य
+उत्तर / Answer: (1) कंठ्य
+Explanation: ह हा कंठ्य वर्ण मानला जातो.
+Source: MPSC State Service Mains 2019 + recent Group C pattern
+https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+28. [PRACTICE] ‘य, र, ल, व’ या समूहाला सामान्यतः काय म्हणतात?
+   (1) अंतस्थ व्यंजने
+   (2) स्पर्श व्यंजने
+   (3) अनुनासिक व्यंजने
+   (4) संयुक्ताक्षरे
+उत्तर / Answer: (1) अंतस्थ व्यंजने
+Explanation: य, र, ल, व ही अंतस्थ व्यंजने आहेत.
+Source: MPSC Subordinate Services Mains 2020
+https://testbook.com/question-answer/ques--635be523a1f10a1efef8b4cf
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+29. [PRACTICE] ‘श, ष, स, ह’ या समूहाला कोणत्या प्रकारात ठेवले जाते?
+   (1) ऊष्म व्यंजने
+   (2) अंतस्थ व्यंजने
+   (3) अनुनासिक व्यंजने
+   (4) स्वर
+उत्तर / Answer: (1) ऊष्म व्यंजने
+Explanation: स्पर्धा परीक्षा व्याकरणात श, ष, स, ह हे ऊष्म म्हणून ओळखले जातात.
+Source: MPSC Subordinate Services Mains 2020
+https://testbook.com/question-answer/ques--635be523a1f10a1efef8b4cf
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+30. [PRACTICE] प्रत्येक स्पर्श व्यंजनवर्गातील पाचवा वर्ण प्रामुख्याने कोणत्या प्रकारचा असतो?
+   (1) अनुनासिक
+   (2) महाप्राण अघोष
+   (3) अंतस्थ
+   (4) ऊष्म
+उत्तर / Answer: (1) अनुनासिक
+Explanation: ङ, ञ, ण, न, म हे अनुक्रमे पाचव्या स्थानावरील अनुनासिक वर्ण आहेत.
+Source: MPSC Group C 2025 Mains Paper-I
+https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+31. [PRACTICE] क-वर्गातील अनुनासिक वर्ण कोणता?
+   (1) घ
+   (2) ङ
+   (3) ग
+   (4) ख
+उत्तर / Answer: (2) ङ
+Explanation: क-वर्गातील पाचवा वर्ण ‘ङ’ अनुनासिक आहे.
+Source: MPSC Group C 2025 Mains Paper-I
+https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+32. [PRACTICE] च-वर्गातील अनुनासिक वर्ण कोणता?
+   (1) ज
+   (2) झ
+   (3) ञ
+   (4) छ
+उत्तर / Answer: (3) ञ
+Explanation: च-वर्गातील पाचवा वर्ण ‘ञ’ आहे.
+Source: MPSC Group C 2025 Mains Paper-I
+https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+33. [PRACTICE] ट-वर्गातील अनुनासिक वर्ण कोणता?
+   (1) ण
+   (2) ड
+   (3) ढ
+   (4) ठ
+उत्तर / Answer: (1) ण
+Explanation: ट-वर्गातील पाचवा वर्ण ‘ण’ आहे.
+Source: MPSC Group C 2025 Mains Paper-I
+https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+34. [PRACTICE] त-वर्गातील अनुनासिक वर्ण कोणता?
+   (1) द
+   (2) ध
+   (3) न
+   (4) थ
+उत्तर / Answer: (3) न
+Explanation: त-वर्गातील पाचवा वर्ण ‘न’ आहे.
+Source: MPSC Group C 2025 Mains Paper-I
+https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+35. [PRACTICE] प-वर्गातील अनुनासिक वर्ण कोणता?
+   (1) ब
+   (2) भ
+   (3) म
+   (4) फ
+उत्तर / Answer: (3) म
+Explanation: प-वर्गातील पाचवा वर्ण ‘म’ आहे.
+Source: MPSC Group C 2025 Mains Paper-I
+https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+36. [PRACTICE] स्पर्श व्यंजनवर्गातील पहिला वर्ण सामान्यतः कसा असतो?
+   (1) अघोष अल्पप्राण
+   (2) अघोष महाप्राण
+   (3) सघोष अल्पप्राण
+   (4) सघोष महाप्राण
+उत्तर / Answer: (1) अघोष अल्पप्राण
+Explanation: क, च, ट, त, प हे अघोष अल्पप्राण वर्ण आहेत.
+Source: MPSC Group C 2025 Mains Paper-I
+https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+37. [PRACTICE] स्पर्श व्यंजनवर्गातील दुसरा वर्ण सामान्यतः कसा असतो?
+   (1) सघोष अल्पप्राण
+   (2) अघोष महाप्राण
+   (3) सघोष महाप्राण
+   (4) अनुनासिक
+उत्तर / Answer: (2) अघोष महाप्राण
+Explanation: ख, छ, ठ, थ, फ हे अघोष महाप्राण आहेत.
+Source: MPSC Group C 2025 Mains Paper-I
+https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+38. [PRACTICE] स्पर्श व्यंजनवर्गातील तिसरा वर्ण सामान्यतः कसा असतो?
+   (1) सघोष अल्पप्राण
+   (2) अघोष अल्पप्राण
+   (3) सघोष महाप्राण
+   (4) अघोष महाप्राण
+उत्तर / Answer: (1) सघोष अल्पप्राण
+Explanation: ग, ज, ड, द, ब हे सघोष अल्पप्राण आहेत.
+Source: MPSC Group C 2025 Mains Paper-I
+https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+39. [PRACTICE] स्पर्श व्यंजनवर्गातील चौथा वर्ण सामान्यतः कसा असतो?
+   (1) अघोष महाप्राण
+   (2) सघोष महाप्राण
+   (3) सघोष अल्पप्राण
+   (4) अनुनासिक
+उत्तर / Answer: (2) सघोष महाप्राण
+Explanation: घ, झ, ढ, ध, भ हे सघोष महाप्राण आहेत.
+Source: MPSC Group C 2025 Mains Paper-I
+https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+40. [PRACTICE] खालीलपैकी अघोष महाप्राण वर्ण कोणता?
+   (1) क
+   (2) ख
+   (3) ग
+   (4) घ
+उत्तर / Answer: (2) ख
+Explanation: ख हा क-वर्गातील दुसरा म्हणजे अघोष महाप्राण वर्ण आहे.
+Source: MPSC Group C 2025 Mains Paper-I
+https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+41. [PRACTICE] खालीलपैकी सघोष अल्पप्राण वर्ण कोणता?
+   (1) क
+   (2) ख
+   (3) ग
+   (4) घ
+उत्तर / Answer: (3) ग
+Explanation: ग हा क-वर्गातील तिसरा म्हणजे सघोष अल्पप्राण वर्ण आहे.
+Source: MPSC Group C 2025 Mains Paper-I
+https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+42. [PRACTICE] खालीलपैकी सघोष महाप्राण वर्ण कोणता?
+   (1) च
+   (2) छ
+   (3) ज
+   (4) झ
+उत्तर / Answer: (4) झ
+Explanation: झ हा च-वर्गातील चौथा म्हणजे सघोष महाप्राण वर्ण आहे.
+Source: MPSC Group C 2025 Mains Paper-I
+https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+43. [PRACTICE] ‘अं’ या चिन्हाला काय म्हणतात?
+   (1) अनुस्वार
+   (2) विसर्ग
+   (3) अवग्रह
+   (4) हलंत
+उत्तर / Answer: (1) अनुस्वार
+Explanation: ‘ं’ हे अनुस्वार चिन्ह आहे.
+Source: MPSC Group C Marathi syllabus/papers
+https://testbook.com/mpsc-group-c/syllabus-exam-pattern
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+44. [PRACTICE] ‘अः’ मधील ‘ः’ या चिन्हाला काय म्हणतात?
+   (1) अनुस्वार
+   (2) विसर्ग
+   (3) चंद्रबिंदू
+   (4) मात्रा
+उत्तर / Answer: (2) विसर्ग
+Explanation: ‘ः’ हे विसर्ग चिन्ह आहे.
+Source: MPSC Group C Marathi syllabus/papers
+https://testbook.com/mpsc-group-c/syllabus-exam-pattern
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+45. [PRACTICE] ‘क्ष’ हे कोणत्या प्रकारचे रूप आहे?
+   (1) संयुक्ताक्षर
+   (2) स्वर
+   (3) मात्रा
+   (4) अनुस्वार
+उत्तर / Answer: (1) संयुक्ताक्षर
+Explanation: क्ष हे व्यंजनांच्या संयोगातून तयार झालेले संयुक्ताक्षर आहे.
+Source: MPSC Group C Marathi syllabus/papers
+https://testbook.com/mpsc-group-c/syllabus-exam-pattern
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+46. [PRACTICE] ‘त्र’ हे प्रामुख्याने कोणत्या दोन घटकांच्या संयोगातून लिहिले जाते?
+   (1) त् + र
+   (2) ट् + र
+   (3) त् + ल
+   (4) थ् + र
+उत्तर / Answer: (1) त् + र
+Explanation: त्र = त् + र.
+Source: MPSC Group C Marathi syllabus/papers
+https://testbook.com/mpsc-group-c/syllabus-exam-pattern
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+47. [PRACTICE] ‘श्र’ हे प्रामुख्याने कोणत्या संयोगातून तयार होते?
+   (1) स् + र
+   (2) श् + र
+   (3) ष् + र
+   (4) श् + ल
+उत्तर / Answer: (2) श् + र
+Explanation: श्र = श् + र.
+Source: MPSC Group C Marathi syllabus/papers
+https://testbook.com/mpsc-group-c/syllabus-exam-pattern
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+48. [PRACTICE] ‘ज्ञ’ हे देवनागरी लेखनात कोणत्या संयोगाचे संयुक्ताक्षर मानले जाते?
+   (1) ज् + ञ
+   (2) ग् + य
+   (3) द् + न
+   (4) ज् + न
+उत्तर / Answer: (1) ज् + ञ
+Explanation: देवनागरीच्या पारंपरिक रचनेत ज्ञ = ज् + ञ असे लिहिले जाते.
+Source: MPSC Group C Marathi syllabus/papers
+https://testbook.com/mpsc-group-c/syllabus-exam-pattern
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+49. [PRACTICE] व्यंजनाला विविध स्वर जोडून तयार होणाऱ्या मालिकेला काय म्हणतात?
+   (1) बाराखडी
+   (2) वर्णक्रम
+   (3) विसर्ग
+   (4) संधी
+उत्तर / Answer: (1) बाराखडी
+Explanation: व्यंजन + स्वरचिन्हांच्या क्रमाला बाराखडी म्हणतात.
+Source: MPSC Group C Marathi syllabus/papers
+https://testbook.com/mpsc-group-c/syllabus-exam-pattern
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+50. [PRACTICE] व्यंजनाला जोडल्या जाणाऱ्या स्वरचिन्हाला सामान्यतः काय म्हणतात?
+   (1) मात्रा
+   (2) अनुस्वार
+   (3) विसर्ग
+   (4) हलंत
+उत्तर / Answer: (1) मात्रा
+Explanation: स्वरांचे व्यंजनाशी जोडले जाणारे चिन्ह म्हणजे मात्रा.
+Source: MPSC Group C Marathi syllabus/papers
+https://testbook.com/mpsc-group-c/syllabus-exam-pattern
+Retained question and explanation from your earlier topic test. This item is not presented as an exact PYQ.
+
+51. [PYQ] मराठी व्याकरणात इ, उ, ऋ या बद्दल अनुक्रमे य्, व्, र् असे आदेश होतात. त्यांना ________ म्हणतात.
+   (1) संप्रसारण
+   (2) वृद्ध्यादेश
+   (3) यणादेश
+   (4) सजातीय स्वरसंधी
+उत्तर / Answer: (3) यणादेश
+Explanation: इ → य्, उ → व्, ऋ → र् हा यणादेश. पुरविलेल्या संच A उत्तरतालिकेत प्रश्न 31 चे उत्तर 3 आहे.
+Source: MPSC Group C Mains 2019 · Paper I · Q31
+
+पुरविलेली Group C 2018–2023 Language.pdf: PDF पृष्ठ 30, मुद्रित पृष्ठ 8; संच A; उत्तरतालिका PDF पृष्ठ 47.
+
+52. [PYQ] खाली दिलेल्या वाक्यांमधून अयोग्य असलेल्या पर्यायी उत्तराची अचूक निवड करा.
+   (1) व्यंजनात स्वर मिसळून अक्षर बनते.
+   (2) ज्या वर्णांचा उच्चार स्वरांच्या साहाय्यावाचून पूर्ण होत नाही, त्यांना व्यंजने म्हणतात.
+   (3) दीर्घस्वर व संयुक्तस्वर यांचा उच्चार करण्यास दीर्घवेळ घ्यावा लागतो.
+   (4) स्पष्ट व खणखणीत उच्चारांना अनुस्वार असे म्हणतात.
+उत्तर / Answer: (3) दीर्घस्वर व संयुक्तस्वर यांचा उच्चार करण्यास दीर्घवेळ घ्यावा लागतो.
+Explanation: दिलेल्या अधिकृत उत्तरतालिकेनुसार पर्याय 3. या प्रश्नात संयुक्तस्वरांच्या उच्चारकालाचे पारंपरिक दीर्घतर वर्गीकरण अपेक्षित आहे. मूळ प्रश्न/उत्तरतालिकेचे शब्द बदललेले नाहीत.
+Source: MPSC Group C Mains 2019 · Paper I · Q32
+
+पुरविलेली Language.pdf: PDF पृष्ठ 30; उत्तरतालिका पृष्ठ 47, संच A, प्रश्न 32 = 3. हा स्रोताधारित प्रश्न आहे; परंपरेनुसार शब्दावली बदलू शकते.
+
+53. [PYQ] ऱ्हस्व-दीर्घाच्या नियमानुसार पुढीलपैकी योग्य शब्द ओळखा.
+(a) मी     (b) तू     (c) मि     (d) ति
+पर्यायी उत्तरे :
+   (1) (a) आणि (d) बरोबर
+   (2) वरील सर्व बरोबर
+   (3) (a) आणि (b) बरोबर
+   (4) (c) आणि (d) बरोबर
+उत्तर / Answer: (3) (a) आणि (b) बरोबर
+Explanation: योग्य रूपे ‘मी’ आणि ‘तू’. संच A उत्तरतालिकेतील उत्तर 3.
+Source: MPSC Group C Mains 2021 · Paper I · Q35
+
+पुरविलेली Language.pdf: पृष्ठ 57; परीक्षा 6 ऑगस्ट 2022; उत्तरतालिका PDF पृष्ठ 73, संच A.
+
+54. [PYQ] मराठी भाषेत ‘क्ष’ व ‘ज्ञ’ ही ________ आहेत.
+   (1) मूळ व्यंजने
+   (2) जोडाक्षरे
+   (3) महाप्राण
+   (4) कठोर व्यंजने
+उत्तर / Answer: (2) जोडाक्षरे
+Explanation: क्ष व ज्ञ ही व्यंजनसंयोगांनी तयार झालेली जोडाक्षरे आहेत. संच A प्रश्न 22 चे उत्तर 2.
+Source: MPSC Group C Mains 2022 · Paper I · Q22
+
+पुरविलेली Language.pdf: PDF पृष्ठ 82; परीक्षा 4 फेब्रुवारी 2023; उत्तरतालिका पृष्ठ 99, संच A.
+
+55. [PYQ] पुढीलपैकी कोणते महाप्राण वर्ण आहेत ?
+   (1) ख्, घ्, छ्
+   (2) क्, ग्, च्
+   (3) द्, प्, ब्
+   (4) त्, ध्, द्
+उत्तर / Answer: (1) ख्, घ्, छ्
+Explanation: ख्, घ् आणि छ् या प्रत्येक उच्चारात महाप्राणत्व आहे. इतर गटांमध्ये अल्पप्राण वर्णही आहेत.
+Source: MPSC Group C Mains 2025 · Paper I · held 12 July 2026
+https://testbook.com/question-answer/%E0%A4%AA%E0%A5%81%E0%A4%A2%E0%A5%80%E0%A4%B2%E0%A4%AA%E0%A5%88%E0%A4%95%E0%A5%80-%E0%A4%95%E0%A5%8B%E0%A4%A3%E0%A4%A4%E0%A5%87-%E0%A4%AE%E0%A4%B9--6a586fd5981786c580ca9708
+Testbook वर या परीक्षा/दिनांकाखाली सूचीबद्ध प्रश्न; मूळ अधिकृत PDF स्वतंत्रपणे उपलब्ध नाही. संकेतस्थळावरील पर्याय जतन केले आहेत.
+
+56. [PYQ] ‘मुलांनी’मधील ‘मु’विषयी विधाने तपासा.
+(a) अक्षर आहे.
+(b) ध्वनिचिन्ह आहे.
+(c) स्वतंत्र मूलध्वनी आहे.
+(d) म् आणि उ हे मूलध्वनी आहेत.
+कोणती विधाने योग्य?
+   (1) a, d
+   (2) a, b, d
+   (3) फक्त a
+   (4) b, c
+उत्तर / Answer: (2) a, b, d
+Explanation: मु = म् + उ. म्हणून ‘मु’ हे अक्षर/ध्वनिचिन्ह, पण एकच मूलध्वनी नाही. प्रकाशित उत्तरानुसार a, b, d योग्य.
+Source: MPSC State Service Mains 2020 · Marathi/English objective
+https://testbook.com/question-answer/ques--644b966860c3cdd0f0140406
+स्रोतावरील PYQ चे संक्षिप्त मराठी रूपांतर. विधाने, योग्य संयोग आणि पर्यायांचे तर्क जतन; शब्दशः प्रत नाही.
+
+57. [PYQ] स्वरप्रकार आणि त्यांचे वर्णन जुळवा.
+(a) दीर्घ  (b) संयुक्त  (c) सजातीय  (d) विजातीय
+(i) समान उच्चारस्थान
+(ii) वेगवेगळी उच्चारस्थाने
+(iii) दीर्घ उच्चारकाल
+(iv) दोन स्वरांचा संयोग
+   (1) a–iii, b–ii, c–iv, d–i
+   (2) a–iii, b–iv, c–i, d–ii
+   (3) a–ii, b–i, c–iii, d–iv
+   (4) a–iv, b–iii, c–ii, d–i
+उत्तर / Answer: (2) a–iii, b–iv, c–i, d–ii
+Explanation: दीर्घ → उच्चारकाल; संयुक्त → स्वरसंयोग; सजातीय → समान स्थान; विजातीय → वेगवेगळे स्थान.
+Source: MPSC State Service Mains 2019 · Marathi/English objective
+https://testbook.com/question-answer/ques--644ea8cd6b0b5d583f49c74e
+प्रकाशित जुळवा-PYQ चे संक्षिप्त रूपांतर. चार स्वरप्रकार आणि योग्य जुळणी जतन केली आहे.
+
+58. [PRACTICE] ‘क्’ आणि ‘क’ यांतील मुख्य फरक कोणता?
+   (1) ‘क’मध्ये अ स्वर अंतर्भूत आहे; ‘क्’मध्ये तो नाही.
+   (2) ‘क्’ हा स्वर आहे.
+   (3) दोन्ही स्वतंत्र स्वर आहेत.
+   (4) ‘क’ हे जोडाक्षर आहे.
+उत्तर / Answer: (1) ‘क’मध्ये अ स्वर अंतर्भूत आहे; ‘क्’मध्ये तो नाही.
+Explanation: क = क् + अ. हलंताने अंतर्निहित स्वराचा लोप दर्शविला जातो.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+59. [PRACTICE] ‘कु’ या अक्षराची योग्य वर्णफोड कोणती?
+   (1) क् + उ
+   (2) क् + ऊ
+   (3) क + अ
+   (4) क् + इ
+उत्तर / Answer: (1) क् + उ
+Explanation: ‘कु’मध्ये क् व्यंजनाला उ स्वर जोडला आहे.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+60. [PRACTICE] ‘खी’ची वर्णफोड कोणती?
+   (1) ख् + इ
+   (2) ख् + ई
+   (3) क् + ई
+   (4) ख् + ए
+उत्तर / Answer: (2) ख् + ई
+Explanation: दीर्घ ईची मात्रा असल्याने खी = ख् + ई.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+61. [PRACTICE] खालीलपैकी कोणत्या पर्यायात स्वतंत्र स्वर आणि त्याची मात्रा योग्य जुळली आहे?
+   (1) आ — ि
+   (2) ई — ी
+   (3) उ — ू
+   (4) ए — ै
+उत्तर / Answer: (2) ई — ी
+Explanation: ईचे स्वरचिन्ह ी. आ→ा, उ→ु आणि ए→े.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+62. [PRACTICE] ‘कृ’मधील व्यंजनाला जोडलेले स्वरचिन्ह कोणत्या स्वराचे आहे?
+   (1) र
+   (2) ऋ
+   (3) उ
+   (4) इ
+उत्तर / Answer: (2) ऋ
+Explanation: कृ = क् + ऋ. ृ हे ऋचे स्वरचिन्ह आहे.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+63. [PRACTICE] ‘कि’चे लेखन व उच्चार याबाबत योग्य विधान निवडा.
+   (1) इची मात्रा दिसायला डावीकडे; उच्चारात क् नंतर इ.
+   (2) इ हा उच्चारात क् पूर्वी येतो.
+   (3) कि हे दोन स्वतंत्र अक्षरांचे रूप आहे.
+   (4) कि मध्ये दीर्घ ई आहे.
+उत्तर / Answer: (1) इची मात्रा दिसायला डावीकडे; उच्चारात क् नंतर इ.
+Explanation: लेखनातील मात्रेचे स्थान व वर्णांचा उच्चारक्रम वेगळे असू शकतात: कि = क् + इ.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+64. [PRACTICE] खालीलपैकी केवळ ऱ्हस्व स्वरांचा गट कोणता? (पारंपरिक शालेय वर्गीकरण)
+   (1) अ, इ, उ, ऋ
+   (2) आ, ई, ऊ, ए
+   (3) अ, आ, इ, ई
+   (4) ए, ऐ, ओ, औ
+उत्तर / Answer: (1) अ, इ, उ, ऋ
+Explanation: पारंपरिक वर्गीकरणात अ, इ, उ, ऋ हे ऱ्हस्व स्वर घेतले जातात.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+65. [PRACTICE] आ, ई, ऊ हे कोणत्या गटातील स्वर आहेत?
+   (1) दीर्घ
+   (2) ऱ्हस्व
+   (3) अनुनासिक व्यंजने
+   (4) संयुक्ताक्षरे
+उत्तर / Answer: (1) दीर्घ
+Explanation: आ, ई, ऊ हे दीर्घ स्वर आहेत.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+66. [PRACTICE] पारंपरिक स्वरविचारानुसार संयुक्त स्वरांची योग्य यादी कोणती?
+   (1) ए, ऐ, ओ, औ
+   (2) अ, आ, इ, ई
+   (3) क, ख, ग, घ
+   (4) ऋ, ङ, ञ, ण
+उत्तर / Answer: (1) ए, ऐ, ओ, औ
+Explanation: या वर्गीकरणात ए, ऐ, ओ, औ यांना संयुक्त स्वर म्हणतात.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+67. [PRACTICE] सजातीय स्वरांची जोडी कोणती? (उच्चारस्थानाच्या आधारे)
+   (1) इ–ई
+   (2) अ–उ
+   (3) इ–ओ
+   (4) ऋ–आ
+उत्तर / Answer: (1) इ–ई
+Explanation: इ आणि ई दोन्ही तालव्य; म्हणून सजातीय.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+68. [PRACTICE] विजातीय स्वरांची जोडी निवडा.
+   (1) अ–आ
+   (2) इ–ई
+   (3) उ–ऊ
+   (4) इ–उ
+उत्तर / Answer: (4) इ–उ
+Explanation: इ तालव्य, उ ओष्ठ्य; उच्चारस्थाने वेगवेगळी आहेत.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+69. [PRACTICE] ‘अं’ व ‘अः’ यांच्या वर्गीकरणासाठी पारंपरिक व्याकरणात वापरली जाणारी संज्ञा कोणती?
+   (1) स्वरादी
+   (2) अंतस्थ व्यंजने
+   (3) क-वर्ग
+   (4) यणादेश
+उत्तर / Answer: (1) स्वरादी
+Explanation: अनुस्वार-विसर्ग यांचा उल्लेख स्वरादी या संज्ञेखाली केला जातो. वर्गीकरणाची पद्धत संदर्भग्रंथानुसार स्पष्ट करावी.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+70. [PRACTICE] ‘ँ’ या चिन्हाचे नाव कोणते?
+   (1) विसर्ग
+   (2) चंद्रबिंदू
+   (3) हलंत
+   (4) उकार
+उत्तर / Answer: (2) चंद्रबिंदू
+Explanation: चंद्रबिंदू हे अनुनासिकत्व दर्शविणारे चिन्ह आहे.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+71. [PRACTICE] स्वररहित व्यंजन दर्शविण्यासाठी वापरले जाणारे चिन्ह कोणते?
+   (1) ्
+   (2) ं
+   (3) ः
+   (4) ा
+उत्तर / Answer: (1) ्
+Explanation: ् हे हलंत/विराम चिन्ह आहे.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+72. [PRACTICE] क-वर्गाचा योग्य क्रम कोणता?
+   (1) क ख ग घ ङ
+   (2) क ग ख घ ङ
+   (3) क ख घ ग ङ
+   (4) ङ घ ग ख क
+उत्तर / Answer: (1) क ख ग घ ङ
+Explanation: क-वर्गाचा वर्णक्रम क, ख, ग, घ, ङ असा आहे.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+73. [PRACTICE] ट-वर्ग व त-वर्ग यांतील मुख्य उच्चारस्थानभेद कोणता?
+   (1) मूर्धा आणि दात
+   (2) तालू आणि ओठ
+   (3) कंठ आणि तालू
+   (4) दात आणि ओठ
+उत्तर / Answer: (1) मूर्धा आणि दात
+Explanation: ट-वर्ग मूर्धन्य; त-वर्ग दंत्य.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+74. [PRACTICE] खालीलपैकी भिन्न व्यंजनवर्गातील वर्ण कोणता?
+   (1) च
+   (2) छ
+   (3) ज
+   (4) ठ
+उत्तर / Answer: (4) ठ
+Explanation: च, छ, ज हे च-वर्गातील; ठ हा ट-वर्गातील.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+75. [PRACTICE] खालील गटातील वेगळा वर्ण ओळखा: प, फ, ब, भ, न.
+   (1) प
+   (2) ब
+   (3) भ
+   (4) न
+उत्तर / Answer: (4) न
+Explanation: न हा त-वर्गाचा; इतर दिलेले वर्ण प-वर्गाचे आहेत.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+76. [PRACTICE] स्पर्श व्यंजनांच्या प्रत्येक वर्गातील शेवटचा वर्ण कोणते गुणधर्म दर्शवितो?
+   (1) अनुनासिकत्व
+   (2) अघोष महाप्राणत्व
+   (3) विसर्गत्व
+   (4) स्वरत्व
+उत्तर / Answer: (1) अनुनासिकत्व
+Explanation: ङ, ञ, ण, न, म हे अनुनासिक वर्ण आहेत.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+77. [PRACTICE] कोणत्या जोडीतील दोन्ही व्यंजने अघोष अल्पप्राण आहेत?
+   (1) क्–त्
+   (2) ग्–द्
+   (3) ख्–थ्
+   (4) घ्–ध्
+उत्तर / Answer: (1) क्–त्
+Explanation: पहिल्या क्रमांकाचे क्, च्, ट्, त्, प् हे अघोष अल्पप्राण.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+78. [PRACTICE] कोणत्या जोडीतील दोन्ही व्यंजने सघोष महाप्राण आहेत?
+   (1) ख्–छ्
+   (2) घ्–भ्
+   (3) ग्–ब्
+   (4) क्–प्
+उत्तर / Answer: (2) घ्–भ्
+Explanation: वर्गातील चौथ्या क्रमांकाचे घ् व भ् सघोष महाप्राण.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+79. [PRACTICE] सर्व वर्ण सघोष अल्पप्राण असलेला पर्याय निवडा.
+   (1) ग्, ज्, ड्, द्, ब्
+   (2) क्, च्, ट्, त्, प्
+   (3) ख्, छ्, ठ्, थ्, फ्
+   (4) घ्, झ्, ढ्, ध्, भ्
+उत्तर / Answer: (1) ग्, ज्, ड्, द्, ब्
+Explanation: प्रत्येक स्पर्शवर्गाचा तिसरा वर्ण सघोष अल्पप्राण असतो.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+80. [PRACTICE] ‘प्’पासून ‘फ्’पर्यंत उच्चारात कोणता मुख्य भेद होतो?
+   (1) अल्पप्राण ते महाप्राण
+   (2) अघोष ते सघोष
+   (3) ओष्ठ्य ते दंत्य
+   (4) व्यंजन ते स्वर
+उत्तर / Answer: (1) अल्पप्राण ते महाप्राण
+Explanation: प् आणि फ् दोन्ही अघोष ओष्ठ्य; प्राणत्वात फरक.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+81. [PRACTICE] ‘क्’ आणि ‘ग्’ची तुलना करताना योग्य विधान कोणते?
+   (1) क् अघोष, ग् सघोष; दोन्ही अल्पप्राण.
+   (2) क् सघोष, ग् अघोष.
+   (3) दोन्ही महाप्राण.
+   (4) दोन्ही अनुनासिक.
+उत्तर / Answer: (1) क् अघोष, ग् सघोष; दोन्ही अल्पप्राण.
+Explanation: क्–ग् यांची जोडी घोषत्वातील फरक दाखवते.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+82. [PRACTICE] गट आणि नासिक्य वर्ण यांची अयोग्य जोडी कोणती?
+   (1) क-वर्ग — ङ
+   (2) च-वर्ग — ञ
+   (3) ट-वर्ग — न
+   (4) प-वर्ग — म
+उत्तर / Answer: (3) ट-वर्ग — न
+Explanation: ट-वर्गाचा नासिक्य वर्ण ण; न हा त-वर्गाचा.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+83. [PRACTICE] खालीलपैकी अंतस्थ व्यंजन नसलेला वर्ण कोणता?
+   (1) य
+   (2) र
+   (3) व
+   (4) श
+उत्तर / Answer: (4) श
+Explanation: य, र, ल, व अंतस्थ; श ऊष्म व्यंजन.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+84. [PRACTICE] श, ष, स यांची उच्चारस्थानानुसार योग्य जुळणी निवडा.
+   (1) तालव्य–मूर्धन्य–दंत्य
+   (2) दंत्य–तालव्य–मूर्धन्य
+   (3) मूर्धन्य–दंत्य–तालव्य
+   (4) ओष्ठ्य–कंठ्य–दंत्य
+उत्तर / Answer: (1) तालव्य–मूर्धन्य–दंत्य
+Explanation: पारंपरिक क्रम: श तालव्य, ष मूर्धन्य, स दंत्य.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+85. [PRACTICE] खालीलपैकी ओष्ठ्य व्यंजनांचा गट कोणता?
+   (1) प, ब, म
+   (2) त, द, न
+   (3) ट, ड, ण
+   (4) च, ज, ञ
+उत्तर / Answer: (1) प, ब, म
+Explanation: प-वर्गातील व्यंजने ओठांच्या साहाय्याने उच्चारली जातात.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+86. [PRACTICE] त, थ, द, ध, न या सर्व वर्णांचे समान उच्चारस्थान कोणते?
+   (1) दात
+   (2) कंठ
+   (3) तालू
+   (4) मूर्धा
+उत्तर / Answer: (1) दात
+Explanation: ही सर्व त-वर्गातील दंत्य व्यंजने आहेत.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+87. [PRACTICE] वर्णवर्ग आणि उदाहरण यांची योग्य जोडी कोणती?
+   (1) कंठ्य — घ
+   (2) दंत्य — ड
+   (3) ओष्ठ्य — ज
+   (4) मूर्धन्य — फ
+उत्तर / Answer: (1) कंठ्य — घ
+Explanation: घ हा क-वर्गातील कंठ्य वर्ण.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+88. [PRACTICE] ‘क्त’ची योग्य वर्णफोड निवडा.
+   (1) क् + त
+   (2) ख् + त
+   (3) क् + थ
+   (4) ग् + त
+उत्तर / Answer: (1) क् + त
+Explanation: क्त हे क् आणि त यांच्या संयोगाचे जोडाक्षर.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+89. [PRACTICE] ‘द्व’चे घटक कोणते?
+   (1) द् + व
+   (2) ड् + व
+   (3) द् + ब
+   (4) ध् + व
+उत्तर / Answer: (1) द् + व
+Explanation: द्व = द् + व.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+90. [PRACTICE] ‘स्त्र’ या जोडाक्षराची योग्य फोड कोणती?
+   (1) स् + त् + र
+   (2) श् + त् + र
+   (3) स् + थ् + र
+   (4) स् + त् + ल
+उत्तर / Answer: (1) स् + त् + र
+Explanation: स्त्र या संयुक्तरूपात स्, त्, र् ही व्यंजने येतात; दिलेल्या पर्यायात अंतिम रमध्ये अ अंतर्भूत आहे.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+91. [PRACTICE] ‘क्र’ आणि ‘र्क’ यांबाबत योग्य विधान निवडा.
+   (1) क्र = क् + र; र्क = र् + क.
+   (2) दोन्हींचा उच्चारक्रम सारखाच.
+   (3) दोन्ही स्वतंत्र स्वर.
+   (4) र्क मध्ये र् नसतो.
+उत्तर / Answer: (1) क्र = क् + र; र्क = र् + क.
+Explanation: व्यंजनांचा क्रम बदलल्याने संयुक्तरूप व उच्चार बदलतात.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+92. [PRACTICE] बाराखडीत ‘के’च्या नंतर कोणते रूप येते?
+   (1) कै
+   (2) कि
+   (3) कू
+   (4) कौ
+उत्तर / Answer: (1) कै
+Explanation: सामान्य बाराखडी क्रमात ... के, कै, को, कौ ... असा क्रम आहे.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+93. [PRACTICE] ‘कौ’ या रूपाला कोणता स्वर जोडलेला आहे?
+   (1) ओ
+   (2) औ
+   (3) ऊ
+   (4) आ
+उत्तर / Answer: (2) औ
+Explanation: कौ = क् + औ.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+94. [PRACTICE] ‘अ’ हा अंतर्निहित स्वर स्पष्टपणे न उच्चारता केवळ व्यंजन लिहायचे असल्यास योग्य रूप कोणते?
+   (1) म्
+   (2) म
+   (3) मा
+   (4) मी
+उत्तर / Answer: (1) म्
+Explanation: म् मध्ये हलंत आहे; ममध्ये अंतर्निहित अ आहे.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+95. [PRACTICE] पारंपरिक व्यंजनक्रमात ‘ग’ व ‘ङ’ यांच्या मध्ये कोणता वर्ण येतो?
+   (1) ख
+   (2) घ
+   (3) च
+   (4) ञ
+उत्तर / Answer: (2) घ
+Explanation: क, ख, ग, घ, ङ या क्रमात गनंतर घ आणि त्यानंतर ङ.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+96. [PRACTICE] दिलेल्या वर्णांचा योग्य क्रम निवडा: भ, त, क, च.
+   (1) क, च, त, भ
+   (2) च, क, भ, त
+   (3) त, भ, क, च
+   (4) क, त, च, भ
+उत्तर / Answer: (1) क, च, त, भ
+Explanation: क-वर्ग, च-वर्ग, त-वर्ग, प-वर्ग असा संबंधित वर्णांचा क्रम.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+97. [PRACTICE] विधाने तपासा: (a) स्वर स्वतंत्रपणे उच्चारता येतात. (b) सर्व जोडाक्षरे स्वतंत्र मूलवर्ण असतात.
+   (1) फक्त a योग्य
+   (2) फक्त b योग्य
+   (3) दोन्ही योग्य
+   (4) दोन्ही अयोग्य
+उत्तर / Answer: (1) फक्त a योग्य
+Explanation: संयुक्ताक्षरे अनेक व्यंजनांच्या संयोगातून तयार होतात; प्रत्येक संयुक्ताक्षर स्वतंत्र मूलवर्ण नसते.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+98. [PRACTICE] योग्य संयोग ओळखा: व्यंजन + स्वर = ?
+   (1) अक्षर
+   (2) विसर्ग
+   (3) अनुस्वार
+   (4) हलंत
+उत्तर / Answer: (1) अक्षर
+Explanation: उदा. क् + आ = का; व्यंजन-स्वर संयोगाने अक्षर तयार होते.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+99. [PRACTICE] एकाच वर्गातील पण भिन्न प्राणत्व असलेल्या सघोष व्यंजनांची जोडी कोणती?
+   (1) द्–ध्
+   (2) त्–थ्
+   (3) क्–ग्
+   (4) म्–न्
+उत्तर / Answer: (1) द्–ध्
+Explanation: द् सघोष अल्पप्राण, ध् सघोष महाप्राण; दोन्ही त-वर्गाचे.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
+
+100. [PRACTICE] जुळवा: (a) प् (b) घ् (c) ण् (d) य्
+(i) अनुनासिक (ii) अंतस्थ (iii) अघोष अल्पप्राण (iv) सघोष महाप्राण
+   (1) a–iii, b–iv, c–i, d–ii
+   (2) a–iv, b–iii, c–ii, d–i
+   (3) a–i, b–ii, c–iii, d–iv
+   (4) a–ii, b–i, c–iv, d–iii
+उत्तर / Answer: (1) a–iii, b–iv, c–i, d–ii
+Explanation: प् अघोष अल्पप्राण; घ् सघोष महाप्राण; ण् अनुनासिक; य् अंतस्थ.
+Source: New important practice
+
+नव्याने तयार केलेला सराव प्रश्न. आगामी परीक्षेत येण्याची हमी किंवा सांख्यिकीय शक्यता नाही.
