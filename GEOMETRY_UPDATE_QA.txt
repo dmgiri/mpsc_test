@@ -1,0 +1,39 @@
+GEOMETRY LEARNING UPDATE — QA
+
+PASS — Self-contained HTML runs from local bytes with external network blocked
+PASS — Desktop setup — no page-level horizontal overflow
+PASS — Revision view contains all 50 questions
+PASS — All source filters retain 14/19/6/11 split
+PASS — Search, focus-area filter and correct question-specific solution
+PASS — Filtered text export contains solution, formula and trick
+PASS — Desktop revision — no page-level horizontal overflow
+PASS — Expand/collapse all 50 solutions
+PASS — Practice hint does not reveal the answer panel
+PASS — Check answer displays full Marathi solution and all teaching blocks
+PASS — Original font-size controls retained
+PASS — Desktop practice solution — no page-level horizontal overflow
+PASS — All 50 solutions render with correct answer, own formula and own memory trick
+PASS — Saved-answer rehydration with in-memory Storage adapter
+PASS — Submission and answer-review solutions for all 50 questions
+PASS — Result JSON and CSV exports include detailed learning notes
+PASS — Version-3 backup import still accepted; stable original answer indices retained
+PASS — Timed exams keep hints/solutions hidden and block revision view
+PASS — Timed auto-submission still works and then reveals solutions
+PASS — Mobile 390px setup — no page-level horizontal overflow
+PASS — Mobile 390px expanded solution — no page-level horizontal overflow
+PASS — Mobile 390px Latte solution — no page-level horizontal overflow
+PASS — Mobile 390px practice feedback — no page-level horizontal overflow
+PASS — Mobile 390px navigator and original vector diagram retained
+PASS — Mobile 320px setup — no page-level horizontal overflow
+PASS — Mobile 320px expanded solution — no page-level horizontal overflow
+PASS — Mobile 320px Latte solution — no page-level horizontal overflow
+PASS — Mobile 320px practice feedback — no page-level horizontal overflow
+PASS — Mobile 320px navigator and original vector diagram retained
+PASS — No browser JavaScript errors across desktop, mobile, exports and imports
+PASS — All original question fields, options, keys, source metadata and diagrams unchanged
+PASS — Other three subjects and 2024 full-paper files are byte-identical to prior ZIP
+
+Browser tests used direct HTML rendering with an in-memory Storage adapter because managed Chromium blocks navigation. Real file:// browser storage was not tested. No live PYQ source re-verification performed. Existing source metadata preserved.
+
+Mathematical calculation checks passed: 47 distinct question numbers.
+Q26, Q43 and Q47 use the stated standard definitions/angle properties rather than numeric evaluation.

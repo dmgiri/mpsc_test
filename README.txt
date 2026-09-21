@@ -1,3 +1,38 @@
+GEOMETRY LEARNING UPDATE
+========================
+Open index.html, then Geometry. Alternatively, open geometry.html directly.
+
+NEW FOR EVERY GEOMETRY QUESTION
+- Marathi concept explanation and applicable formula.
+- Step-by-step worked solution, quick method and memory trick.
+- Common mistake / scope caution.
+- Practice-only hint before revealing the answer.
+
+HOW TO READ THE SOLUTIONS
+1. On Geometry setup, click "Solutions & memory tricks" to revise all questions without taking a test.
+2. In Untimed practice, select an option and click "Check answer".
+3. In a Timed exam, submit to view full solutions in Answer review.
+The revision room is blocked while an unfinished timed Geometry attempt exists.
+
+REVISION ROOM
+Filter by source or topic; search notes; expand/collapse solutions; print or export filtered notes.
+geometry_memory_notes.txt contains all 50 questions with explanations and memory aids.
+geometry_questions.json includes the new learning object per question.
+Result JSON/CSV exports include the full authored explanations and memory aids.
+
+PRESERVATION
+All 50 original question texts, answer options, correct-answer indices, source metadata,
+diagrams and stable question IDs are unchanged. Marathi, English, Chemistry and the full-paper
+portal are unchanged. Existing state/backup version remains 3. To move a saved attempt to a
+new local file path or another browser, use the old portal's Backup button and the new
+portal's Import an attempt backup feature; local-file storage can be path/browser dependent.
+
+AUTHORSHIP
+The new explanations and mnemonics are independently authored study aids, not official
+exam-board solutions. Existing PYQ source attribution has not been reverified in this update.
+A shortcut applies only under the conditions described next to it.
+
+---------------- PREVIOUS PACKAGE INFORMATION ----------------
 MPSC PRACTICE STUDIO — TOPIC UPDATE
 ==================================
 OPENING
