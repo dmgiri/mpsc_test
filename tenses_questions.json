@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "tenses-001",
+    "q": "Every Monday, she ____ a report.",
+    "o": [
+      "write",
+      "writes",
+      "writing",
+      "written"
+    ],
+    "a": 1,
+    "t": "Simple Present",
+    "d": "Medium",
+    "trend": "High",
+    "x": "She is third-person singular, so use writes. Memory trick: He/She/It → verb+s/es",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "He/She/It → verb+s/es"
+  },
+  {
+    "id": "tenses-002",
+    "q": "Look! She is ____ a report.",
+    "o": [
+      "write",
+      "writing",
+      "wrote",
+      "written"
+    ],
+    "a": 1,
+    "t": "Present Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Use is/am/are + verb-ing. Memory trick: NOW → am/is/are + ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "NOW → am/is/are + ing"
+  },
+  {
+    "id": "tenses-003",
+    "q": "She has already ____ a report.",
+    "o": [
+      "wrote",
+      "written",
+      "writing",
+      "write"
+    ],
+    "a": 1,
+    "t": "Present Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Has + past participle. Memory trick: HAS/HAVE → V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAS/HAVE → V3"
+  },
+  {
+    "id": "tenses-004",
+    "q": "She has been ____ a report since morning.",
+    "o": [
+      "write",
+      "written",
+      "writing",
+      "wrote"
+    ],
+    "a": 2,
+    "t": "Present Perfect Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Has been + -ing expresses ongoing activity. Memory trick: SINCE/FOR → has/have been + ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "SINCE/FOR → has/have been + ing"
+  },
+  {
+    "id": "tenses-005",
+    "q": "Yesterday she ____ a report.",
+    "o": [
+      "writes",
+      "wrote",
+      "written",
+      "writing"
+    ],
+    "a": 1,
+    "t": "Simple Past",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Finished time yesterday uses V2. Memory trick: YESTERDAY → V2",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "YESTERDAY → V2"
+  },
+  {
+    "id": "tenses-006",
+    "q": "At 6 p.m. yesterday she was ____ a report.",
+    "o": [
+      "written",
+      "write",
+      "writing",
+      "writes"
+    ],
+    "a": 2,
+    "t": "Past Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Was/were + -ing. Memory trick: WAS/WERE → ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "WAS/WERE → ing"
+  },
+  {
+    "id": "tenses-007",
+    "q": "Before the manager arrived, she had ____ a report.",
+    "o": [
+      "wrote",
+      "writing",
+      "written",
+      "write"
+    ],
+    "a": 2,
+    "t": "Past Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Earlier of two past events takes had + V3. Memory trick: EARLIER PAST → had + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "EARLIER PAST → had + V3"
+  },
+  {
+    "id": "tenses-008",
+    "q": "She had been ____ a report for an hour when I arrived.",
+    "o": [
+      "writing",
+      "wrote",
+      "write",
+      "written"
+    ],
+    "a": 0,
+    "t": "Past Perfect Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Had been + -ing + duration. Memory trick: HAD BEEN → ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD BEEN → ing"
+  },
+  {
+    "id": "tenses-009",
+    "q": "Tomorrow she will ____ a report.",
+    "o": [
+      "writes",
+      "writing",
+      "write",
+      "wrote"
+    ],
+    "a": 2,
+    "t": "Simple Future",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Will takes base verb. Memory trick: WILL → V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "WILL → V1"
+  },
+  {
+    "id": "tenses-010",
+    "q": "By next Friday she will have ____ a report.",
+    "o": [
+      "write",
+      "wrote",
+      "writing",
+      "written"
+    ],
+    "a": 3,
+    "t": "Future Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Will have + V3 before a future deadline. Memory trick: BY + future time → will have + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "BY + future time → will have + V3"
+  },
+  {
+    "id": "tenses-011",
+    "q": "Every Monday, she ____ a model.",
+    "o": [
+      "build",
+      "builds",
+      "building",
+      "built"
+    ],
+    "a": 1,
+    "t": "Simple Present",
+    "d": "Medium",
+    "trend": "High",
+    "x": "She is third-person singular, so use builds. Memory trick: He/She/It → verb+s/es",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "He/She/It → verb+s/es"
+  },
+  {
+    "id": "tenses-012",
+    "q": "Look! She is ____ a model.",
+    "o": [
+      "build",
+      "building",
+      "built",
+      "built"
+    ],
+    "a": 1,
+    "t": "Present Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Use is/am/are + verb-ing. Memory trick: NOW → am/is/are + ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "NOW → am/is/are + ing"
+  },
+  {
+    "id": "tenses-013",
+    "q": "She has already ____ a model.",
+    "o": [
+      "built",
+      "built",
+      "building",
+      "build"
+    ],
+    "a": 1,
+    "t": "Present Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Has + past participle. Memory trick: HAS/HAVE → V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAS/HAVE → V3"
+  },
+  {
+    "id": "tenses-014",
+    "q": "She has been ____ a model since morning.",
+    "o": [
+      "build",
+      "built",
+      "building",
+      "built"
+    ],
+    "a": 2,
+    "t": "Present Perfect Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Has been + -ing expresses ongoing activity. Memory trick: SINCE/FOR → has/have been + ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "SINCE/FOR → has/have been + ing"
+  },
+  {
+    "id": "tenses-015",
+    "q": "Yesterday she ____ a model.",
+    "o": [
+      "builds",
+      "built",
+      "built",
+      "building"
+    ],
+    "a": 1,
+    "t": "Simple Past",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Finished time yesterday uses V2. Memory trick: YESTERDAY → V2",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "YESTERDAY → V2"
+  },
+  {
+    "id": "tenses-016",
+    "q": "At 6 p.m. yesterday she was ____ a model.",
+    "o": [
+      "built",
+      "build",
+      "building",
+      "builds"
+    ],
+    "a": 2,
+    "t": "Past Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Was/were + -ing. Memory trick: WAS/WERE → ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "WAS/WERE → ing"
+  },
+  {
+    "id": "tenses-017",
+    "q": "Before the manager arrived, she had ____ a model.",
+    "o": [
+      "built",
+      "building",
+      "built",
+      "build"
+    ],
+    "a": 2,
+    "t": "Past Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Earlier of two past events takes had + V3. Memory trick: EARLIER PAST → had + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "EARLIER PAST → had + V3"
+  },
+  {
+    "id": "tenses-018",
+    "q": "She had been ____ a model for an hour when I arrived.",
+    "o": [
+      "building",
+      "built",
+      "build",
+      "built"
+    ],
+    "a": 0,
+    "t": "Past Perfect Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Had been + -ing + duration. Memory trick: HAD BEEN → ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD BEEN → ing"
+  },
+  {
+    "id": "tenses-019",
+    "q": "Tomorrow she will ____ a model.",
+    "o": [
+      "builds",
+      "building",
+      "build",
+      "built"
+    ],
+    "a": 2,
+    "t": "Simple Future",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Will takes base verb. Memory trick: WILL → V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "WILL → V1"
+  },
+  {
+    "id": "tenses-020",
+    "q": "By next Friday she will have ____ a model.",
+    "o": [
+      "build",
+      "built",
+      "building",
+      "built"
+    ],
+    "a": 3,
+    "t": "Future Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Will have + V3 before a future deadline. Memory trick: BY + future time → will have + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "BY + future time → will have + V3"
+  },
+  {
+    "id": "tenses-021",
+    "q": "Every Monday, she ____ the lesson.",
+    "o": [
+      "prepare",
+      "prepares",
+      "preparing",
+      "prepared"
+    ],
+    "a": 1,
+    "t": "Simple Present",
+    "d": "Medium",
+    "trend": "High",
+    "x": "She is third-person singular, so use prepares. Memory trick: He/She/It → verb+s/es",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "He/She/It → verb+s/es"
+  },
+  {
+    "id": "tenses-022",
+    "q": "Look! She is ____ the lesson.",
+    "o": [
+      "prepare",
+      "preparing",
+      "prepared",
+      "prepared"
+    ],
+    "a": 1,
+    "t": "Present Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Use is/am/are + verb-ing. Memory trick: NOW → am/is/are + ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "NOW → am/is/are + ing"
+  },
+  {
+    "id": "tenses-023",
+    "q": "She has already ____ the lesson.",
+    "o": [
+      "prepared",
+      "prepared",
+      "preparing",
+      "prepare"
+    ],
+    "a": 1,
+    "t": "Present Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Has + past participle. Memory trick: HAS/HAVE → V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAS/HAVE → V3"
+  },
+  {
+    "id": "tenses-024",
+    "q": "She has been ____ the lesson since morning.",
+    "o": [
+      "prepare",
+      "prepared",
+      "preparing",
+      "prepared"
+    ],
+    "a": 2,
+    "t": "Present Perfect Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Has been + -ing expresses ongoing activity. Memory trick: SINCE/FOR → has/have been + ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "SINCE/FOR → has/have been + ing"
+  },
+  {
+    "id": "tenses-025",
+    "q": "Yesterday she ____ the lesson.",
+    "o": [
+      "prepares",
+      "prepared",
+      "prepared",
+      "preparing"
+    ],
+    "a": 1,
+    "t": "Simple Past",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Finished time yesterday uses V2. Memory trick: YESTERDAY → V2",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "YESTERDAY → V2"
+  },
+  {
+    "id": "tenses-026",
+    "q": "At 6 p.m. yesterday she was ____ the lesson.",
+    "o": [
+      "prepared",
+      "prepare",
+      "preparing",
+      "prepares"
+    ],
+    "a": 2,
+    "t": "Past Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Was/were + -ing. Memory trick: WAS/WERE → ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "WAS/WERE → ing"
+  },
+  {
+    "id": "tenses-027",
+    "q": "Before the manager arrived, she had ____ the lesson.",
+    "o": [
+      "prepared",
+      "preparing",
+      "prepared",
+      "prepare"
+    ],
+    "a": 2,
+    "t": "Past Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Earlier of two past events takes had + V3. Memory trick: EARLIER PAST → had + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "EARLIER PAST → had + V3"
+  },
+  {
+    "id": "tenses-028",
+    "q": "She had been ____ the lesson for an hour when I arrived.",
+    "o": [
+      "preparing",
+      "prepared",
+      "prepare",
+      "prepared"
+    ],
+    "a": 0,
+    "t": "Past Perfect Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Had been + -ing + duration. Memory trick: HAD BEEN → ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD BEEN → ing"
+  },
+  {
+    "id": "tenses-029",
+    "q": "Tomorrow she will ____ the lesson.",
+    "o": [
+      "prepares",
+      "preparing",
+      "prepare",
+      "prepared"
+    ],
+    "a": 2,
+    "t": "Simple Future",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Will takes base verb. Memory trick: WILL → V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "WILL → V1"
+  },
+  {
+    "id": "tenses-030",
+    "q": "By next Friday she will have ____ the lesson.",
+    "o": [
+      "prepare",
+      "prepared",
+      "preparing",
+      "prepared"
+    ],
+    "a": 3,
+    "t": "Future Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Will have + V3 before a future deadline. Memory trick: BY + future time → will have + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "BY + future time → will have + V3"
+  },
+  {
+    "id": "tenses-031",
+    "q": "Every Monday, she ____ the document.",
+    "o": [
+      "review",
+      "reviews",
+      "reviewing",
+      "reviewed"
+    ],
+    "a": 1,
+    "t": "Simple Present",
+    "d": "Medium",
+    "trend": "High",
+    "x": "She is third-person singular, so use reviews. Memory trick: He/She/It → verb+s/es",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "He/She/It → verb+s/es"
+  },
+  {
+    "id": "tenses-032",
+    "q": "Look! She is ____ the document.",
+    "o": [
+      "review",
+      "reviewing",
+      "reviewed",
+      "reviewed"
+    ],
+    "a": 1,
+    "t": "Present Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Use is/am/are + verb-ing. Memory trick: NOW → am/is/are + ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "NOW → am/is/are + ing"
+  },
+  {
+    "id": "tenses-033",
+    "q": "She has already ____ the document.",
+    "o": [
+      "reviewed",
+      "reviewed",
+      "reviewing",
+      "review"
+    ],
+    "a": 1,
+    "t": "Present Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Has + past participle. Memory trick: HAS/HAVE → V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAS/HAVE → V3"
+  },
+  {
+    "id": "tenses-034",
+    "q": "She has been ____ the document since morning.",
+    "o": [
+      "review",
+      "reviewed",
+      "reviewing",
+      "reviewed"
+    ],
+    "a": 2,
+    "t": "Present Perfect Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Has been + -ing expresses ongoing activity. Memory trick: SINCE/FOR → has/have been + ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "SINCE/FOR → has/have been + ing"
+  },
+  {
+    "id": "tenses-035",
+    "q": "Yesterday she ____ the document.",
+    "o": [
+      "reviews",
+      "reviewed",
+      "reviewed",
+      "reviewing"
+    ],
+    "a": 1,
+    "t": "Simple Past",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Finished time yesterday uses V2. Memory trick: YESTERDAY → V2",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "YESTERDAY → V2"
+  },
+  {
+    "id": "tenses-036",
+    "q": "At 6 p.m. yesterday she was ____ the document.",
+    "o": [
+      "reviewed",
+      "review",
+      "reviewing",
+      "reviews"
+    ],
+    "a": 2,
+    "t": "Past Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Was/were + -ing. Memory trick: WAS/WERE → ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "WAS/WERE → ing"
+  },
+  {
+    "id": "tenses-037",
+    "q": "Before the manager arrived, she had ____ the document.",
+    "o": [
+      "reviewed",
+      "reviewing",
+      "reviewed",
+      "review"
+    ],
+    "a": 2,
+    "t": "Past Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Earlier of two past events takes had + V3. Memory trick: EARLIER PAST → had + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "EARLIER PAST → had + V3"
+  },
+  {
+    "id": "tenses-038",
+    "q": "She had been ____ the document for an hour when I arrived.",
+    "o": [
+      "reviewing",
+      "reviewed",
+      "review",
+      "reviewed"
+    ],
+    "a": 0,
+    "t": "Past Perfect Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Had been + -ing + duration. Memory trick: HAD BEEN → ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD BEEN → ing"
+  },
+  {
+    "id": "tenses-039",
+    "q": "Tomorrow she will ____ the document.",
+    "o": [
+      "reviews",
+      "reviewing",
+      "review",
+      "reviewed"
+    ],
+    "a": 2,
+    "t": "Simple Future",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Will takes base verb. Memory trick: WILL → V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "WILL → V1"
+  },
+  {
+    "id": "tenses-040",
+    "q": "By next Friday she will have ____ the document.",
+    "o": [
+      "review",
+      "reviewed",
+      "reviewing",
+      "reviewed"
+    ],
+    "a": 3,
+    "t": "Future Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Will have + V3 before a future deadline. Memory trick: BY + future time → will have + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "BY + future time → will have + V3"
+  },
+  {
+    "id": "tenses-041",
+    "q": "Every Monday, she ____ the results.",
+    "o": [
+      "check",
+      "checks",
+      "checking",
+      "checked"
+    ],
+    "a": 1,
+    "t": "Simple Present",
+    "d": "Medium",
+    "trend": "High",
+    "x": "She is third-person singular, so use checks. Memory trick: He/She/It → verb+s/es",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "He/She/It → verb+s/es"
+  },
+  {
+    "id": "tenses-042",
+    "q": "Look! She is ____ the results.",
+    "o": [
+      "check",
+      "checking",
+      "checked",
+      "checked"
+    ],
+    "a": 1,
+    "t": "Present Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Use is/am/are + verb-ing. Memory trick: NOW → am/is/are + ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "NOW → am/is/are + ing"
+  },
+  {
+    "id": "tenses-043",
+    "q": "She has already ____ the results.",
+    "o": [
+      "checked",
+      "checked",
+      "checking",
+      "check"
+    ],
+    "a": 1,
+    "t": "Present Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Has + past participle. Memory trick: HAS/HAVE → V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAS/HAVE → V3"
+  },
+  {
+    "id": "tenses-044",
+    "q": "She has been ____ the results since morning.",
+    "o": [
+      "check",
+      "checked",
+      "checking",
+      "checked"
+    ],
+    "a": 2,
+    "t": "Present Perfect Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Has been + -ing expresses ongoing activity. Memory trick: SINCE/FOR → has/have been + ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "SINCE/FOR → has/have been + ing"
+  },
+  {
+    "id": "tenses-045",
+    "q": "Yesterday she ____ the results.",
+    "o": [
+      "checks",
+      "checked",
+      "checked",
+      "checking"
+    ],
+    "a": 1,
+    "t": "Simple Past",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Finished time yesterday uses V2. Memory trick: YESTERDAY → V2",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "YESTERDAY → V2"
+  },
+  {
+    "id": "tenses-046",
+    "q": "At 6 p.m. yesterday she was ____ the results.",
+    "o": [
+      "checked",
+      "check",
+      "checking",
+      "checks"
+    ],
+    "a": 2,
+    "t": "Past Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Was/were + -ing. Memory trick: WAS/WERE → ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "WAS/WERE → ing"
+  },
+  {
+    "id": "tenses-047",
+    "q": "Before the manager arrived, she had ____ the results.",
+    "o": [
+      "checked",
+      "checking",
+      "checked",
+      "check"
+    ],
+    "a": 2,
+    "t": "Past Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Earlier of two past events takes had + V3. Memory trick: EARLIER PAST → had + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "EARLIER PAST → had + V3"
+  },
+  {
+    "id": "tenses-048",
+    "q": "She had been ____ the results for an hour when I arrived.",
+    "o": [
+      "checking",
+      "checked",
+      "check",
+      "checked"
+    ],
+    "a": 0,
+    "t": "Past Perfect Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Had been + -ing + duration. Memory trick: HAD BEEN → ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD BEEN → ing"
+  },
+  {
+    "id": "tenses-049",
+    "q": "Tomorrow she will ____ the results.",
+    "o": [
+      "checks",
+      "checking",
+      "check",
+      "checked"
+    ],
+    "a": 2,
+    "t": "Simple Future",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Will takes base verb. Memory trick: WILL → V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "WILL → V1"
+  },
+  {
+    "id": "tenses-050",
+    "q": "By next Friday she will have ____ the results.",
+    "o": [
+      "check",
+      "checked",
+      "checking",
+      "checked"
+    ],
+    "a": 3,
+    "t": "Future Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Will have + V3 before a future deadline. Memory trick: BY + future time → will have + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "BY + future time → will have + V3"
+  },
+  {
+    "id": "tenses-051",
+    "q": "Every Monday, she ____ the assignment.",
+    "o": [
+      "finish",
+      "finishes",
+      "finishing",
+      "finished"
+    ],
+    "a": 1,
+    "t": "Simple Present",
+    "d": "Medium",
+    "trend": "High",
+    "x": "She is third-person singular, so use finishes. Memory trick: He/She/It → verb+s/es",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "He/She/It → verb+s/es"
+  },
+  {
+    "id": "tenses-052",
+    "q": "Look! She is ____ the assignment.",
+    "o": [
+      "finish",
+      "finishing",
+      "finished",
+      "finished"
+    ],
+    "a": 1,
+    "t": "Present Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Use is/am/are + verb-ing. Memory trick: NOW → am/is/are + ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "NOW → am/is/are + ing"
+  },
+  {
+    "id": "tenses-053",
+    "q": "She has already ____ the assignment.",
+    "o": [
+      "finished",
+      "finished",
+      "finishing",
+      "finish"
+    ],
+    "a": 1,
+    "t": "Present Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Has + past participle. Memory trick: HAS/HAVE → V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAS/HAVE → V3"
+  },
+  {
+    "id": "tenses-054",
+    "q": "She has been ____ the assignment since morning.",
+    "o": [
+      "finish",
+      "finished",
+      "finishing",
+      "finished"
+    ],
+    "a": 2,
+    "t": "Present Perfect Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Has been + -ing expresses ongoing activity. Memory trick: SINCE/FOR → has/have been + ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "SINCE/FOR → has/have been + ing"
+  },
+  {
+    "id": "tenses-055",
+    "q": "Yesterday she ____ the assignment.",
+    "o": [
+      "finishes",
+      "finished",
+      "finished",
+      "finishing"
+    ],
+    "a": 1,
+    "t": "Simple Past",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Finished time yesterday uses V2. Memory trick: YESTERDAY → V2",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "YESTERDAY → V2"
+  },
+  {
+    "id": "tenses-056",
+    "q": "At 6 p.m. yesterday she was ____ the assignment.",
+    "o": [
+      "finished",
+      "finish",
+      "finishing",
+      "finishes"
+    ],
+    "a": 2,
+    "t": "Past Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Was/were + -ing. Memory trick: WAS/WERE → ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "WAS/WERE → ing"
+  },
+  {
+    "id": "tenses-057",
+    "q": "Before the manager arrived, she had ____ the assignment.",
+    "o": [
+      "finished",
+      "finishing",
+      "finished",
+      "finish"
+    ],
+    "a": 2,
+    "t": "Past Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Earlier of two past events takes had + V3. Memory trick: EARLIER PAST → had + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "EARLIER PAST → had + V3"
+  },
+  {
+    "id": "tenses-058",
+    "q": "She had been ____ the assignment for an hour when I arrived.",
+    "o": [
+      "finishing",
+      "finished",
+      "finish",
+      "finished"
+    ],
+    "a": 0,
+    "t": "Past Perfect Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Had been + -ing + duration. Memory trick: HAD BEEN → ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD BEEN → ing"
+  },
+  {
+    "id": "tenses-059",
+    "q": "Tomorrow she will ____ the assignment.",
+    "o": [
+      "finishes",
+      "finishing",
+      "finish",
+      "finished"
+    ],
+    "a": 2,
+    "t": "Simple Future",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Will takes base verb. Memory trick: WILL → V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "WILL → V1"
+  },
+  {
+    "id": "tenses-060",
+    "q": "By next Friday she will have ____ the assignment.",
+    "o": [
+      "finish",
+      "finished",
+      "finishing",
+      "finished"
+    ],
+    "a": 3,
+    "t": "Future Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Will have + V3 before a future deadline. Memory trick: BY + future time → will have + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "BY + future time → will have + V3"
+  },
+  {
+    "id": "tenses-061",
+    "q": "Every Monday, she ____ the room.",
+    "o": [
+      "clean",
+      "cleans",
+      "cleaning",
+      "cleaned"
+    ],
+    "a": 1,
+    "t": "Simple Present",
+    "d": "Medium",
+    "trend": "High",
+    "x": "She is third-person singular, so use cleans. Memory trick: He/She/It → verb+s/es",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "He/She/It → verb+s/es"
+  },
+  {
+    "id": "tenses-062",
+    "q": "Look! She is ____ the room.",
+    "o": [
+      "clean",
+      "cleaning",
+      "cleaned",
+      "cleaned"
+    ],
+    "a": 1,
+    "t": "Present Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Use is/am/are + verb-ing. Memory trick: NOW → am/is/are + ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "NOW → am/is/are + ing"
+  },
+  {
+    "id": "tenses-063",
+    "q": "She has already ____ the room.",
+    "o": [
+      "cleaned",
+      "cleaned",
+      "cleaning",
+      "clean"
+    ],
+    "a": 1,
+    "t": "Present Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Has + past participle. Memory trick: HAS/HAVE → V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAS/HAVE → V3"
+  },
+  {
+    "id": "tenses-064",
+    "q": "She has been ____ the room since morning.",
+    "o": [
+      "clean",
+      "cleaned",
+      "cleaning",
+      "cleaned"
+    ],
+    "a": 2,
+    "t": "Present Perfect Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Has been + -ing expresses ongoing activity. Memory trick: SINCE/FOR → has/have been + ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "SINCE/FOR → has/have been + ing"
+  },
+  {
+    "id": "tenses-065",
+    "q": "Yesterday she ____ the room.",
+    "o": [
+      "cleans",
+      "cleaned",
+      "cleaned",
+      "cleaning"
+    ],
+    "a": 1,
+    "t": "Simple Past",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Finished time yesterday uses V2. Memory trick: YESTERDAY → V2",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "YESTERDAY → V2"
+  },
+  {
+    "id": "tenses-066",
+    "q": "At 6 p.m. yesterday she was ____ the room.",
+    "o": [
+      "cleaned",
+      "clean",
+      "cleaning",
+      "cleans"
+    ],
+    "a": 2,
+    "t": "Past Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Was/were + -ing. Memory trick: WAS/WERE → ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "WAS/WERE → ing"
+  },
+  {
+    "id": "tenses-067",
+    "q": "Before the manager arrived, she had ____ the room.",
+    "o": [
+      "cleaned",
+      "cleaning",
+      "cleaned",
+      "clean"
+    ],
+    "a": 2,
+    "t": "Past Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Earlier of two past events takes had + V3. Memory trick: EARLIER PAST → had + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "EARLIER PAST → had + V3"
+  },
+  {
+    "id": "tenses-068",
+    "q": "She had been ____ the room for an hour when I arrived.",
+    "o": [
+      "cleaning",
+      "cleaned",
+      "clean",
+      "cleaned"
+    ],
+    "a": 0,
+    "t": "Past Perfect Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Had been + -ing + duration. Memory trick: HAD BEEN → ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD BEEN → ing"
+  },
+  {
+    "id": "tenses-069",
+    "q": "Tomorrow she will ____ the room.",
+    "o": [
+      "cleans",
+      "cleaning",
+      "clean",
+      "cleaned"
+    ],
+    "a": 2,
+    "t": "Simple Future",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Will takes base verb. Memory trick: WILL → V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "WILL → V1"
+  },
+  {
+    "id": "tenses-070",
+    "q": "By next Friday she will have ____ the room.",
+    "o": [
+      "clean",
+      "cleaned",
+      "cleaning",
+      "cleaned"
+    ],
+    "a": 3,
+    "t": "Future Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Will have + V3 before a future deadline. Memory trick: BY + future time → will have + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "BY + future time → will have + V3"
+  },
+  {
+    "id": "tenses-071",
+    "q": "Every Monday, she ____ a website.",
+    "o": [
+      "design",
+      "designs",
+      "designing",
+      "designed"
+    ],
+    "a": 1,
+    "t": "Simple Present",
+    "d": "Medium",
+    "trend": "High",
+    "x": "She is third-person singular, so use designs. Memory trick: He/She/It → verb+s/es",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "He/She/It → verb+s/es"
+  },
+  {
+    "id": "tenses-072",
+    "q": "Look! She is ____ a website.",
+    "o": [
+      "design",
+      "designing",
+      "designed",
+      "designed"
+    ],
+    "a": 1,
+    "t": "Present Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Use is/am/are + verb-ing. Memory trick: NOW → am/is/are + ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "NOW → am/is/are + ing"
+  },
+  {
+    "id": "tenses-073",
+    "q": "She has already ____ a website.",
+    "o": [
+      "designed",
+      "designed",
+      "designing",
+      "design"
+    ],
+    "a": 1,
+    "t": "Present Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Has + past participle. Memory trick: HAS/HAVE → V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAS/HAVE → V3"
+  },
+  {
+    "id": "tenses-074",
+    "q": "She has been ____ a website since morning.",
+    "o": [
+      "design",
+      "designed",
+      "designing",
+      "designed"
+    ],
+    "a": 2,
+    "t": "Present Perfect Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Has been + -ing expresses ongoing activity. Memory trick: SINCE/FOR → has/have been + ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "SINCE/FOR → has/have been + ing"
+  },
+  {
+    "id": "tenses-075",
+    "q": "Yesterday she ____ a website.",
+    "o": [
+      "designs",
+      "designed",
+      "designed",
+      "designing"
+    ],
+    "a": 1,
+    "t": "Simple Past",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Finished time yesterday uses V2. Memory trick: YESTERDAY → V2",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "YESTERDAY → V2"
+  },
+  {
+    "id": "tenses-076",
+    "q": "At 6 p.m. yesterday she was ____ a website.",
+    "o": [
+      "designed",
+      "design",
+      "designing",
+      "designs"
+    ],
+    "a": 2,
+    "t": "Past Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Was/were + -ing. Memory trick: WAS/WERE → ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "WAS/WERE → ing"
+  },
+  {
+    "id": "tenses-077",
+    "q": "Before the manager arrived, she had ____ a website.",
+    "o": [
+      "designed",
+      "designing",
+      "designed",
+      "design"
+    ],
+    "a": 2,
+    "t": "Past Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Earlier of two past events takes had + V3. Memory trick: EARLIER PAST → had + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "EARLIER PAST → had + V3"
+  },
+  {
+    "id": "tenses-078",
+    "q": "She had been ____ a website for an hour when I arrived.",
+    "o": [
+      "designing",
+      "designed",
+      "design",
+      "designed"
+    ],
+    "a": 0,
+    "t": "Past Perfect Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Had been + -ing + duration. Memory trick: HAD BEEN → ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD BEEN → ing"
+  },
+  {
+    "id": "tenses-079",
+    "q": "Tomorrow she will ____ a website.",
+    "o": [
+      "designs",
+      "designing",
+      "design",
+      "designed"
+    ],
+    "a": 2,
+    "t": "Simple Future",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Will takes base verb. Memory trick: WILL → V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "WILL → V1"
+  },
+  {
+    "id": "tenses-080",
+    "q": "By next Friday she will have ____ a website.",
+    "o": [
+      "design",
+      "designed",
+      "designing",
+      "designed"
+    ],
+    "a": 3,
+    "t": "Future Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Will have + V3 before a future deadline. Memory trick: BY + future time → will have + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "BY + future time → will have + V3"
+  },
+  {
+    "id": "tenses-081",
+    "q": "Every Monday, she ____ the machine.",
+    "o": [
+      "repair",
+      "repairs",
+      "repairing",
+      "repaired"
+    ],
+    "a": 1,
+    "t": "Simple Present",
+    "d": "Medium",
+    "trend": "High",
+    "x": "She is third-person singular, so use repairs. Memory trick: He/She/It → verb+s/es",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "He/She/It → verb+s/es"
+  },
+  {
+    "id": "tenses-082",
+    "q": "Look! She is ____ the machine.",
+    "o": [
+      "repair",
+      "repairing",
+      "repaired",
+      "repaired"
+    ],
+    "a": 1,
+    "t": "Present Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Use is/am/are + verb-ing. Memory trick: NOW → am/is/are + ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "NOW → am/is/are + ing"
+  },
+  {
+    "id": "tenses-083",
+    "q": "She has already ____ the machine.",
+    "o": [
+      "repaired",
+      "repaired",
+      "repairing",
+      "repair"
+    ],
+    "a": 1,
+    "t": "Present Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Has + past participle. Memory trick: HAS/HAVE → V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAS/HAVE → V3"
+  },
+  {
+    "id": "tenses-084",
+    "q": "She has been ____ the machine since morning.",
+    "o": [
+      "repair",
+      "repaired",
+      "repairing",
+      "repaired"
+    ],
+    "a": 2,
+    "t": "Present Perfect Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Has been + -ing expresses ongoing activity. Memory trick: SINCE/FOR → has/have been + ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "SINCE/FOR → has/have been + ing"
+  },
+  {
+    "id": "tenses-085",
+    "q": "Yesterday she ____ the machine.",
+    "o": [
+      "repairs",
+      "repaired",
+      "repaired",
+      "repairing"
+    ],
+    "a": 1,
+    "t": "Simple Past",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Finished time yesterday uses V2. Memory trick: YESTERDAY → V2",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "YESTERDAY → V2"
+  },
+  {
+    "id": "tenses-086",
+    "q": "At 6 p.m. yesterday she was ____ the machine.",
+    "o": [
+      "repaired",
+      "repair",
+      "repairing",
+      "repairs"
+    ],
+    "a": 2,
+    "t": "Past Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Was/were + -ing. Memory trick: WAS/WERE → ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "WAS/WERE → ing"
+  },
+  {
+    "id": "tenses-087",
+    "q": "Before the manager arrived, she had ____ the machine.",
+    "o": [
+      "repaired",
+      "repairing",
+      "repaired",
+      "repair"
+    ],
+    "a": 2,
+    "t": "Past Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Earlier of two past events takes had + V3. Memory trick: EARLIER PAST → had + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "EARLIER PAST → had + V3"
+  },
+  {
+    "id": "tenses-088",
+    "q": "She had been ____ the machine for an hour when I arrived.",
+    "o": [
+      "repairing",
+      "repaired",
+      "repair",
+      "repaired"
+    ],
+    "a": 0,
+    "t": "Past Perfect Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Had been + -ing + duration. Memory trick: HAD BEEN → ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD BEEN → ing"
+  },
+  {
+    "id": "tenses-089",
+    "q": "Tomorrow she will ____ the machine.",
+    "o": [
+      "repairs",
+      "repairing",
+      "repair",
+      "repaired"
+    ],
+    "a": 2,
+    "t": "Simple Future",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Will takes base verb. Memory trick: WILL → V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "WILL → V1"
+  },
+  {
+    "id": "tenses-090",
+    "q": "By next Friday she will have ____ the machine.",
+    "o": [
+      "repair",
+      "repaired",
+      "repairing",
+      "repaired"
+    ],
+    "a": 3,
+    "t": "Future Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Will have + V3 before a future deadline. Memory trick: BY + future time → will have + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "BY + future time → will have + V3"
+  },
+  {
+    "id": "tenses-091",
+    "q": "Every Monday, she ____ the event.",
+    "o": [
+      "organize",
+      "organizes",
+      "organizing",
+      "organized"
+    ],
+    "a": 1,
+    "t": "Simple Present",
+    "d": "Medium",
+    "trend": "High",
+    "x": "She is third-person singular, so use organizes. Memory trick: He/She/It → verb+s/es",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "He/She/It → verb+s/es"
+  },
+  {
+    "id": "tenses-092",
+    "q": "Look! She is ____ the event.",
+    "o": [
+      "organize",
+      "organizing",
+      "organized",
+      "organized"
+    ],
+    "a": 1,
+    "t": "Present Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Use is/am/are + verb-ing. Memory trick: NOW → am/is/are + ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "NOW → am/is/are + ing"
+  },
+  {
+    "id": "tenses-093",
+    "q": "She has already ____ the event.",
+    "o": [
+      "organized",
+      "organized",
+      "organizing",
+      "organize"
+    ],
+    "a": 1,
+    "t": "Present Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Has + past participle. Memory trick: HAS/HAVE → V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAS/HAVE → V3"
+  },
+  {
+    "id": "tenses-094",
+    "q": "She has been ____ the event since morning.",
+    "o": [
+      "organize",
+      "organized",
+      "organizing",
+      "organized"
+    ],
+    "a": 2,
+    "t": "Present Perfect Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Has been + -ing expresses ongoing activity. Memory trick: SINCE/FOR → has/have been + ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "SINCE/FOR → has/have been + ing"
+  },
+  {
+    "id": "tenses-095",
+    "q": "Yesterday she ____ the event.",
+    "o": [
+      "organizes",
+      "organized",
+      "organized",
+      "organizing"
+    ],
+    "a": 1,
+    "t": "Simple Past",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Finished time yesterday uses V2. Memory trick: YESTERDAY → V2",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "YESTERDAY → V2"
+  },
+  {
+    "id": "tenses-096",
+    "q": "At 6 p.m. yesterday she was ____ the event.",
+    "o": [
+      "organized",
+      "organize",
+      "organizing",
+      "organizes"
+    ],
+    "a": 2,
+    "t": "Past Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Was/were + -ing. Memory trick: WAS/WERE → ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "WAS/WERE → ing"
+  },
+  {
+    "id": "tenses-097",
+    "q": "Before the manager arrived, she had ____ the event.",
+    "o": [
+      "organized",
+      "organizing",
+      "organized",
+      "organize"
+    ],
+    "a": 2,
+    "t": "Past Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Earlier of two past events takes had + V3. Memory trick: EARLIER PAST → had + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "EARLIER PAST → had + V3"
+  },
+  {
+    "id": "tenses-098",
+    "q": "She had been ____ the event for an hour when I arrived.",
+    "o": [
+      "organizing",
+      "organized",
+      "organize",
+      "organized"
+    ],
+    "a": 0,
+    "t": "Past Perfect Continuous",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Had been + -ing + duration. Memory trick: HAD BEEN → ing",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD BEEN → ing"
+  },
+  {
+    "id": "tenses-099",
+    "q": "Tomorrow she will ____ the event.",
+    "o": [
+      "organizes",
+      "organizing",
+      "organize",
+      "organized"
+    ],
+    "a": 2,
+    "t": "Simple Future",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Will takes base verb. Memory trick: WILL → V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "WILL → V1"
+  },
+  {
+    "id": "tenses-100",
+    "q": "By next Friday she will have ____ the event.",
+    "o": [
+      "organize",
+      "organized",
+      "organizing",
+      "organized"
+    ],
+    "a": 3,
+    "t": "Future Perfect",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Will have + V3 before a future deadline. Memory trick: BY + future time → will have + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "BY + future time → will have + V3"
+  }
+]

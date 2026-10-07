@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "conditionals-001",
+    "q": "If she ____ a report today, she will get feedback.",
+    "o": [
+      "write",
+      "writes",
+      "wrote",
+      "writing"
+    ],
+    "a": 1,
+    "t": "First Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Real future possibility: if + present simple, will + V1. Memory trick: IF PRESENT → WILL V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → WILL V1"
+  },
+  {
+    "id": "conditionals-002",
+    "q": "If she ____ a report more carefully, she would avoid errors.",
+    "o": [
+      "writes",
+      "wrote",
+      "write",
+      "written"
+    ],
+    "a": 1,
+    "t": "Second Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Unreal present: if + V2, would + V1. Memory trick: IF V2 → WOULD V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF V2 → WOULD V1"
+  },
+  {
+    "id": "conditionals-003",
+    "q": "If she had ____ a report earlier, she would have saved time.",
+    "o": [
+      "wrote",
+      "written",
+      "writing",
+      "write"
+    ],
+    "a": 1,
+    "t": "Third Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Imaginary past: had + V3, would have + V3. Memory trick: IF HAD V3 → WOULD HAVE V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF HAD V3 → WOULD HAVE V3"
+  },
+  {
+    "id": "conditionals-004",
+    "q": "If she ____ a report every day, her skill improves.",
+    "o": [
+      "writes",
+      "writing",
+      "wrote",
+      "written"
+    ],
+    "a": 0,
+    "t": "Zero Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "General fact or habit: present simple in both clauses. Memory trick: IF PRESENT → PRESENT",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → PRESENT"
+  },
+  {
+    "id": "conditionals-005",
+    "q": "Unless she ____ a report, the supervisor will be unhappy.",
+    "o": [
+      "write",
+      "wrote",
+      "writes",
+      "writing"
+    ],
+    "a": 2,
+    "t": "Unless / First Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Unless means if not, and takes present simple. Memory trick: UNLESS = IF NOT",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "UNLESS = IF NOT"
+  },
+  {
+    "id": "conditionals-006",
+    "q": "If I were her, I ____ a report.",
+    "o": [
+      "will write",
+      "would write",
+      "had written",
+      "am writing"
+    ],
+    "a": 1,
+    "t": "Second Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "If I were + would V1 gives hypothetical advice. Memory trick: IF I WERE → WOULD",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF I WERE → WOULD"
+  },
+  {
+    "id": "conditionals-007",
+    "q": "If she had ____ a report yesterday, she would be free now.",
+    "o": [
+      "write",
+      "writing",
+      "written",
+      "wrote"
+    ],
+    "a": 2,
+    "t": "Mixed Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Past unreal cause, present result. Memory trick: HAD V3 → WOULD V1 NOW",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD V3 → WOULD V1 NOW"
+  },
+  {
+    "id": "conditionals-008",
+    "q": "Provided that she ____ a report, the team will approve it.",
+    "o": [
+      "writes",
+      "wrote",
+      "written",
+      "writing"
+    ],
+    "a": 0,
+    "t": "Provided that",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Provided that means on condition that; present simple for future. Memory trick: PROVIDED THAT = IF",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "PROVIDED THAT = IF"
+  },
+  {
+    "id": "conditionals-009",
+    "q": "If she ____ a report tomorrow, call me.",
+    "o": [
+      "writes",
+      "writing",
+      "wrote",
+      "written"
+    ],
+    "a": 0,
+    "t": "Imperative Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "If present simple, imperative in main clause. Memory trick: IF PRESENT → COMMAND",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → COMMAND"
+  },
+  {
+    "id": "conditionals-010",
+    "q": "Had she ____ a report sooner, she would have succeeded.",
+    "o": [
+      "write",
+      "written",
+      "wrote",
+      "writing"
+    ],
+    "a": 1,
+    "t": "Conditional Inversion",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Had + subject + V3 replaces if she had. Memory trick: HAD + SUBJECT + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD + SUBJECT + V3"
+  },
+  {
+    "id": "conditionals-011",
+    "q": "If she ____ a model today, she will get feedback.",
+    "o": [
+      "build",
+      "builds",
+      "built",
+      "building"
+    ],
+    "a": 1,
+    "t": "First Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Real future possibility: if + present simple, will + V1. Memory trick: IF PRESENT → WILL V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → WILL V1"
+  },
+  {
+    "id": "conditionals-012",
+    "q": "If she ____ a model more carefully, she would avoid errors.",
+    "o": [
+      "builds",
+      "built",
+      "build",
+      "built"
+    ],
+    "a": 1,
+    "t": "Second Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Unreal present: if + V2, would + V1. Memory trick: IF V2 → WOULD V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF V2 → WOULD V1"
+  },
+  {
+    "id": "conditionals-013",
+    "q": "If she had ____ a model earlier, she would have saved time.",
+    "o": [
+      "built",
+      "built",
+      "building",
+      "build"
+    ],
+    "a": 1,
+    "t": "Third Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Imaginary past: had + V3, would have + V3. Memory trick: IF HAD V3 → WOULD HAVE V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF HAD V3 → WOULD HAVE V3"
+  },
+  {
+    "id": "conditionals-014",
+    "q": "If she ____ a model every day, her skill improves.",
+    "o": [
+      "builds",
+      "building",
+      "built",
+      "built"
+    ],
+    "a": 0,
+    "t": "Zero Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "General fact or habit: present simple in both clauses. Memory trick: IF PRESENT → PRESENT",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → PRESENT"
+  },
+  {
+    "id": "conditionals-015",
+    "q": "Unless she ____ a model, the supervisor will be unhappy.",
+    "o": [
+      "build",
+      "built",
+      "builds",
+      "building"
+    ],
+    "a": 2,
+    "t": "Unless / First Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Unless means if not, and takes present simple. Memory trick: UNLESS = IF NOT",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "UNLESS = IF NOT"
+  },
+  {
+    "id": "conditionals-016",
+    "q": "If I were her, I ____ a model.",
+    "o": [
+      "will build",
+      "would build",
+      "had built",
+      "am building"
+    ],
+    "a": 1,
+    "t": "Second Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "If I were + would V1 gives hypothetical advice. Memory trick: IF I WERE → WOULD",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF I WERE → WOULD"
+  },
+  {
+    "id": "conditionals-017",
+    "q": "If she had ____ a model yesterday, she would be free now.",
+    "o": [
+      "build",
+      "building",
+      "built",
+      "built"
+    ],
+    "a": 2,
+    "t": "Mixed Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Past unreal cause, present result. Memory trick: HAD V3 → WOULD V1 NOW",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD V3 → WOULD V1 NOW"
+  },
+  {
+    "id": "conditionals-018",
+    "q": "Provided that she ____ a model, the team will approve it.",
+    "o": [
+      "builds",
+      "built",
+      "built",
+      "building"
+    ],
+    "a": 0,
+    "t": "Provided that",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Provided that means on condition that; present simple for future. Memory trick: PROVIDED THAT = IF",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "PROVIDED THAT = IF"
+  },
+  {
+    "id": "conditionals-019",
+    "q": "If she ____ a model tomorrow, call me.",
+    "o": [
+      "builds",
+      "building",
+      "built",
+      "built"
+    ],
+    "a": 0,
+    "t": "Imperative Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "If present simple, imperative in main clause. Memory trick: IF PRESENT → COMMAND",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → COMMAND"
+  },
+  {
+    "id": "conditionals-020",
+    "q": "Had she ____ a model sooner, she would have succeeded.",
+    "o": [
+      "build",
+      "built",
+      "built",
+      "building"
+    ],
+    "a": 1,
+    "t": "Conditional Inversion",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Had + subject + V3 replaces if she had. Memory trick: HAD + SUBJECT + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD + SUBJECT + V3"
+  },
+  {
+    "id": "conditionals-021",
+    "q": "If she ____ the lesson today, she will get feedback.",
+    "o": [
+      "prepare",
+      "prepares",
+      "prepared",
+      "preparing"
+    ],
+    "a": 1,
+    "t": "First Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Real future possibility: if + present simple, will + V1. Memory trick: IF PRESENT → WILL V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → WILL V1"
+  },
+  {
+    "id": "conditionals-022",
+    "q": "If she ____ the lesson more carefully, she would avoid errors.",
+    "o": [
+      "prepares",
+      "prepared",
+      "prepare",
+      "prepared"
+    ],
+    "a": 1,
+    "t": "Second Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Unreal present: if + V2, would + V1. Memory trick: IF V2 → WOULD V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF V2 → WOULD V1"
+  },
+  {
+    "id": "conditionals-023",
+    "q": "If she had ____ the lesson earlier, she would have saved time.",
+    "o": [
+      "prepared",
+      "prepared",
+      "preparing",
+      "prepare"
+    ],
+    "a": 1,
+    "t": "Third Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Imaginary past: had + V3, would have + V3. Memory trick: IF HAD V3 → WOULD HAVE V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF HAD V3 → WOULD HAVE V3"
+  },
+  {
+    "id": "conditionals-024",
+    "q": "If she ____ the lesson every day, her skill improves.",
+    "o": [
+      "prepares",
+      "preparing",
+      "prepared",
+      "prepared"
+    ],
+    "a": 0,
+    "t": "Zero Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "General fact or habit: present simple in both clauses. Memory trick: IF PRESENT → PRESENT",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → PRESENT"
+  },
+  {
+    "id": "conditionals-025",
+    "q": "Unless she ____ the lesson, the supervisor will be unhappy.",
+    "o": [
+      "prepare",
+      "prepared",
+      "prepares",
+      "preparing"
+    ],
+    "a": 2,
+    "t": "Unless / First Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Unless means if not, and takes present simple. Memory trick: UNLESS = IF NOT",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "UNLESS = IF NOT"
+  },
+  {
+    "id": "conditionals-026",
+    "q": "If I were her, I ____ the lesson.",
+    "o": [
+      "will prepare",
+      "would prepare",
+      "had prepared",
+      "am preparing"
+    ],
+    "a": 1,
+    "t": "Second Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "If I were + would V1 gives hypothetical advice. Memory trick: IF I WERE → WOULD",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF I WERE → WOULD"
+  },
+  {
+    "id": "conditionals-027",
+    "q": "If she had ____ the lesson yesterday, she would be free now.",
+    "o": [
+      "prepare",
+      "preparing",
+      "prepared",
+      "prepared"
+    ],
+    "a": 2,
+    "t": "Mixed Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Past unreal cause, present result. Memory trick: HAD V3 → WOULD V1 NOW",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD V3 → WOULD V1 NOW"
+  },
+  {
+    "id": "conditionals-028",
+    "q": "Provided that she ____ the lesson, the team will approve it.",
+    "o": [
+      "prepares",
+      "prepared",
+      "prepared",
+      "preparing"
+    ],
+    "a": 0,
+    "t": "Provided that",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Provided that means on condition that; present simple for future. Memory trick: PROVIDED THAT = IF",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "PROVIDED THAT = IF"
+  },
+  {
+    "id": "conditionals-029",
+    "q": "If she ____ the lesson tomorrow, call me.",
+    "o": [
+      "prepares",
+      "preparing",
+      "prepared",
+      "prepared"
+    ],
+    "a": 0,
+    "t": "Imperative Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "If present simple, imperative in main clause. Memory trick: IF PRESENT → COMMAND",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → COMMAND"
+  },
+  {
+    "id": "conditionals-030",
+    "q": "Had she ____ the lesson sooner, she would have succeeded.",
+    "o": [
+      "prepare",
+      "prepared",
+      "prepared",
+      "preparing"
+    ],
+    "a": 1,
+    "t": "Conditional Inversion",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Had + subject + V3 replaces if she had. Memory trick: HAD + SUBJECT + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD + SUBJECT + V3"
+  },
+  {
+    "id": "conditionals-031",
+    "q": "If she ____ the document today, she will get feedback.",
+    "o": [
+      "review",
+      "reviews",
+      "reviewed",
+      "reviewing"
+    ],
+    "a": 1,
+    "t": "First Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Real future possibility: if + present simple, will + V1. Memory trick: IF PRESENT → WILL V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → WILL V1"
+  },
+  {
+    "id": "conditionals-032",
+    "q": "If she ____ the document more carefully, she would avoid errors.",
+    "o": [
+      "reviews",
+      "reviewed",
+      "review",
+      "reviewed"
+    ],
+    "a": 1,
+    "t": "Second Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Unreal present: if + V2, would + V1. Memory trick: IF V2 → WOULD V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF V2 → WOULD V1"
+  },
+  {
+    "id": "conditionals-033",
+    "q": "If she had ____ the document earlier, she would have saved time.",
+    "o": [
+      "reviewed",
+      "reviewed",
+      "reviewing",
+      "review"
+    ],
+    "a": 1,
+    "t": "Third Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Imaginary past: had + V3, would have + V3. Memory trick: IF HAD V3 → WOULD HAVE V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF HAD V3 → WOULD HAVE V3"
+  },
+  {
+    "id": "conditionals-034",
+    "q": "If she ____ the document every day, her skill improves.",
+    "o": [
+      "reviews",
+      "reviewing",
+      "reviewed",
+      "reviewed"
+    ],
+    "a": 0,
+    "t": "Zero Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "General fact or habit: present simple in both clauses. Memory trick: IF PRESENT → PRESENT",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → PRESENT"
+  },
+  {
+    "id": "conditionals-035",
+    "q": "Unless she ____ the document, the supervisor will be unhappy.",
+    "o": [
+      "review",
+      "reviewed",
+      "reviews",
+      "reviewing"
+    ],
+    "a": 2,
+    "t": "Unless / First Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Unless means if not, and takes present simple. Memory trick: UNLESS = IF NOT",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "UNLESS = IF NOT"
+  },
+  {
+    "id": "conditionals-036",
+    "q": "If I were her, I ____ the document.",
+    "o": [
+      "will review",
+      "would review",
+      "had reviewed",
+      "am reviewing"
+    ],
+    "a": 1,
+    "t": "Second Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "If I were + would V1 gives hypothetical advice. Memory trick: IF I WERE → WOULD",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF I WERE → WOULD"
+  },
+  {
+    "id": "conditionals-037",
+    "q": "If she had ____ the document yesterday, she would be free now.",
+    "o": [
+      "review",
+      "reviewing",
+      "reviewed",
+      "reviewed"
+    ],
+    "a": 2,
+    "t": "Mixed Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Past unreal cause, present result. Memory trick: HAD V3 → WOULD V1 NOW",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD V3 → WOULD V1 NOW"
+  },
+  {
+    "id": "conditionals-038",
+    "q": "Provided that she ____ the document, the team will approve it.",
+    "o": [
+      "reviews",
+      "reviewed",
+      "reviewed",
+      "reviewing"
+    ],
+    "a": 0,
+    "t": "Provided that",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Provided that means on condition that; present simple for future. Memory trick: PROVIDED THAT = IF",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "PROVIDED THAT = IF"
+  },
+  {
+    "id": "conditionals-039",
+    "q": "If she ____ the document tomorrow, call me.",
+    "o": [
+      "reviews",
+      "reviewing",
+      "reviewed",
+      "reviewed"
+    ],
+    "a": 0,
+    "t": "Imperative Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "If present simple, imperative in main clause. Memory trick: IF PRESENT → COMMAND",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → COMMAND"
+  },
+  {
+    "id": "conditionals-040",
+    "q": "Had she ____ the document sooner, she would have succeeded.",
+    "o": [
+      "review",
+      "reviewed",
+      "reviewed",
+      "reviewing"
+    ],
+    "a": 1,
+    "t": "Conditional Inversion",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Had + subject + V3 replaces if she had. Memory trick: HAD + SUBJECT + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD + SUBJECT + V3"
+  },
+  {
+    "id": "conditionals-041",
+    "q": "If she ____ the results today, she will get feedback.",
+    "o": [
+      "check",
+      "checks",
+      "checked",
+      "checking"
+    ],
+    "a": 1,
+    "t": "First Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Real future possibility: if + present simple, will + V1. Memory trick: IF PRESENT → WILL V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → WILL V1"
+  },
+  {
+    "id": "conditionals-042",
+    "q": "If she ____ the results more carefully, she would avoid errors.",
+    "o": [
+      "checks",
+      "checked",
+      "check",
+      "checked"
+    ],
+    "a": 1,
+    "t": "Second Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Unreal present: if + V2, would + V1. Memory trick: IF V2 → WOULD V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF V2 → WOULD V1"
+  },
+  {
+    "id": "conditionals-043",
+    "q": "If she had ____ the results earlier, she would have saved time.",
+    "o": [
+      "checked",
+      "checked",
+      "checking",
+      "check"
+    ],
+    "a": 1,
+    "t": "Third Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Imaginary past: had + V3, would have + V3. Memory trick: IF HAD V3 → WOULD HAVE V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF HAD V3 → WOULD HAVE V3"
+  },
+  {
+    "id": "conditionals-044",
+    "q": "If she ____ the results every day, her skill improves.",
+    "o": [
+      "checks",
+      "checking",
+      "checked",
+      "checked"
+    ],
+    "a": 0,
+    "t": "Zero Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "General fact or habit: present simple in both clauses. Memory trick: IF PRESENT → PRESENT",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → PRESENT"
+  },
+  {
+    "id": "conditionals-045",
+    "q": "Unless she ____ the results, the supervisor will be unhappy.",
+    "o": [
+      "check",
+      "checked",
+      "checks",
+      "checking"
+    ],
+    "a": 2,
+    "t": "Unless / First Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Unless means if not, and takes present simple. Memory trick: UNLESS = IF NOT",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "UNLESS = IF NOT"
+  },
+  {
+    "id": "conditionals-046",
+    "q": "If I were her, I ____ the results.",
+    "o": [
+      "will check",
+      "would check",
+      "had checked",
+      "am checking"
+    ],
+    "a": 1,
+    "t": "Second Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "If I were + would V1 gives hypothetical advice. Memory trick: IF I WERE → WOULD",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF I WERE → WOULD"
+  },
+  {
+    "id": "conditionals-047",
+    "q": "If she had ____ the results yesterday, she would be free now.",
+    "o": [
+      "check",
+      "checking",
+      "checked",
+      "checked"
+    ],
+    "a": 2,
+    "t": "Mixed Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Past unreal cause, present result. Memory trick: HAD V3 → WOULD V1 NOW",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD V3 → WOULD V1 NOW"
+  },
+  {
+    "id": "conditionals-048",
+    "q": "Provided that she ____ the results, the team will approve it.",
+    "o": [
+      "checks",
+      "checked",
+      "checked",
+      "checking"
+    ],
+    "a": 0,
+    "t": "Provided that",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Provided that means on condition that; present simple for future. Memory trick: PROVIDED THAT = IF",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "PROVIDED THAT = IF"
+  },
+  {
+    "id": "conditionals-049",
+    "q": "If she ____ the results tomorrow, call me.",
+    "o": [
+      "checks",
+      "checking",
+      "checked",
+      "checked"
+    ],
+    "a": 0,
+    "t": "Imperative Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "If present simple, imperative in main clause. Memory trick: IF PRESENT → COMMAND",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → COMMAND"
+  },
+  {
+    "id": "conditionals-050",
+    "q": "Had she ____ the results sooner, she would have succeeded.",
+    "o": [
+      "check",
+      "checked",
+      "checked",
+      "checking"
+    ],
+    "a": 1,
+    "t": "Conditional Inversion",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Had + subject + V3 replaces if she had. Memory trick: HAD + SUBJECT + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD + SUBJECT + V3"
+  },
+  {
+    "id": "conditionals-051",
+    "q": "If she ____ the assignment today, she will get feedback.",
+    "o": [
+      "finish",
+      "finishes",
+      "finished",
+      "finishing"
+    ],
+    "a": 1,
+    "t": "First Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Real future possibility: if + present simple, will + V1. Memory trick: IF PRESENT → WILL V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → WILL V1"
+  },
+  {
+    "id": "conditionals-052",
+    "q": "If she ____ the assignment more carefully, she would avoid errors.",
+    "o": [
+      "finishes",
+      "finished",
+      "finish",
+      "finished"
+    ],
+    "a": 1,
+    "t": "Second Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Unreal present: if + V2, would + V1. Memory trick: IF V2 → WOULD V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF V2 → WOULD V1"
+  },
+  {
+    "id": "conditionals-053",
+    "q": "If she had ____ the assignment earlier, she would have saved time.",
+    "o": [
+      "finished",
+      "finished",
+      "finishing",
+      "finish"
+    ],
+    "a": 1,
+    "t": "Third Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Imaginary past: had + V3, would have + V3. Memory trick: IF HAD V3 → WOULD HAVE V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF HAD V3 → WOULD HAVE V3"
+  },
+  {
+    "id": "conditionals-054",
+    "q": "If she ____ the assignment every day, her skill improves.",
+    "o": [
+      "finishes",
+      "finishing",
+      "finished",
+      "finished"
+    ],
+    "a": 0,
+    "t": "Zero Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "General fact or habit: present simple in both clauses. Memory trick: IF PRESENT → PRESENT",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → PRESENT"
+  },
+  {
+    "id": "conditionals-055",
+    "q": "Unless she ____ the assignment, the supervisor will be unhappy.",
+    "o": [
+      "finish",
+      "finished",
+      "finishes",
+      "finishing"
+    ],
+    "a": 2,
+    "t": "Unless / First Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Unless means if not, and takes present simple. Memory trick: UNLESS = IF NOT",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "UNLESS = IF NOT"
+  },
+  {
+    "id": "conditionals-056",
+    "q": "If I were her, I ____ the assignment.",
+    "o": [
+      "will finish",
+      "would finish",
+      "had finished",
+      "am finishing"
+    ],
+    "a": 1,
+    "t": "Second Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "If I were + would V1 gives hypothetical advice. Memory trick: IF I WERE → WOULD",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF I WERE → WOULD"
+  },
+  {
+    "id": "conditionals-057",
+    "q": "If she had ____ the assignment yesterday, she would be free now.",
+    "o": [
+      "finish",
+      "finishing",
+      "finished",
+      "finished"
+    ],
+    "a": 2,
+    "t": "Mixed Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Past unreal cause, present result. Memory trick: HAD V3 → WOULD V1 NOW",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD V3 → WOULD V1 NOW"
+  },
+  {
+    "id": "conditionals-058",
+    "q": "Provided that she ____ the assignment, the team will approve it.",
+    "o": [
+      "finishes",
+      "finished",
+      "finished",
+      "finishing"
+    ],
+    "a": 0,
+    "t": "Provided that",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Provided that means on condition that; present simple for future. Memory trick: PROVIDED THAT = IF",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "PROVIDED THAT = IF"
+  },
+  {
+    "id": "conditionals-059",
+    "q": "If she ____ the assignment tomorrow, call me.",
+    "o": [
+      "finishes",
+      "finishing",
+      "finished",
+      "finished"
+    ],
+    "a": 0,
+    "t": "Imperative Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "If present simple, imperative in main clause. Memory trick: IF PRESENT → COMMAND",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → COMMAND"
+  },
+  {
+    "id": "conditionals-060",
+    "q": "Had she ____ the assignment sooner, she would have succeeded.",
+    "o": [
+      "finish",
+      "finished",
+      "finished",
+      "finishing"
+    ],
+    "a": 1,
+    "t": "Conditional Inversion",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Had + subject + V3 replaces if she had. Memory trick: HAD + SUBJECT + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD + SUBJECT + V3"
+  },
+  {
+    "id": "conditionals-061",
+    "q": "If she ____ the room today, she will get feedback.",
+    "o": [
+      "clean",
+      "cleans",
+      "cleaned",
+      "cleaning"
+    ],
+    "a": 1,
+    "t": "First Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Real future possibility: if + present simple, will + V1. Memory trick: IF PRESENT → WILL V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → WILL V1"
+  },
+  {
+    "id": "conditionals-062",
+    "q": "If she ____ the room more carefully, she would avoid errors.",
+    "o": [
+      "cleans",
+      "cleaned",
+      "clean",
+      "cleaned"
+    ],
+    "a": 1,
+    "t": "Second Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Unreal present: if + V2, would + V1. Memory trick: IF V2 → WOULD V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF V2 → WOULD V1"
+  },
+  {
+    "id": "conditionals-063",
+    "q": "If she had ____ the room earlier, she would have saved time.",
+    "o": [
+      "cleaned",
+      "cleaned",
+      "cleaning",
+      "clean"
+    ],
+    "a": 1,
+    "t": "Third Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Imaginary past: had + V3, would have + V3. Memory trick: IF HAD V3 → WOULD HAVE V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF HAD V3 → WOULD HAVE V3"
+  },
+  {
+    "id": "conditionals-064",
+    "q": "If she ____ the room every day, her skill improves.",
+    "o": [
+      "cleans",
+      "cleaning",
+      "cleaned",
+      "cleaned"
+    ],
+    "a": 0,
+    "t": "Zero Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "General fact or habit: present simple in both clauses. Memory trick: IF PRESENT → PRESENT",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → PRESENT"
+  },
+  {
+    "id": "conditionals-065",
+    "q": "Unless she ____ the room, the supervisor will be unhappy.",
+    "o": [
+      "clean",
+      "cleaned",
+      "cleans",
+      "cleaning"
+    ],
+    "a": 2,
+    "t": "Unless / First Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Unless means if not, and takes present simple. Memory trick: UNLESS = IF NOT",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "UNLESS = IF NOT"
+  },
+  {
+    "id": "conditionals-066",
+    "q": "If I were her, I ____ the room.",
+    "o": [
+      "will clean",
+      "would clean",
+      "had cleaned",
+      "am cleaning"
+    ],
+    "a": 1,
+    "t": "Second Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "If I were + would V1 gives hypothetical advice. Memory trick: IF I WERE → WOULD",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF I WERE → WOULD"
+  },
+  {
+    "id": "conditionals-067",
+    "q": "If she had ____ the room yesterday, she would be free now.",
+    "o": [
+      "clean",
+      "cleaning",
+      "cleaned",
+      "cleaned"
+    ],
+    "a": 2,
+    "t": "Mixed Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Past unreal cause, present result. Memory trick: HAD V3 → WOULD V1 NOW",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD V3 → WOULD V1 NOW"
+  },
+  {
+    "id": "conditionals-068",
+    "q": "Provided that she ____ the room, the team will approve it.",
+    "o": [
+      "cleans",
+      "cleaned",
+      "cleaned",
+      "cleaning"
+    ],
+    "a": 0,
+    "t": "Provided that",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Provided that means on condition that; present simple for future. Memory trick: PROVIDED THAT = IF",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "PROVIDED THAT = IF"
+  },
+  {
+    "id": "conditionals-069",
+    "q": "If she ____ the room tomorrow, call me.",
+    "o": [
+      "cleans",
+      "cleaning",
+      "cleaned",
+      "cleaned"
+    ],
+    "a": 0,
+    "t": "Imperative Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "If present simple, imperative in main clause. Memory trick: IF PRESENT → COMMAND",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → COMMAND"
+  },
+  {
+    "id": "conditionals-070",
+    "q": "Had she ____ the room sooner, she would have succeeded.",
+    "o": [
+      "clean",
+      "cleaned",
+      "cleaned",
+      "cleaning"
+    ],
+    "a": 1,
+    "t": "Conditional Inversion",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Had + subject + V3 replaces if she had. Memory trick: HAD + SUBJECT + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD + SUBJECT + V3"
+  },
+  {
+    "id": "conditionals-071",
+    "q": "If she ____ a website today, she will get feedback.",
+    "o": [
+      "design",
+      "designs",
+      "designed",
+      "designing"
+    ],
+    "a": 1,
+    "t": "First Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Real future possibility: if + present simple, will + V1. Memory trick: IF PRESENT → WILL V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → WILL V1"
+  },
+  {
+    "id": "conditionals-072",
+    "q": "If she ____ a website more carefully, she would avoid errors.",
+    "o": [
+      "designs",
+      "designed",
+      "design",
+      "designed"
+    ],
+    "a": 1,
+    "t": "Second Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Unreal present: if + V2, would + V1. Memory trick: IF V2 → WOULD V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF V2 → WOULD V1"
+  },
+  {
+    "id": "conditionals-073",
+    "q": "If she had ____ a website earlier, she would have saved time.",
+    "o": [
+      "designed",
+      "designed",
+      "designing",
+      "design"
+    ],
+    "a": 1,
+    "t": "Third Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Imaginary past: had + V3, would have + V3. Memory trick: IF HAD V3 → WOULD HAVE V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF HAD V3 → WOULD HAVE V3"
+  },
+  {
+    "id": "conditionals-074",
+    "q": "If she ____ a website every day, her skill improves.",
+    "o": [
+      "designs",
+      "designing",
+      "designed",
+      "designed"
+    ],
+    "a": 0,
+    "t": "Zero Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "General fact or habit: present simple in both clauses. Memory trick: IF PRESENT → PRESENT",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → PRESENT"
+  },
+  {
+    "id": "conditionals-075",
+    "q": "Unless she ____ a website, the supervisor will be unhappy.",
+    "o": [
+      "design",
+      "designed",
+      "designs",
+      "designing"
+    ],
+    "a": 2,
+    "t": "Unless / First Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Unless means if not, and takes present simple. Memory trick: UNLESS = IF NOT",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "UNLESS = IF NOT"
+  },
+  {
+    "id": "conditionals-076",
+    "q": "If I were her, I ____ a website.",
+    "o": [
+      "will design",
+      "would design",
+      "had designed",
+      "am designing"
+    ],
+    "a": 1,
+    "t": "Second Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "If I were + would V1 gives hypothetical advice. Memory trick: IF I WERE → WOULD",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF I WERE → WOULD"
+  },
+  {
+    "id": "conditionals-077",
+    "q": "If she had ____ a website yesterday, she would be free now.",
+    "o": [
+      "design",
+      "designing",
+      "designed",
+      "designed"
+    ],
+    "a": 2,
+    "t": "Mixed Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Past unreal cause, present result. Memory trick: HAD V3 → WOULD V1 NOW",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD V3 → WOULD V1 NOW"
+  },
+  {
+    "id": "conditionals-078",
+    "q": "Provided that she ____ a website, the team will approve it.",
+    "o": [
+      "designs",
+      "designed",
+      "designed",
+      "designing"
+    ],
+    "a": 0,
+    "t": "Provided that",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Provided that means on condition that; present simple for future. Memory trick: PROVIDED THAT = IF",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "PROVIDED THAT = IF"
+  },
+  {
+    "id": "conditionals-079",
+    "q": "If she ____ a website tomorrow, call me.",
+    "o": [
+      "designs",
+      "designing",
+      "designed",
+      "designed"
+    ],
+    "a": 0,
+    "t": "Imperative Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "If present simple, imperative in main clause. Memory trick: IF PRESENT → COMMAND",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → COMMAND"
+  },
+  {
+    "id": "conditionals-080",
+    "q": "Had she ____ a website sooner, she would have succeeded.",
+    "o": [
+      "design",
+      "designed",
+      "designed",
+      "designing"
+    ],
+    "a": 1,
+    "t": "Conditional Inversion",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Had + subject + V3 replaces if she had. Memory trick: HAD + SUBJECT + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD + SUBJECT + V3"
+  },
+  {
+    "id": "conditionals-081",
+    "q": "If she ____ the machine today, she will get feedback.",
+    "o": [
+      "repair",
+      "repairs",
+      "repaired",
+      "repairing"
+    ],
+    "a": 1,
+    "t": "First Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Real future possibility: if + present simple, will + V1. Memory trick: IF PRESENT → WILL V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → WILL V1"
+  },
+  {
+    "id": "conditionals-082",
+    "q": "If she ____ the machine more carefully, she would avoid errors.",
+    "o": [
+      "repairs",
+      "repaired",
+      "repair",
+      "repaired"
+    ],
+    "a": 1,
+    "t": "Second Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Unreal present: if + V2, would + V1. Memory trick: IF V2 → WOULD V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF V2 → WOULD V1"
+  },
+  {
+    "id": "conditionals-083",
+    "q": "If she had ____ the machine earlier, she would have saved time.",
+    "o": [
+      "repaired",
+      "repaired",
+      "repairing",
+      "repair"
+    ],
+    "a": 1,
+    "t": "Third Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Imaginary past: had + V3, would have + V3. Memory trick: IF HAD V3 → WOULD HAVE V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF HAD V3 → WOULD HAVE V3"
+  },
+  {
+    "id": "conditionals-084",
+    "q": "If she ____ the machine every day, her skill improves.",
+    "o": [
+      "repairs",
+      "repairing",
+      "repaired",
+      "repaired"
+    ],
+    "a": 0,
+    "t": "Zero Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "General fact or habit: present simple in both clauses. Memory trick: IF PRESENT → PRESENT",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → PRESENT"
+  },
+  {
+    "id": "conditionals-085",
+    "q": "Unless she ____ the machine, the supervisor will be unhappy.",
+    "o": [
+      "repair",
+      "repaired",
+      "repairs",
+      "repairing"
+    ],
+    "a": 2,
+    "t": "Unless / First Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Unless means if not, and takes present simple. Memory trick: UNLESS = IF NOT",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "UNLESS = IF NOT"
+  },
+  {
+    "id": "conditionals-086",
+    "q": "If I were her, I ____ the machine.",
+    "o": [
+      "will repair",
+      "would repair",
+      "had repaired",
+      "am repairing"
+    ],
+    "a": 1,
+    "t": "Second Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "If I were + would V1 gives hypothetical advice. Memory trick: IF I WERE → WOULD",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF I WERE → WOULD"
+  },
+  {
+    "id": "conditionals-087",
+    "q": "If she had ____ the machine yesterday, she would be free now.",
+    "o": [
+      "repair",
+      "repairing",
+      "repaired",
+      "repaired"
+    ],
+    "a": 2,
+    "t": "Mixed Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Past unreal cause, present result. Memory trick: HAD V3 → WOULD V1 NOW",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD V3 → WOULD V1 NOW"
+  },
+  {
+    "id": "conditionals-088",
+    "q": "Provided that she ____ the machine, the team will approve it.",
+    "o": [
+      "repairs",
+      "repaired",
+      "repaired",
+      "repairing"
+    ],
+    "a": 0,
+    "t": "Provided that",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Provided that means on condition that; present simple for future. Memory trick: PROVIDED THAT = IF",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "PROVIDED THAT = IF"
+  },
+  {
+    "id": "conditionals-089",
+    "q": "If she ____ the machine tomorrow, call me.",
+    "o": [
+      "repairs",
+      "repairing",
+      "repaired",
+      "repaired"
+    ],
+    "a": 0,
+    "t": "Imperative Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "If present simple, imperative in main clause. Memory trick: IF PRESENT → COMMAND",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → COMMAND"
+  },
+  {
+    "id": "conditionals-090",
+    "q": "Had she ____ the machine sooner, she would have succeeded.",
+    "o": [
+      "repair",
+      "repaired",
+      "repaired",
+      "repairing"
+    ],
+    "a": 1,
+    "t": "Conditional Inversion",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Had + subject + V3 replaces if she had. Memory trick: HAD + SUBJECT + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD + SUBJECT + V3"
+  },
+  {
+    "id": "conditionals-091",
+    "q": "If she ____ the event today, she will get feedback.",
+    "o": [
+      "organize",
+      "organizes",
+      "organized",
+      "organizing"
+    ],
+    "a": 1,
+    "t": "First Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Real future possibility: if + present simple, will + V1. Memory trick: IF PRESENT → WILL V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → WILL V1"
+  },
+  {
+    "id": "conditionals-092",
+    "q": "If she ____ the event more carefully, she would avoid errors.",
+    "o": [
+      "organizes",
+      "organized",
+      "organize",
+      "organized"
+    ],
+    "a": 1,
+    "t": "Second Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Unreal present: if + V2, would + V1. Memory trick: IF V2 → WOULD V1",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF V2 → WOULD V1"
+  },
+  {
+    "id": "conditionals-093",
+    "q": "If she had ____ the event earlier, she would have saved time.",
+    "o": [
+      "organized",
+      "organized",
+      "organizing",
+      "organize"
+    ],
+    "a": 1,
+    "t": "Third Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Imaginary past: had + V3, would have + V3. Memory trick: IF HAD V3 → WOULD HAVE V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF HAD V3 → WOULD HAVE V3"
+  },
+  {
+    "id": "conditionals-094",
+    "q": "If she ____ the event every day, her skill improves.",
+    "o": [
+      "organizes",
+      "organizing",
+      "organized",
+      "organized"
+    ],
+    "a": 0,
+    "t": "Zero Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "General fact or habit: present simple in both clauses. Memory trick: IF PRESENT → PRESENT",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → PRESENT"
+  },
+  {
+    "id": "conditionals-095",
+    "q": "Unless she ____ the event, the supervisor will be unhappy.",
+    "o": [
+      "organize",
+      "organized",
+      "organizes",
+      "organizing"
+    ],
+    "a": 2,
+    "t": "Unless / First Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Unless means if not, and takes present simple. Memory trick: UNLESS = IF NOT",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "UNLESS = IF NOT"
+  },
+  {
+    "id": "conditionals-096",
+    "q": "If I were her, I ____ the event.",
+    "o": [
+      "will organize",
+      "would organize",
+      "had organized",
+      "am organizing"
+    ],
+    "a": 1,
+    "t": "Second Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "If I were + would V1 gives hypothetical advice. Memory trick: IF I WERE → WOULD",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF I WERE → WOULD"
+  },
+  {
+    "id": "conditionals-097",
+    "q": "If she had ____ the event yesterday, she would be free now.",
+    "o": [
+      "organize",
+      "organizing",
+      "organized",
+      "organized"
+    ],
+    "a": 2,
+    "t": "Mixed Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Past unreal cause, present result. Memory trick: HAD V3 → WOULD V1 NOW",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD V3 → WOULD V1 NOW"
+  },
+  {
+    "id": "conditionals-098",
+    "q": "Provided that she ____ the event, the team will approve it.",
+    "o": [
+      "organizes",
+      "organized",
+      "organized",
+      "organizing"
+    ],
+    "a": 0,
+    "t": "Provided that",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Provided that means on condition that; present simple for future. Memory trick: PROVIDED THAT = IF",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "PROVIDED THAT = IF"
+  },
+  {
+    "id": "conditionals-099",
+    "q": "If she ____ the event tomorrow, call me.",
+    "o": [
+      "organizes",
+      "organizing",
+      "organized",
+      "organized"
+    ],
+    "a": 0,
+    "t": "Imperative Conditional",
+    "d": "Medium",
+    "trend": "High",
+    "x": "If present simple, imperative in main clause. Memory trick: IF PRESENT → COMMAND",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "IF PRESENT → COMMAND"
+  },
+  {
+    "id": "conditionals-100",
+    "q": "Had she ____ the event sooner, she would have succeeded.",
+    "o": [
+      "organize",
+      "organized",
+      "organized",
+      "organizing"
+    ],
+    "a": 1,
+    "t": "Conditional Inversion",
+    "d": "Medium",
+    "trend": "High",
+    "x": "Had + subject + V3 replaces if she had. Memory trick: HAD + SUBJECT + V3",
+    "pyq_status": "MPSC-style practice • not verified as an exact PYQ",
+    "source_label": "Authored exam practice",
+    "source_url": "",
+    "memory_trick": "HAD + SUBJECT + V3"
+  }
+]

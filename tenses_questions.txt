@@ -1,0 +1,800 @@
+1. Every Monday, she ____ a report.
+ (1) write
+ (2) writes
+ (3) writing
+ (4) written
+Answer: 2
+Explanation: She is third-person singular, so use writes. Memory trick: He/She/It → verb+s/es
+
+2. Look! She is ____ a report.
+ (1) write
+ (2) writing
+ (3) wrote
+ (4) written
+Answer: 2
+Explanation: Use is/am/are + verb-ing. Memory trick: NOW → am/is/are + ing
+
+3. She has already ____ a report.
+ (1) wrote
+ (2) written
+ (3) writing
+ (4) write
+Answer: 2
+Explanation: Has + past participle. Memory trick: HAS/HAVE → V3
+
+4. She has been ____ a report since morning.
+ (1) write
+ (2) written
+ (3) writing
+ (4) wrote
+Answer: 3
+Explanation: Has been + -ing expresses ongoing activity. Memory trick: SINCE/FOR → has/have been + ing
+
+5. Yesterday she ____ a report.
+ (1) writes
+ (2) wrote
+ (3) written
+ (4) writing
+Answer: 2
+Explanation: Finished time yesterday uses V2. Memory trick: YESTERDAY → V2
+
+6. At 6 p.m. yesterday she was ____ a report.
+ (1) written
+ (2) write
+ (3) writing
+ (4) writes
+Answer: 3
+Explanation: Was/were + -ing. Memory trick: WAS/WERE → ing
+
+7. Before the manager arrived, she had ____ a report.
+ (1) wrote
+ (2) writing
+ (3) written
+ (4) write
+Answer: 3
+Explanation: Earlier of two past events takes had + V3. Memory trick: EARLIER PAST → had + V3
+
+8. She had been ____ a report for an hour when I arrived.
+ (1) writing
+ (2) wrote
+ (3) write
+ (4) written
+Answer: 1
+Explanation: Had been + -ing + duration. Memory trick: HAD BEEN → ing
+
+9. Tomorrow she will ____ a report.
+ (1) writes
+ (2) writing
+ (3) write
+ (4) wrote
+Answer: 3
+Explanation: Will takes base verb. Memory trick: WILL → V1
+
+10. By next Friday she will have ____ a report.
+ (1) write
+ (2) wrote
+ (3) writing
+ (4) written
+Answer: 4
+Explanation: Will have + V3 before a future deadline. Memory trick: BY + future time → will have + V3
+
+11. Every Monday, she ____ a model.
+ (1) build
+ (2) builds
+ (3) building
+ (4) built
+Answer: 2
+Explanation: She is third-person singular, so use builds. Memory trick: He/She/It → verb+s/es
+
+12. Look! She is ____ a model.
+ (1) build
+ (2) building
+ (3) built
+ (4) built
+Answer: 2
+Explanation: Use is/am/are + verb-ing. Memory trick: NOW → am/is/are + ing
+
+13. She has already ____ a model.
+ (1) built
+ (2) built
+ (3) building
+ (4) build
+Answer: 2
+Explanation: Has + past participle. Memory trick: HAS/HAVE → V3
+
+14. She has been ____ a model since morning.
+ (1) build
+ (2) built
+ (3) building
+ (4) built
+Answer: 3
+Explanation: Has been + -ing expresses ongoing activity. Memory trick: SINCE/FOR → has/have been + ing
+
+15. Yesterday she ____ a model.
+ (1) builds
+ (2) built
+ (3) built
+ (4) building
+Answer: 2
+Explanation: Finished time yesterday uses V2. Memory trick: YESTERDAY → V2
+
+16. At 6 p.m. yesterday she was ____ a model.
+ (1) built
+ (2) build
+ (3) building
+ (4) builds
+Answer: 3
+Explanation: Was/were + -ing. Memory trick: WAS/WERE → ing
+
+17. Before the manager arrived, she had ____ a model.
+ (1) built
+ (2) building
+ (3) built
+ (4) build
+Answer: 3
+Explanation: Earlier of two past events takes had + V3. Memory trick: EARLIER PAST → had + V3
+
+18. She had been ____ a model for an hour when I arrived.
+ (1) building
+ (2) built
+ (3) build
+ (4) built
+Answer: 1
+Explanation: Had been + -ing + duration. Memory trick: HAD BEEN → ing
+
+19. Tomorrow she will ____ a model.
+ (1) builds
+ (2) building
+ (3) build
+ (4) built
+Answer: 3
+Explanation: Will takes base verb. Memory trick: WILL → V1
+
+20. By next Friday she will have ____ a model.
+ (1) build
+ (2) built
+ (3) building
+ (4) built
+Answer: 4
+Explanation: Will have + V3 before a future deadline. Memory trick: BY + future time → will have + V3
+
+21. Every Monday, she ____ the lesson.
+ (1) prepare
+ (2) prepares
+ (3) preparing
+ (4) prepared
+Answer: 2
+Explanation: She is third-person singular, so use prepares. Memory trick: He/She/It → verb+s/es
+
+22. Look! She is ____ the lesson.
+ (1) prepare
+ (2) preparing
+ (3) prepared
+ (4) prepared
+Answer: 2
+Explanation: Use is/am/are + verb-ing. Memory trick: NOW → am/is/are + ing
+
+23. She has already ____ the lesson.
+ (1) prepared
+ (2) prepared
+ (3) preparing
+ (4) prepare
+Answer: 2
+Explanation: Has + past participle. Memory trick: HAS/HAVE → V3
+
+24. She has been ____ the lesson since morning.
+ (1) prepare
+ (2) prepared
+ (3) preparing
+ (4) prepared
+Answer: 3
+Explanation: Has been + -ing expresses ongoing activity. Memory trick: SINCE/FOR → has/have been + ing
+
+25. Yesterday she ____ the lesson.
+ (1) prepares
+ (2) prepared
+ (3) prepared
+ (4) preparing
+Answer: 2
+Explanation: Finished time yesterday uses V2. Memory trick: YESTERDAY → V2
+
+26. At 6 p.m. yesterday she was ____ the lesson.
+ (1) prepared
+ (2) prepare
+ (3) preparing
+ (4) prepares
+Answer: 3
+Explanation: Was/were + -ing. Memory trick: WAS/WERE → ing
+
+27. Before the manager arrived, she had ____ the lesson.
+ (1) prepared
+ (2) preparing
+ (3) prepared
+ (4) prepare
+Answer: 3
+Explanation: Earlier of two past events takes had + V3. Memory trick: EARLIER PAST → had + V3
+
+28. She had been ____ the lesson for an hour when I arrived.
+ (1) preparing
+ (2) prepared
+ (3) prepare
+ (4) prepared
+Answer: 1
+Explanation: Had been + -ing + duration. Memory trick: HAD BEEN → ing
+
+29. Tomorrow she will ____ the lesson.
+ (1) prepares
+ (2) preparing
+ (3) prepare
+ (4) prepared
+Answer: 3
+Explanation: Will takes base verb. Memory trick: WILL → V1
+
+30. By next Friday she will have ____ the lesson.
+ (1) prepare
+ (2) prepared
+ (3) preparing
+ (4) prepared
+Answer: 4
+Explanation: Will have + V3 before a future deadline. Memory trick: BY + future time → will have + V3
+
+31. Every Monday, she ____ the document.
+ (1) review
+ (2) reviews
+ (3) reviewing
+ (4) reviewed
+Answer: 2
+Explanation: She is third-person singular, so use reviews. Memory trick: He/She/It → verb+s/es
+
+32. Look! She is ____ the document.
+ (1) review
+ (2) reviewing
+ (3) reviewed
+ (4) reviewed
+Answer: 2
+Explanation: Use is/am/are + verb-ing. Memory trick: NOW → am/is/are + ing
+
+33. She has already ____ the document.
+ (1) reviewed
+ (2) reviewed
+ (3) reviewing
+ (4) review
+Answer: 2
+Explanation: Has + past participle. Memory trick: HAS/HAVE → V3
+
+34. She has been ____ the document since morning.
+ (1) review
+ (2) reviewed
+ (3) reviewing
+ (4) reviewed
+Answer: 3
+Explanation: Has been + -ing expresses ongoing activity. Memory trick: SINCE/FOR → has/have been + ing
+
+35. Yesterday she ____ the document.
+ (1) reviews
+ (2) reviewed
+ (3) reviewed
+ (4) reviewing
+Answer: 2
+Explanation: Finished time yesterday uses V2. Memory trick: YESTERDAY → V2
+
+36. At 6 p.m. yesterday she was ____ the document.
+ (1) reviewed
+ (2) review
+ (3) reviewing
+ (4) reviews
+Answer: 3
+Explanation: Was/were + -ing. Memory trick: WAS/WERE → ing
+
+37. Before the manager arrived, she had ____ the document.
+ (1) reviewed
+ (2) reviewing
+ (3) reviewed
+ (4) review
+Answer: 3
+Explanation: Earlier of two past events takes had + V3. Memory trick: EARLIER PAST → had + V3
+
+38. She had been ____ the document for an hour when I arrived.
+ (1) reviewing
+ (2) reviewed
+ (3) review
+ (4) reviewed
+Answer: 1
+Explanation: Had been + -ing + duration. Memory trick: HAD BEEN → ing
+
+39. Tomorrow she will ____ the document.
+ (1) reviews
+ (2) reviewing
+ (3) review
+ (4) reviewed
+Answer: 3
+Explanation: Will takes base verb. Memory trick: WILL → V1
+
+40. By next Friday she will have ____ the document.
+ (1) review
+ (2) reviewed
+ (3) reviewing
+ (4) reviewed
+Answer: 4
+Explanation: Will have + V3 before a future deadline. Memory trick: BY + future time → will have + V3
+
+41. Every Monday, she ____ the results.
+ (1) check
+ (2) checks
+ (3) checking
+ (4) checked
+Answer: 2
+Explanation: She is third-person singular, so use checks. Memory trick: He/She/It → verb+s/es
+
+42. Look! She is ____ the results.
+ (1) check
+ (2) checking
+ (3) checked
+ (4) checked
+Answer: 2
+Explanation: Use is/am/are + verb-ing. Memory trick: NOW → am/is/are + ing
+
+43. She has already ____ the results.
+ (1) checked
+ (2) checked
+ (3) checking
+ (4) check
+Answer: 2
+Explanation: Has + past participle. Memory trick: HAS/HAVE → V3
+
+44. She has been ____ the results since morning.
+ (1) check
+ (2) checked
+ (3) checking
+ (4) checked
+Answer: 3
+Explanation: Has been + -ing expresses ongoing activity. Memory trick: SINCE/FOR → has/have been + ing
+
+45. Yesterday she ____ the results.
+ (1) checks
+ (2) checked
+ (3) checked
+ (4) checking
+Answer: 2
+Explanation: Finished time yesterday uses V2. Memory trick: YESTERDAY → V2
+
+46. At 6 p.m. yesterday she was ____ the results.
+ (1) checked
+ (2) check
+ (3) checking
+ (4) checks
+Answer: 3
+Explanation: Was/were + -ing. Memory trick: WAS/WERE → ing
+
+47. Before the manager arrived, she had ____ the results.
+ (1) checked
+ (2) checking
+ (3) checked
+ (4) check
+Answer: 3
+Explanation: Earlier of two past events takes had + V3. Memory trick: EARLIER PAST → had + V3
+
+48. She had been ____ the results for an hour when I arrived.
+ (1) checking
+ (2) checked
+ (3) check
+ (4) checked
+Answer: 1
+Explanation: Had been + -ing + duration. Memory trick: HAD BEEN → ing
+
+49. Tomorrow she will ____ the results.
+ (1) checks
+ (2) checking
+ (3) check
+ (4) checked
+Answer: 3
+Explanation: Will takes base verb. Memory trick: WILL → V1
+
+50. By next Friday she will have ____ the results.
+ (1) check
+ (2) checked
+ (3) checking
+ (4) checked
+Answer: 4
+Explanation: Will have + V3 before a future deadline. Memory trick: BY + future time → will have + V3
+
+51. Every Monday, she ____ the assignment.
+ (1) finish
+ (2) finishes
+ (3) finishing
+ (4) finished
+Answer: 2
+Explanation: She is third-person singular, so use finishes. Memory trick: He/She/It → verb+s/es
+
+52. Look! She is ____ the assignment.
+ (1) finish
+ (2) finishing
+ (3) finished
+ (4) finished
+Answer: 2
+Explanation: Use is/am/are + verb-ing. Memory trick: NOW → am/is/are + ing
+
+53. She has already ____ the assignment.
+ (1) finished
+ (2) finished
+ (3) finishing
+ (4) finish
+Answer: 2
+Explanation: Has + past participle. Memory trick: HAS/HAVE → V3
+
+54. She has been ____ the assignment since morning.
+ (1) finish
+ (2) finished
+ (3) finishing
+ (4) finished
+Answer: 3
+Explanation: Has been + -ing expresses ongoing activity. Memory trick: SINCE/FOR → has/have been + ing
+
+55. Yesterday she ____ the assignment.
+ (1) finishes
+ (2) finished
+ (3) finished
+ (4) finishing
+Answer: 2
+Explanation: Finished time yesterday uses V2. Memory trick: YESTERDAY → V2
+
+56. At 6 p.m. yesterday she was ____ the assignment.
+ (1) finished
+ (2) finish
+ (3) finishing
+ (4) finishes
+Answer: 3
+Explanation: Was/were + -ing. Memory trick: WAS/WERE → ing
+
+57. Before the manager arrived, she had ____ the assignment.
+ (1) finished
+ (2) finishing
+ (3) finished
+ (4) finish
+Answer: 3
+Explanation: Earlier of two past events takes had + V3. Memory trick: EARLIER PAST → had + V3
+
+58. She had been ____ the assignment for an hour when I arrived.
+ (1) finishing
+ (2) finished
+ (3) finish
+ (4) finished
+Answer: 1
+Explanation: Had been + -ing + duration. Memory trick: HAD BEEN → ing
+
+59. Tomorrow she will ____ the assignment.
+ (1) finishes
+ (2) finishing
+ (3) finish
+ (4) finished
+Answer: 3
+Explanation: Will takes base verb. Memory trick: WILL → V1
+
+60. By next Friday she will have ____ the assignment.
+ (1) finish
+ (2) finished
+ (3) finishing
+ (4) finished
+Answer: 4
+Explanation: Will have + V3 before a future deadline. Memory trick: BY + future time → will have + V3
+
+61. Every Monday, she ____ the room.
+ (1) clean
+ (2) cleans
+ (3) cleaning
+ (4) cleaned
+Answer: 2
+Explanation: She is third-person singular, so use cleans. Memory trick: He/She/It → verb+s/es
+
+62. Look! She is ____ the room.
+ (1) clean
+ (2) cleaning
+ (3) cleaned
+ (4) cleaned
+Answer: 2
+Explanation: Use is/am/are + verb-ing. Memory trick: NOW → am/is/are + ing
+
+63. She has already ____ the room.
+ (1) cleaned
+ (2) cleaned
+ (3) cleaning
+ (4) clean
+Answer: 2
+Explanation: Has + past participle. Memory trick: HAS/HAVE → V3
+
+64. She has been ____ the room since morning.
+ (1) clean
+ (2) cleaned
+ (3) cleaning
+ (4) cleaned
+Answer: 3
+Explanation: Has been + -ing expresses ongoing activity. Memory trick: SINCE/FOR → has/have been + ing
+
+65. Yesterday she ____ the room.
+ (1) cleans
+ (2) cleaned
+ (3) cleaned
+ (4) cleaning
+Answer: 2
+Explanation: Finished time yesterday uses V2. Memory trick: YESTERDAY → V2
+
+66. At 6 p.m. yesterday she was ____ the room.
+ (1) cleaned
+ (2) clean
+ (3) cleaning
+ (4) cleans
+Answer: 3
+Explanation: Was/were + -ing. Memory trick: WAS/WERE → ing
+
+67. Before the manager arrived, she had ____ the room.
+ (1) cleaned
+ (2) cleaning
+ (3) cleaned
+ (4) clean
+Answer: 3
+Explanation: Earlier of two past events takes had + V3. Memory trick: EARLIER PAST → had + V3
+
+68. She had been ____ the room for an hour when I arrived.
+ (1) cleaning
+ (2) cleaned
+ (3) clean
+ (4) cleaned
+Answer: 1
+Explanation: Had been + -ing + duration. Memory trick: HAD BEEN → ing
+
+69. Tomorrow she will ____ the room.
+ (1) cleans
+ (2) cleaning
+ (3) clean
+ (4) cleaned
+Answer: 3
+Explanation: Will takes base verb. Memory trick: WILL → V1
+
+70. By next Friday she will have ____ the room.
+ (1) clean
+ (2) cleaned
+ (3) cleaning
+ (4) cleaned
+Answer: 4
+Explanation: Will have + V3 before a future deadline. Memory trick: BY + future time → will have + V3
+
+71. Every Monday, she ____ a website.
+ (1) design
+ (2) designs
+ (3) designing
+ (4) designed
+Answer: 2
+Explanation: She is third-person singular, so use designs. Memory trick: He/She/It → verb+s/es
+
+72. Look! She is ____ a website.
+ (1) design
+ (2) designing
+ (3) designed
+ (4) designed
+Answer: 2
+Explanation: Use is/am/are + verb-ing. Memory trick: NOW → am/is/are + ing
+
+73. She has already ____ a website.
+ (1) designed
+ (2) designed
+ (3) designing
+ (4) design
+Answer: 2
+Explanation: Has + past participle. Memory trick: HAS/HAVE → V3
+
+74. She has been ____ a website since morning.
+ (1) design
+ (2) designed
+ (3) designing
+ (4) designed
+Answer: 3
+Explanation: Has been + -ing expresses ongoing activity. Memory trick: SINCE/FOR → has/have been + ing
+
+75. Yesterday she ____ a website.
+ (1) designs
+ (2) designed
+ (3) designed
+ (4) designing
+Answer: 2
+Explanation: Finished time yesterday uses V2. Memory trick: YESTERDAY → V2
+
+76. At 6 p.m. yesterday she was ____ a website.
+ (1) designed
+ (2) design
+ (3) designing
+ (4) designs
+Answer: 3
+Explanation: Was/were + -ing. Memory trick: WAS/WERE → ing
+
+77. Before the manager arrived, she had ____ a website.
+ (1) designed
+ (2) designing
+ (3) designed
+ (4) design
+Answer: 3
+Explanation: Earlier of two past events takes had + V3. Memory trick: EARLIER PAST → had + V3
+
+78. She had been ____ a website for an hour when I arrived.
+ (1) designing
+ (2) designed
+ (3) design
+ (4) designed
+Answer: 1
+Explanation: Had been + -ing + duration. Memory trick: HAD BEEN → ing
+
+79. Tomorrow she will ____ a website.
+ (1) designs
+ (2) designing
+ (3) design
+ (4) designed
+Answer: 3
+Explanation: Will takes base verb. Memory trick: WILL → V1
+
+80. By next Friday she will have ____ a website.
+ (1) design
+ (2) designed
+ (3) designing
+ (4) designed
+Answer: 4
+Explanation: Will have + V3 before a future deadline. Memory trick: BY + future time → will have + V3
+
+81. Every Monday, she ____ the machine.
+ (1) repair
+ (2) repairs
+ (3) repairing
+ (4) repaired
+Answer: 2
+Explanation: She is third-person singular, so use repairs. Memory trick: He/She/It → verb+s/es
+
+82. Look! She is ____ the machine.
+ (1) repair
+ (2) repairing
+ (3) repaired
+ (4) repaired
+Answer: 2
+Explanation: Use is/am/are + verb-ing. Memory trick: NOW → am/is/are + ing
+
+83. She has already ____ the machine.
+ (1) repaired
+ (2) repaired
+ (3) repairing
+ (4) repair
+Answer: 2
+Explanation: Has + past participle. Memory trick: HAS/HAVE → V3
+
+84. She has been ____ the machine since morning.
+ (1) repair
+ (2) repaired
+ (3) repairing
+ (4) repaired
+Answer: 3
+Explanation: Has been + -ing expresses ongoing activity. Memory trick: SINCE/FOR → has/have been + ing
+
+85. Yesterday she ____ the machine.
+ (1) repairs
+ (2) repaired
+ (3) repaired
+ (4) repairing
+Answer: 2
+Explanation: Finished time yesterday uses V2. Memory trick: YESTERDAY → V2
+
+86. At 6 p.m. yesterday she was ____ the machine.
+ (1) repaired
+ (2) repair
+ (3) repairing
+ (4) repairs
+Answer: 3
+Explanation: Was/were + -ing. Memory trick: WAS/WERE → ing
+
+87. Before the manager arrived, she had ____ the machine.
+ (1) repaired
+ (2) repairing
+ (3) repaired
+ (4) repair
+Answer: 3
+Explanation: Earlier of two past events takes had + V3. Memory trick: EARLIER PAST → had + V3
+
+88. She had been ____ the machine for an hour when I arrived.
+ (1) repairing
+ (2) repaired
+ (3) repair
+ (4) repaired
+Answer: 1
+Explanation: Had been + -ing + duration. Memory trick: HAD BEEN → ing
+
+89. Tomorrow she will ____ the machine.
+ (1) repairs
+ (2) repairing
+ (3) repair
+ (4) repaired
+Answer: 3
+Explanation: Will takes base verb. Memory trick: WILL → V1
+
+90. By next Friday she will have ____ the machine.
+ (1) repair
+ (2) repaired
+ (3) repairing
+ (4) repaired
+Answer: 4
+Explanation: Will have + V3 before a future deadline. Memory trick: BY + future time → will have + V3
+
+91. Every Monday, she ____ the event.
+ (1) organize
+ (2) organizes
+ (3) organizing
+ (4) organized
+Answer: 2
+Explanation: She is third-person singular, so use organizes. Memory trick: He/She/It → verb+s/es
+
+92. Look! She is ____ the event.
+ (1) organize
+ (2) organizing
+ (3) organized
+ (4) organized
+Answer: 2
+Explanation: Use is/am/are + verb-ing. Memory trick: NOW → am/is/are + ing
+
+93. She has already ____ the event.
+ (1) organized
+ (2) organized
+ (3) organizing
+ (4) organize
+Answer: 2
+Explanation: Has + past participle. Memory trick: HAS/HAVE → V3
+
+94. She has been ____ the event since morning.
+ (1) organize
+ (2) organized
+ (3) organizing
+ (4) organized
+Answer: 3
+Explanation: Has been + -ing expresses ongoing activity. Memory trick: SINCE/FOR → has/have been + ing
+
+95. Yesterday she ____ the event.
+ (1) organizes
+ (2) organized
+ (3) organized
+ (4) organizing
+Answer: 2
+Explanation: Finished time yesterday uses V2. Memory trick: YESTERDAY → V2
+
+96. At 6 p.m. yesterday she was ____ the event.
+ (1) organized
+ (2) organize
+ (3) organizing
+ (4) organizes
+Answer: 3
+Explanation: Was/were + -ing. Memory trick: WAS/WERE → ing
+
+97. Before the manager arrived, she had ____ the event.
+ (1) organized
+ (2) organizing
+ (3) organized
+ (4) organize
+Answer: 3
+Explanation: Earlier of two past events takes had + V3. Memory trick: EARLIER PAST → had + V3
+
+98. She had been ____ the event for an hour when I arrived.
+ (1) organizing
+ (2) organized
+ (3) organize
+ (4) organized
+Answer: 1
+Explanation: Had been + -ing + duration. Memory trick: HAD BEEN → ing
+
+99. Tomorrow she will ____ the event.
+ (1) organizes
+ (2) organizing
+ (3) organize
+ (4) organized
+Answer: 3
+Explanation: Will takes base verb. Memory trick: WILL → V1
+
+100. By next Friday she will have ____ the event.
+ (1) organize
+ (2) organized
+ (3) organizing
+ (4) organized
+Answer: 4
+Explanation: Will have + V3 before a future deadline. Memory trick: BY + future time → will have + V3
+
