@@ -1,0 +1,51 @@
+MPSC PRACTICE STUDIO — INTERACTION RULES SYNC QA
+Date: 2026-10-14
+
+APPLIED TO 23 HANDWRITTEN-PLAN TOPIC PAGES
+- Question shuffle on session start.
+- Answer-option shuffle on session start.
+- Reshuffle on refresh/reload (default ON) while retaining selected answers through stable question IDs + original option indices.
+- If reshuffle-on-reload is manually disabled, saved display order is preserved.
+- Timed exam and untimed practice modes.
+- Auto-submit when timed exam reaches zero.
+- Configurable timer and negative marking.
+- Optional answer lock.
+- Autosave/resume.
+- Mark for review, clear answer, question palette.
+- Practice check-answer mode.
+- Scratch note per question.
+- A-/A+/Reset text sizing.
+- Catppuccin Mocha/Latte theme.
+- Desktop/mobile responsive glass UI.
+- Keyboard 1–4, N/P or arrows, R review flag.
+- Result: correct/wrong/unanswered, accuracy, percent, net marks.
+- PYQ/source-group performance and focus guidance.
+- Answer review with explanations/source links.
+- >=70% confetti celebration.
+- Retry wrong/unanswered.
+- 20-attempt local history.
+- JSON / CSV result export.
+- Attempt backup/import.
+- Print report.
+
+EXISTING CORE PAGES
+marathi.html, english.html, chemistry.html, geometry.html, tenses.html and conditionals.html already contained the earlier advanced rules including question/option shuffle and reshuffle-on-reload. They were retained.
+
+FULL PAPER 2024
+- Added question shuffle, option shuffle and reshuffle-on-refresh/reload controls (default ON).
+- Selected answers remain tied to original answer IDs.
+- Exam display uses A/B/C/D after option shuffling while the original source key option number remains available in feedback.
+- Source/text reader keeps original question and option order.
+- Original source numbering remains visible.
+- Q69 remains cancelled and excluded from scoring.
+
+CONTENT PRESERVATION
+This rules update did not rewrite the question wording, four options, authored explanations or answer-key indices in new_topics_question_banks.json.
+
+STATIC QA PASSED
+- 23/23 new topic banks have exactly 20 questions.
+- Every new question has exactly 4 unique answer options.
+- Every new answer index is within 0..3.
+- JavaScript syntax check passed for all executable script blocks in all 31 HTML files.
+- All local links referenced by index.html resolve to existing files.
+- Required interaction feature markers are present in all 23 upgraded pages.

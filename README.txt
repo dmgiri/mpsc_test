@@ -75,3 +75,16 @@ Added directly into this original mpsc_test-main package:
 - New topic source data: new_topics_question_banks.json
 - Automated structural validation: new_topics_verification_report.json
 - index.html updated to link every new page.
+
+
+=== 2026-10-14 INTERACTION RULES SYNC ===
+The 23 handwritten-plan topic pages were upgraded to the same interaction rules used in the earlier topic portals:
+- Questions and answer options shuffle on new sessions.
+- With Reshuffle on reload enabled (default), both reshuffle on refresh/reload while selected answers remain attached to stable IDs.
+- Timed exam and untimed practice modes; timer auto-submits on expiry.
+- Configurable wrong-answer penalty, answer lock, mark for review, clear answer, scratch notes, autosave, responsive palette, keyboard shortcuts and A-/A+ font sizing.
+- Catppuccin Mocha/Latte responsive glass UI for desktop/mobile.
+- Results include correct/wrong/unanswered, accuracy, net marks, source/PYQ analysis, focus guidance, answer review and >=70% confetti.
+- 20-attempt local history, retry wrong/unanswered, JSON/CSV exports, attempt backup/import and print report.
+- Question wording/options/answer keys in new_topics_question_banks.json were not rewritten by this interaction update.
+- The Group C 2024 full-paper exam now also offers question/option shuffle in the exam display. Original source order remains available in its text/source reader; Q69 remains cancelled and excluded from scoring.
