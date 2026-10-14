@@ -1,0 +1,293 @@
+{
+  "generated_on": "2026-10-14",
+  "new_topic_pages": 23,
+  "questions_per_new_topic": 20,
+  "total_new_questions": 460,
+  "previous_portals_added": [
+    "MPSC Group C 2024 full exam",
+    "English Tenses 100Q",
+    "Conditional Sentences 100Q"
+  ],
+  "checks": {
+    "all_topic_counts_20": true,
+    "all_question_checks_pass": true
+  },
+  "topics": {
+    "political-current-2026": {
+      "title": "राजकीय घडामोडी 2026",
+      "category": "चालू घडामोडी",
+      "pyq_or_pattern_count": 0,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "awards-2026": {
+      "title": "महत्त्वाचे पुरस्कार 2026",
+      "category": "चालू घडामोडी",
+      "pyq_or_pattern_count": 0,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "conferences-festivals-2026": {
+      "title": "परिषद व महोत्सव 2026",
+      "category": "चालू घडामोडी",
+      "pyq_or_pattern_count": 0,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "time-work": {
+      "title": "काळ व काम",
+      "category": "गणित",
+      "pyq_or_pattern_count": 3,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "lcm-hcf": {
+      "title": "लसावी–मसावी",
+      "category": "गणित",
+      "pyq_or_pattern_count": 3,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "data-interpretation": {
+      "title": "Data Interpretation",
+      "category": "गणित",
+      "pyq_or_pattern_count": 2,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "maharashtra-census": {
+      "title": "महाराष्ट्र जनगणना",
+      "category": "भूगोल/जनगणना",
+      "pyq_or_pattern_count": 3,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "india-census": {
+      "title": "भारत जनगणना",
+      "category": "भूगोल/जनगणना",
+      "pyq_or_pattern_count": 0,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "physical-geography-india": {
+      "title": "भारताचा प्राकृतिक भूगोल",
+      "category": "भूगोल",
+      "pyq_or_pattern_count": 1,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "constitutional-amendments": {
+      "title": "घटनादुरुस्ती",
+      "category": "राज्यशास्त्र",
+      "pyq_or_pattern_count": 2,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "directive-principles": {
+      "title": "मार्गदर्शक तत्त्वे",
+      "category": "राज्यशास्त्र",
+      "pyq_or_pattern_count": 1,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "citizenship": {
+      "title": "नागरिकत्व",
+      "category": "राज्यशास्त्र",
+      "pyq_or_pattern_count": 3,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "preamble": {
+      "title": "प्रस्तावना",
+      "category": "राज्यशास्त्र",
+      "pyq_or_pattern_count": 2,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "union-territory": {
+      "title": "संघराज्य & राज्यक्षेत्र",
+      "category": "राज्यशास्त्र",
+      "pyq_or_pattern_count": 2,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "marathi-word-study": {
+      "title": "शब्दविचार",
+      "category": "मराठी व्याकरण",
+      "pyq_or_pattern_count": 1,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "marathi-gender": {
+      "title": "लिंगविचार",
+      "category": "मराठी व्याकरण",
+      "pyq_or_pattern_count": 0,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "marathi-number": {
+      "title": "वचनविचार",
+      "category": "मराठी व्याकरण",
+      "pyq_or_pattern_count": 0,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "marathi-case": {
+      "title": "विभक्ती विचार",
+      "category": "मराठी व्याकरण",
+      "pyq_or_pattern_count": 1,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "marathi-inflection": {
+      "title": "सामान्यरूप",
+      "category": "मराठी व्याकरण",
+      "pyq_or_pattern_count": 1,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "marathi-pronouns": {
+      "title": "सर्वनामे",
+      "category": "मराठी व्याकरण",
+      "pyq_or_pattern_count": 2,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "marathi-nouns": {
+      "title": "नाम",
+      "category": "मराठी व्याकरण",
+      "pyq_or_pattern_count": 2,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "marathi-synonyms": {
+      "title": "मराठीचे समानार्थी शब्द",
+      "category": "मराठी शब्दसंग्रह",
+      "pyq_or_pattern_count": 1,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    },
+    "marathi-idioms-proverbs": {
+      "title": "म्हणी & वाक्प्रचार",
+      "category": "मराठी शब्दसंग्रह",
+      "pyq_or_pattern_count": 3,
+      "checks": {
+        "count": 20,
+        "unique_questions": true,
+        "all_answers_in_range": true,
+        "four_options": true,
+        "unique_options": true
+      }
+    }
+  }
+}

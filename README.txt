@@ -65,3 +65,13 @@ Uploaded papers: Group C 2018-2023 Language.pdf; Group B   C Pre Papers 2017 to 
 Additional PYQ listings: individual Testbook, Prepp and MPSCS question pages linked in question-bank JSON and post-submission provenance panels.
 Palette: https://catppuccin.com/palette/
 No paid-course copies or external fonts are included. Everything needed for the topic interfaces is embedded in the HTMLs. External source pages require internet and may have their own access restrictions.
+
+
+=== 2026-10-14 HANDWRITTEN PLAN UPDATE ===
+Added directly into this original mpsc_test-main package:
+- 23 separate topic HTML exams
+- 20 questions per new topic (460 new questions)
+- Topics: 2026 political current affairs, awards, conferences/festivals, Time & Work, LCM/HCF, Data Interpretation, Maharashtra Census, India Census, Physical Geography of India, Constitutional Amendments, Directive Principles, Citizenship, Preamble, Union & Territories, and 9 Marathi grammar/vocabulary topics.
+- New topic source data: new_topics_question_banks.json
+- Automated structural validation: new_topics_verification_report.json
+- index.html updated to link every new page.

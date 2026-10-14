@@ -41,5 +41,86 @@
     "source_families": {
       "Practice": 50
     }
+  },
+  "handwritten_plan_topics": {
+    "topic_pages": 23,
+    "questions_per_topic": 20,
+    "total_questions": 460,
+    "topics": {
+      "political-current-2026": {
+        "questions": 20
+      },
+      "awards-2026": {
+        "questions": 20
+      },
+      "conferences-festivals-2026": {
+        "questions": 20
+      },
+      "time-work": {
+        "questions": 20
+      },
+      "lcm-hcf": {
+        "questions": 20
+      },
+      "data-interpretation": {
+        "questions": 20
+      },
+      "maharashtra-census": {
+        "questions": 20
+      },
+      "india-census": {
+        "questions": 20
+      },
+      "physical-geography-india": {
+        "questions": 20
+      },
+      "constitutional-amendments": {
+        "questions": 20
+      },
+      "directive-principles": {
+        "questions": 20
+      },
+      "citizenship": {
+        "questions": 20
+      },
+      "preamble": {
+        "questions": 20
+      },
+      "union-territory": {
+        "questions": 20
+      },
+      "marathi-word-study": {
+        "questions": 20
+      },
+      "marathi-gender": {
+        "questions": 20
+      },
+      "marathi-number": {
+        "questions": 20
+      },
+      "marathi-case": {
+        "questions": 20
+      },
+      "marathi-inflection": {
+        "questions": 20
+      },
+      "marathi-pronouns": {
+        "questions": 20
+      },
+      "marathi-nouns": {
+        "questions": 20
+      },
+      "marathi-synonyms": {
+        "questions": 20
+      },
+      "marathi-idioms-proverbs": {
+        "questions": 20
+      }
+    }
+  },
+  "summary": {
+    "topic_exams": 29,
+    "topic_questions": 910,
+    "includes_full_paper_2024": true
   }
 }
